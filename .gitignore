@@ -1,0 +1,14 @@
+.godot/
+**/.godot/
+__pycache__/
+*.pyc
+*.pck
+*.zip
+*.log
+*.lnk
+*-journal.json
+.env
+.env.*
+friends-release.json
+runtime/
+backups/

@@ -1,0 +1,17 @@
+{
+  "passed": true,
+  "species": 16,
+  "checks_per_run": 2335,
+  "bath_routes": [
+    "furniture click -> natural approach",
+    "pet drop -> natural approach"
+  ],
+  "drink_routes": [
+    "home_water",
+    "home_tea",
+    "daily"
+  ],
+  "duplicate_mug_check": "Embedded mug retained; extra lifestyle prop and shader meal disabled on all routes",
+  "existing_save": "Unchanged during validation; actual bath will be introduced once on next normal launch",
+  "pack_sha256": "61f9d819f44affb5eed0abcc7b727af232647777d608d4e0836919706d675c37"
+}

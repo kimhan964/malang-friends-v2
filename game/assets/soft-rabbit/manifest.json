@@ -1,0 +1,64 @@
+{
+  "version": 27,
+  "species": "rabbit",
+  "stages": {
+    "baby": {
+      "file": "walk.png",
+      "idle_file": "adult-idle.png",
+      "count": 24,
+      "columns": 8,
+      "reference_height": 210,
+      "cycle_seconds": 1.6,
+      "playback_seconds": 1.6,
+      "stride": 36,
+      "root": [
+        128,
+        232
+      ],
+      "view": "fixed_three_quarter_side_alternating_cross_step",
+      "gait": "heel_contact_weight_acceptance_passing_push_off_opposite_contact",
+      "source_key_count": 8,
+      "contact_windows": [
+        [
+          6,
+          30
+        ],
+        [
+          54,
+          78
+        ]
+      ],
+      "contact_registration": "fixed_grounded_root_no_limb_rig",
+      "interpolated_frames": 16
+    },
+    "adult": {
+      "file": "walk.png",
+      "idle_file": "adult-idle.png",
+      "count": 24,
+      "columns": 8,
+      "reference_height": 210,
+      "cycle_seconds": 1.6,
+      "playback_seconds": 1.6,
+      "stride": 36,
+      "root": [
+        128,
+        232
+      ],
+      "view": "fixed_three_quarter_side_alternating_cross_step",
+      "gait": "heel_contact_weight_acceptance_passing_push_off_opposite_contact",
+      "source_key_count": 8,
+      "contact_windows": [
+        [
+          6,
+          30
+        ],
+        [
+          54,
+          78
+        ]
+      ],
+      "contact_registration": "fixed_grounded_root_no_limb_rig",
+      "interpolated_frames": 16
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "species": "hamster",
+  "reference_height": 205,
+  "source_reference_height": 207,
+  "standing_used_height": 182,
+  "cell": 256,
+  "anchor": [
+    128,
+    232
+  ],
+  "method": "20 generated whole-body keys, full-frame RIFE inbetweens; no chopped limb rig",
+  "sequences": {
+    "carry": {
+      "file": "carry.png",
+      "count": 32,
+      "columns": 8,
+      "duration": 2.8,
+      "loop": true,
+      "generated_keys": 4
+    },
+    "struggle": {
+      "file": "struggle.png",
+      "count": 32,
+      "columns": 8,
+      "duration": 1.4,
+      "loop": true,
+      "generated_keys": 4
+    },
+    "landing": {
+      "file": "landing.png",
+      "count": 32,
+      "columns": 8,
+      "duration": 0.45,
+      "loop": false,
+      "generated_keys": 4
+    },
+    "dizzy": {
+      "file": "dizzy.png",
+      "count": 32,
+      "columns": 8,
+      "duration": 1.4,
+      "loop": true,
+      "generated_keys": 4
+    },
+    "recover": {
+      "file": "recover.png",
+      "count": 32,
+      "columns": 8,
+      "duration": 0.65,
+      "loop": false,
+      "generated_keys": 4
+    }
+  }
+}

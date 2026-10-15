@@ -1,0 +1,26 @@
+{
+  "name": "말랑친구 v2",
+  "snapshot_date": "2026-10-16",
+  "resources": 1606,
+  "resource_bytes": 862021625,
+  "engine": "Godot 4.7.2",
+  "runtime_sha256": {
+    "DesktopFriends.exe": "50d6f4a44c96284e94e249b78cbb17a0368f706881d68eb87da243ee4bdc8431",
+    "DesktopFriends.pck": "bb98bb710a80cdd9bddec6d8f1b80fa33dbd4c45fdb1bd5c2b9cb3dba5fb9722",
+    "animal-packs/pet-bear.pck": "26a64fea8269e3c577f4c873c30a295607f8a54423c0aa6c81d009221939058e",
+    "animal-packs/pet-cat.pck": "2ab22f6dce8a79f9d04ae058c8282faa20dd040dd4aaa5c20018c6ac156327ad",
+    "animal-packs/pet-fox.pck": "f87f0f1223866eecaaf924e1ba86075f4f0f7fdc8c2697ad51e387d03af47c67",
+    "animal-packs/pet-hamster.pck": "6f65e764a8454988e73edeb14c085e725335457d5e2b8012d5c3ee95bb5b901d",
+    "animal-packs/pet-hedgehog.pck": "19ce355b67e253e14eda6e5394563729ebf8a0024b6d578adb28864027c272fe",
+    "animal-packs/pet-koala.pck": "7591b46be255a8cec67ba45e8d88be6db3501a124a0d444835cb022d956d9406",
+    "animal-packs/pet-lamb.pck": "212fce4c907ca252bb188a1033b09b30658a903006915b06a7d1a1884f64b7d2",
+    "animal-packs/pet-otter.pck": "4411d16f54ff5256f76702d9edff6becaf0791c218a25c3c199d99c5170aa2c5",
+    "animal-packs/pet-owl.pck": "24868a98adc9adc4d503e76193cded6b249cbba44ad5cca5ac49508b86caa36f",
+    "animal-packs/pet-panda.pck": "0aed96670baab228c7785227294741c0d76b9989e4e94bfe2c5625be4e1ddb85",
+    "animal-packs/pet-penguin.pck": "b53ac7eb53834a5f46aeea920c77f75abdabe841254d2a02ac68dd9f2701e65d",
+    "animal-packs/pet-puppy.pck": "d97de96bb2c5672ed432b3eecb3851bbe54126d7c5218d1a51d916849d37205f",
+    "animal-packs/pet-raccoon.pck": "999010644efefe989c4cca9bb8f141813a4df0f134ea70d30a75958ee3527ac6",
+    "animal-packs/pet-red_panda.pck": "0e8bf68052147154eca6756e6bf16b403c8ba2b4d9b875b94f1b69d63996e940",
+    "animal-packs/pet-squirrel.pck": "2d777fe28456593b4eae5ba601973701d4a014d9f773300be8c50cbc306cd3de"
+  }
+}

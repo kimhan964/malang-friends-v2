@@ -1,0 +1,20 @@
+{
+  "passed": true,
+  "species": 16,
+  "headless_checks": 1600,
+  "native_checks": 100,
+  "seconds": {
+    "bath": 43.6,
+    "daybed": 43.6,
+    "reading": 33.6,
+    "sofa": 30.8,
+    "tea": 28.8,
+    "plush": 24.4,
+    "basket": 25.6,
+    "daily_study": 38.4
+  },
+  "playback": "original tempo loops; entry and exit remain short",
+  "basket": "approach beside basket -> take carrot plush -> hug -> return; no legacy ball request",
+  "save_preserved_during_validation": true,
+  "pack_sha256": "bb98bb710a80cdd9bddec6d8f1b80fa33dbd4c45fdb1bd5c2b9cb3dba5fb9722"
+}

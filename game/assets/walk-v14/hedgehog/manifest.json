@@ -1,0 +1,39 @@
+{
+  "version": 16,
+  "species": "hedgehog",
+  "method": "24 image-generated whole-body poses plus 72 local RIFE full-image inbetweens; no separated anatomy, no runtime deformation or crossfade",
+  "stages": {
+    "adult": {
+      "file": "adult.png",
+      "idle_file": "adult-idle.png",
+      "count": 96,
+      "columns": 8,
+      "reference_height": 210,
+      "cycle_seconds": 2.8,
+      "stride": 42,
+      "source_key_count": 24,
+      "gait": "biped_grounded",
+      "root": [
+        128,
+        232
+      ],
+      "playback_seconds": 2.8
+    },
+    "baby": {
+      "file": "adult.png",
+      "idle_file": "adult-idle.png",
+      "count": 96,
+      "columns": 8,
+      "reference_height": 210,
+      "cycle_seconds": 2.8,
+      "stride": 42,
+      "source_key_count": 24,
+      "gait": "biped_grounded",
+      "root": [
+        128,
+        232
+      ],
+      "playback_seconds": 2.8
+    }
+  }
+}

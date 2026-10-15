@@ -1,0 +1,43 @@
+{
+  "species": "panda",
+  "reference_height": 205,
+  "anchor": [
+    128,
+    232
+  ],
+  "sequences": {
+    "sofa": {
+      "file": "sofa.png",
+      "count": 32,
+      "columns": 8,
+      "duration": 3.2,
+      "enter_file": "sofa-enter.png",
+      "enter_count": 17
+    },
+    "bed": {
+      "file": "bed.png",
+      "count": 32,
+      "columns": 8,
+      "duration": 4.8,
+      "enter_file": "bed-enter.png",
+      "enter_count": 17
+    },
+    "play": {
+      "file": "play.png",
+      "count": 32,
+      "columns": 8,
+      "duration": 2.4,
+      "enter_file": "play-enter.png",
+      "enter_count": 17
+    },
+    "bath": {
+      "file": "bath.png",
+      "count": 32,
+      "columns": 8,
+      "duration": 2.4,
+      "enter_file": "bath-enter.png",
+      "enter_count": 17
+    }
+  },
+  "method": "16 generated full-body keys, whole-image inbetweens plus whole-body enter/leave"
+}

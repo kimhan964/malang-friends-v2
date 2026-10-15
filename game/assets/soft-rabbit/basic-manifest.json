@@ -1,0 +1,57 @@
+{
+  "height": 210,
+  "root": [
+    128,
+    232
+  ],
+  "sequences": {
+    "idle": {
+      "file": "idle.png",
+      "count": 32,
+      "columns": 8,
+      "duration": 4.8,
+      "source_poses": 4,
+      "distinct": 32,
+      "clipped": [],
+      "ground_y": [
+        232
+      ]
+    },
+    "pet": {
+      "file": "pet.png",
+      "count": 32,
+      "columns": 8,
+      "duration": 2.4,
+      "source_poses": 4,
+      "distinct": 32,
+      "clipped": [],
+      "ground_y": [
+        232
+      ]
+    },
+    "sleep": {
+      "file": "sleep.png",
+      "count": 32,
+      "columns": 8,
+      "duration": 6.0,
+      "source_poses": 4,
+      "distinct": 31,
+      "clipped": [],
+      "ground_y": [
+        232
+      ]
+    },
+    "eat": {
+      "file": "eat.png",
+      "count": 32,
+      "columns": 8,
+      "duration": 2.8,
+      "source_poses": 4,
+      "distinct": 32,
+      "clipped": [],
+      "ground_y": [
+        232
+      ]
+    }
+  }
+}

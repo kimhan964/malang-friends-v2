@@ -1,0 +1,37 @@
+{
+  "version": 1,
+  "species": "rabbit",
+  "method": "Generated whole poses, offline RIFE, no runtime blending or limb rigs",
+  "stages": {
+    "adult": {
+      "file": "adult.png",
+      "count": 60,
+      "columns": 8,
+      "reference_height": 204.0,
+      "cycle_seconds": 1.4,
+      "root": [
+        128,
+        232
+      ],
+      "grip": [
+        128,
+        119.8
+      ]
+    },
+    "baby": {
+      "file": "baby.png",
+      "count": 60,
+      "columns": 8,
+      "reference_height": 204.0,
+      "cycle_seconds": 1.4,
+      "root": [
+        128,
+        232
+      ],
+      "grip": [
+        128,
+        119.8
+      ]
+    }
+  }
+}

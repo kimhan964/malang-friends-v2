@@ -1,0 +1,6405 @@
+{
+	"checks": [
+		{
+			"check": "duration initialized 4x 0/home_sofa",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 0/home_sofa",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 0/home_sofa",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 0/home_sofa",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 0/home_tea",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 0/home_tea",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 0/home_tea",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 0/home_tea",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 0/home_shelf",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 0/home_shelf",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 0/home_shelf",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 0/home_shelf",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 0/home_lamp",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 0/home_lamp",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 0/home_lamp",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 0/home_lamp",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 0/home_reading_chair",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 0/home_reading_chair",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 0/home_reading_chair",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 0/home_reading_chair",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 0/home_daybed",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 0/home_daybed",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 0/home_daybed",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 0/home_daybed",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 0/home_vanity",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 0/home_vanity",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 0/home_vanity",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 0/home_vanity",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 0/home_record_player",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 0/home_record_player",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 0/home_record_player",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 0/home_record_player",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 0/home_play_rug",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 0/home_play_rug",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 0/home_play_rug",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 0/home_play_rug",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 0/home_window_seat",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 0/home_window_seat",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 0/home_window_seat",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 0/home_window_seat",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 0/home_tv",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 0/home_tv",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 0/home_tv",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 0/home_tv",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 0/home_turntable",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 0/home_turntable",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 0/home_turntable",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 0/home_turntable",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 0/home_wall_shelf",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 0/home_wall_shelf",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 0/home_wall_shelf",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 0/home_wall_shelf",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 0/home_dresser",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 0/home_dresser",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 0/home_dresser",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 0/home_dresser",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 0/home_fireplace",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 0/home_fireplace",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 0/home_fireplace",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 0/home_fireplace",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 0/home_bathtub",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 0/home_bathtub",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 0/home_bathtub",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 0/home_bathtub",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 0/home_toy_plush",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 0/home_toy_plush",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 0/home_toy_plush",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 0/home_toy_plush",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 0/drink",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 0/drink",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 0/sing",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 0/sing",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 0/study",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 0/study",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 0/work",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 0/work",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 0/pajama",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 0/pajama",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 0/fight",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 0/fight",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 0/sad",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 0/sad",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 0/peek",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 0/peek",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 0/happy",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 0/happy",
+			"passed": true
+		},
+		{
+			"check": "plush controller respects extended duration 0",
+			"passed": true
+		},
+		{
+			"check": "basket click starts dedicated play 0",
+			"passed": true
+		},
+		{
+			"check": "animal stands beside basket 0",
+			"passed": true
+		},
+		{
+			"check": "basket uses whole-body play 0/0.8",
+			"passed": true
+		},
+		{
+			"check": "basket toy replaces legacy ball request 0/0.8",
+			"passed": true
+		},
+		{
+			"check": "basket uses whole-body play 0/1.5",
+			"passed": true
+		},
+		{
+			"check": "basket toy replaces legacy ball request 0/1.5",
+			"passed": true
+		},
+		{
+			"check": "basket uses whole-body play 0/2.5",
+			"passed": true
+		},
+		{
+			"check": "basket toy replaces legacy ball request 0/2.5",
+			"passed": true
+		},
+		{
+			"check": "basket uses whole-body play 0/10.0",
+			"passed": true
+		},
+		{
+			"check": "basket toy replaces legacy ball request 0/10.0",
+			"passed": true
+		},
+		{
+			"check": "basket uses whole-body play 0/24.6",
+			"passed": true
+		},
+		{
+			"check": "basket toy replaces legacy ball request 0/24.6",
+			"passed": true
+		},
+		{
+			"check": "basket cancellation cleans toy and wobble 0",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 1/home_sofa",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 1/home_sofa",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 1/home_sofa",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 1/home_sofa",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 1/home_tea",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 1/home_tea",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 1/home_tea",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 1/home_tea",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 1/home_shelf",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 1/home_shelf",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 1/home_shelf",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 1/home_shelf",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 1/home_lamp",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 1/home_lamp",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 1/home_lamp",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 1/home_lamp",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 1/home_reading_chair",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 1/home_reading_chair",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 1/home_reading_chair",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 1/home_reading_chair",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 1/home_daybed",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 1/home_daybed",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 1/home_daybed",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 1/home_daybed",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 1/home_vanity",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 1/home_vanity",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 1/home_vanity",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 1/home_vanity",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 1/home_record_player",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 1/home_record_player",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 1/home_record_player",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 1/home_record_player",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 1/home_play_rug",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 1/home_play_rug",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 1/home_play_rug",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 1/home_play_rug",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 1/home_window_seat",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 1/home_window_seat",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 1/home_window_seat",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 1/home_window_seat",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 1/home_tv",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 1/home_tv",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 1/home_tv",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 1/home_tv",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 1/home_turntable",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 1/home_turntable",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 1/home_turntable",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 1/home_turntable",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 1/home_wall_shelf",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 1/home_wall_shelf",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 1/home_wall_shelf",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 1/home_wall_shelf",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 1/home_dresser",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 1/home_dresser",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 1/home_dresser",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 1/home_dresser",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 1/home_fireplace",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 1/home_fireplace",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 1/home_fireplace",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 1/home_fireplace",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 1/home_bathtub",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 1/home_bathtub",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 1/home_bathtub",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 1/home_bathtub",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 1/home_toy_plush",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 1/home_toy_plush",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 1/home_toy_plush",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 1/home_toy_plush",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 1/drink",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 1/drink",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 1/sing",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 1/sing",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 1/study",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 1/study",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 1/work",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 1/work",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 1/pajama",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 1/pajama",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 1/fight",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 1/fight",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 1/sad",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 1/sad",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 1/peek",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 1/peek",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 1/happy",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 1/happy",
+			"passed": true
+		},
+		{
+			"check": "plush controller respects extended duration 1",
+			"passed": true
+		},
+		{
+			"check": "basket click starts dedicated play 1",
+			"passed": true
+		},
+		{
+			"check": "animal stands beside basket 1",
+			"passed": true
+		},
+		{
+			"check": "basket uses whole-body play 1/0.8",
+			"passed": true
+		},
+		{
+			"check": "basket toy replaces legacy ball request 1/0.8",
+			"passed": true
+		},
+		{
+			"check": "basket uses whole-body play 1/1.5",
+			"passed": true
+		},
+		{
+			"check": "basket toy replaces legacy ball request 1/1.5",
+			"passed": true
+		},
+		{
+			"check": "basket uses whole-body play 1/2.5",
+			"passed": true
+		},
+		{
+			"check": "basket toy replaces legacy ball request 1/2.5",
+			"passed": true
+		},
+		{
+			"check": "basket uses whole-body play 1/10.0",
+			"passed": true
+		},
+		{
+			"check": "basket toy replaces legacy ball request 1/10.0",
+			"passed": true
+		},
+		{
+			"check": "basket uses whole-body play 1/24.6",
+			"passed": true
+		},
+		{
+			"check": "basket toy replaces legacy ball request 1/24.6",
+			"passed": true
+		},
+		{
+			"check": "basket cancellation cleans toy and wobble 1",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 2/home_sofa",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 2/home_sofa",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 2/home_sofa",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 2/home_sofa",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 2/home_tea",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 2/home_tea",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 2/home_tea",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 2/home_tea",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 2/home_shelf",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 2/home_shelf",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 2/home_shelf",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 2/home_shelf",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 2/home_lamp",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 2/home_lamp",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 2/home_lamp",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 2/home_lamp",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 2/home_reading_chair",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 2/home_reading_chair",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 2/home_reading_chair",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 2/home_reading_chair",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 2/home_daybed",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 2/home_daybed",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 2/home_daybed",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 2/home_daybed",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 2/home_vanity",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 2/home_vanity",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 2/home_vanity",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 2/home_vanity",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 2/home_record_player",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 2/home_record_player",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 2/home_record_player",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 2/home_record_player",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 2/home_play_rug",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 2/home_play_rug",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 2/home_play_rug",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 2/home_play_rug",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 2/home_window_seat",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 2/home_window_seat",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 2/home_window_seat",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 2/home_window_seat",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 2/home_tv",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 2/home_tv",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 2/home_tv",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 2/home_tv",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 2/home_turntable",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 2/home_turntable",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 2/home_turntable",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 2/home_turntable",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 2/home_wall_shelf",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 2/home_wall_shelf",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 2/home_wall_shelf",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 2/home_wall_shelf",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 2/home_dresser",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 2/home_dresser",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 2/home_dresser",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 2/home_dresser",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 2/home_fireplace",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 2/home_fireplace",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 2/home_fireplace",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 2/home_fireplace",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 2/home_bathtub",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 2/home_bathtub",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 2/home_bathtub",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 2/home_bathtub",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 2/home_toy_plush",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 2/home_toy_plush",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 2/home_toy_plush",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 2/home_toy_plush",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 2/drink",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 2/drink",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 2/sing",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 2/sing",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 2/study",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 2/study",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 2/work",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 2/work",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 2/pajama",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 2/pajama",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 2/fight",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 2/fight",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 2/sad",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 2/sad",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 2/peek",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 2/peek",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 2/happy",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 2/happy",
+			"passed": true
+		},
+		{
+			"check": "plush controller respects extended duration 2",
+			"passed": true
+		},
+		{
+			"check": "basket click starts dedicated play 2",
+			"passed": true
+		},
+		{
+			"check": "animal stands beside basket 2",
+			"passed": true
+		},
+		{
+			"check": "basket uses whole-body play 2/0.8",
+			"passed": true
+		},
+		{
+			"check": "basket toy replaces legacy ball request 2/0.8",
+			"passed": true
+		},
+		{
+			"check": "basket uses whole-body play 2/1.5",
+			"passed": true
+		},
+		{
+			"check": "basket toy replaces legacy ball request 2/1.5",
+			"passed": true
+		},
+		{
+			"check": "basket uses whole-body play 2/2.5",
+			"passed": true
+		},
+		{
+			"check": "basket toy replaces legacy ball request 2/2.5",
+			"passed": true
+		},
+		{
+			"check": "basket uses whole-body play 2/10.0",
+			"passed": true
+		},
+		{
+			"check": "basket toy replaces legacy ball request 2/10.0",
+			"passed": true
+		},
+		{
+			"check": "basket uses whole-body play 2/24.6",
+			"passed": true
+		},
+		{
+			"check": "basket toy replaces legacy ball request 2/24.6",
+			"passed": true
+		},
+		{
+			"check": "basket cancellation cleans toy and wobble 2",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 3/home_sofa",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 3/home_sofa",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 3/home_sofa",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 3/home_sofa",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 3/home_tea",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 3/home_tea",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 3/home_tea",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 3/home_tea",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 3/home_shelf",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 3/home_shelf",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 3/home_shelf",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 3/home_shelf",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 3/home_lamp",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 3/home_lamp",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 3/home_lamp",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 3/home_lamp",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 3/home_reading_chair",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 3/home_reading_chair",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 3/home_reading_chair",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 3/home_reading_chair",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 3/home_daybed",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 3/home_daybed",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 3/home_daybed",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 3/home_daybed",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 3/home_vanity",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 3/home_vanity",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 3/home_vanity",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 3/home_vanity",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 3/home_record_player",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 3/home_record_player",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 3/home_record_player",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 3/home_record_player",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 3/home_play_rug",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 3/home_play_rug",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 3/home_play_rug",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 3/home_play_rug",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 3/home_window_seat",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 3/home_window_seat",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 3/home_window_seat",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 3/home_window_seat",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 3/home_tv",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 3/home_tv",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 3/home_tv",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 3/home_tv",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 3/home_turntable",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 3/home_turntable",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 3/home_turntable",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 3/home_turntable",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 3/home_wall_shelf",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 3/home_wall_shelf",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 3/home_wall_shelf",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 3/home_wall_shelf",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 3/home_dresser",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 3/home_dresser",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 3/home_dresser",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 3/home_dresser",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 3/home_fireplace",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 3/home_fireplace",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 3/home_fireplace",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 3/home_fireplace",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 3/home_bathtub",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 3/home_bathtub",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 3/home_bathtub",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 3/home_bathtub",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 3/home_toy_plush",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 3/home_toy_plush",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 3/home_toy_plush",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 3/home_toy_plush",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 3/drink",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 3/drink",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 3/sing",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 3/sing",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 3/study",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 3/study",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 3/work",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 3/work",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 3/pajama",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 3/pajama",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 3/fight",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 3/fight",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 3/sad",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 3/sad",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 3/peek",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 3/peek",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 3/happy",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 3/happy",
+			"passed": true
+		},
+		{
+			"check": "plush controller respects extended duration 3",
+			"passed": true
+		},
+		{
+			"check": "basket click starts dedicated play 3",
+			"passed": true
+		},
+		{
+			"check": "animal stands beside basket 3",
+			"passed": true
+		},
+		{
+			"check": "basket uses whole-body play 3/0.8",
+			"passed": true
+		},
+		{
+			"check": "basket toy replaces legacy ball request 3/0.8",
+			"passed": true
+		},
+		{
+			"check": "basket uses whole-body play 3/1.5",
+			"passed": true
+		},
+		{
+			"check": "basket toy replaces legacy ball request 3/1.5",
+			"passed": true
+		},
+		{
+			"check": "basket uses whole-body play 3/2.5",
+			"passed": true
+		},
+		{
+			"check": "basket toy replaces legacy ball request 3/2.5",
+			"passed": true
+		},
+		{
+			"check": "basket uses whole-body play 3/10.0",
+			"passed": true
+		},
+		{
+			"check": "basket toy replaces legacy ball request 3/10.0",
+			"passed": true
+		},
+		{
+			"check": "basket uses whole-body play 3/24.6",
+			"passed": true
+		},
+		{
+			"check": "basket toy replaces legacy ball request 3/24.6",
+			"passed": true
+		},
+		{
+			"check": "basket cancellation cleans toy and wobble 3",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 4/home_sofa",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 4/home_sofa",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 4/home_sofa",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 4/home_sofa",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 4/home_tea",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 4/home_tea",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 4/home_tea",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 4/home_tea",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 4/home_shelf",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 4/home_shelf",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 4/home_shelf",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 4/home_shelf",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 4/home_lamp",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 4/home_lamp",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 4/home_lamp",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 4/home_lamp",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 4/home_reading_chair",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 4/home_reading_chair",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 4/home_reading_chair",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 4/home_reading_chair",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 4/home_daybed",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 4/home_daybed",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 4/home_daybed",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 4/home_daybed",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 4/home_vanity",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 4/home_vanity",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 4/home_vanity",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 4/home_vanity",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 4/home_record_player",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 4/home_record_player",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 4/home_record_player",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 4/home_record_player",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 4/home_play_rug",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 4/home_play_rug",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 4/home_play_rug",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 4/home_play_rug",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 4/home_window_seat",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 4/home_window_seat",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 4/home_window_seat",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 4/home_window_seat",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 4/home_tv",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 4/home_tv",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 4/home_tv",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 4/home_tv",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 4/home_turntable",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 4/home_turntable",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 4/home_turntable",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 4/home_turntable",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 4/home_wall_shelf",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 4/home_wall_shelf",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 4/home_wall_shelf",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 4/home_wall_shelf",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 4/home_dresser",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 4/home_dresser",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 4/home_dresser",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 4/home_dresser",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 4/home_fireplace",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 4/home_fireplace",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 4/home_fireplace",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 4/home_fireplace",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 4/home_bathtub",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 4/home_bathtub",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 4/home_bathtub",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 4/home_bathtub",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 4/home_toy_plush",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 4/home_toy_plush",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 4/home_toy_plush",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 4/home_toy_plush",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 4/drink",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 4/drink",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 4/sing",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 4/sing",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 4/study",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 4/study",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 4/work",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 4/work",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 4/pajama",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 4/pajama",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 4/fight",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 4/fight",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 4/sad",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 4/sad",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 4/peek",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 4/peek",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 4/happy",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 4/happy",
+			"passed": true
+		},
+		{
+			"check": "plush controller respects extended duration 4",
+			"passed": true
+		},
+		{
+			"check": "basket click starts dedicated play 4",
+			"passed": true
+		},
+		{
+			"check": "animal stands beside basket 4",
+			"passed": true
+		},
+		{
+			"check": "basket uses whole-body play 4/0.8",
+			"passed": true
+		},
+		{
+			"check": "basket toy replaces legacy ball request 4/0.8",
+			"passed": true
+		},
+		{
+			"check": "basket uses whole-body play 4/1.5",
+			"passed": true
+		},
+		{
+			"check": "basket toy replaces legacy ball request 4/1.5",
+			"passed": true
+		},
+		{
+			"check": "basket uses whole-body play 4/2.5",
+			"passed": true
+		},
+		{
+			"check": "basket toy replaces legacy ball request 4/2.5",
+			"passed": true
+		},
+		{
+			"check": "basket uses whole-body play 4/10.0",
+			"passed": true
+		},
+		{
+			"check": "basket toy replaces legacy ball request 4/10.0",
+			"passed": true
+		},
+		{
+			"check": "basket uses whole-body play 4/24.6",
+			"passed": true
+		},
+		{
+			"check": "basket toy replaces legacy ball request 4/24.6",
+			"passed": true
+		},
+		{
+			"check": "basket cancellation cleans toy and wobble 4",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 5/home_sofa",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 5/home_sofa",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 5/home_sofa",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 5/home_sofa",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 5/home_tea",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 5/home_tea",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 5/home_tea",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 5/home_tea",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 5/home_shelf",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 5/home_shelf",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 5/home_shelf",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 5/home_shelf",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 5/home_lamp",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 5/home_lamp",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 5/home_lamp",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 5/home_lamp",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 5/home_reading_chair",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 5/home_reading_chair",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 5/home_reading_chair",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 5/home_reading_chair",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 5/home_daybed",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 5/home_daybed",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 5/home_daybed",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 5/home_daybed",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 5/home_vanity",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 5/home_vanity",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 5/home_vanity",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 5/home_vanity",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 5/home_record_player",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 5/home_record_player",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 5/home_record_player",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 5/home_record_player",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 5/home_play_rug",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 5/home_play_rug",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 5/home_play_rug",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 5/home_play_rug",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 5/home_window_seat",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 5/home_window_seat",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 5/home_window_seat",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 5/home_window_seat",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 5/home_tv",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 5/home_tv",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 5/home_tv",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 5/home_tv",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 5/home_turntable",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 5/home_turntable",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 5/home_turntable",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 5/home_turntable",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 5/home_wall_shelf",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 5/home_wall_shelf",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 5/home_wall_shelf",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 5/home_wall_shelf",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 5/home_dresser",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 5/home_dresser",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 5/home_dresser",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 5/home_dresser",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 5/home_fireplace",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 5/home_fireplace",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 5/home_fireplace",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 5/home_fireplace",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 5/home_bathtub",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 5/home_bathtub",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 5/home_bathtub",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 5/home_bathtub",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 5/home_toy_plush",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 5/home_toy_plush",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 5/home_toy_plush",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 5/home_toy_plush",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 5/drink",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 5/drink",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 5/sing",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 5/sing",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 5/study",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 5/study",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 5/work",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 5/work",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 5/pajama",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 5/pajama",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 5/fight",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 5/fight",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 5/sad",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 5/sad",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 5/peek",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 5/peek",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 5/happy",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 5/happy",
+			"passed": true
+		},
+		{
+			"check": "plush controller respects extended duration 5",
+			"passed": true
+		},
+		{
+			"check": "basket click starts dedicated play 5",
+			"passed": true
+		},
+		{
+			"check": "animal stands beside basket 5",
+			"passed": true
+		},
+		{
+			"check": "basket uses whole-body play 5/0.8",
+			"passed": true
+		},
+		{
+			"check": "basket toy replaces legacy ball request 5/0.8",
+			"passed": true
+		},
+		{
+			"check": "basket uses whole-body play 5/1.5",
+			"passed": true
+		},
+		{
+			"check": "basket toy replaces legacy ball request 5/1.5",
+			"passed": true
+		},
+		{
+			"check": "basket uses whole-body play 5/2.5",
+			"passed": true
+		},
+		{
+			"check": "basket toy replaces legacy ball request 5/2.5",
+			"passed": true
+		},
+		{
+			"check": "basket uses whole-body play 5/10.0",
+			"passed": true
+		},
+		{
+			"check": "basket toy replaces legacy ball request 5/10.0",
+			"passed": true
+		},
+		{
+			"check": "basket uses whole-body play 5/24.6",
+			"passed": true
+		},
+		{
+			"check": "basket toy replaces legacy ball request 5/24.6",
+			"passed": true
+		},
+		{
+			"check": "basket cancellation cleans toy and wobble 5",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 6/home_sofa",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 6/home_sofa",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 6/home_sofa",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 6/home_sofa",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 6/home_tea",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 6/home_tea",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 6/home_tea",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 6/home_tea",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 6/home_shelf",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 6/home_shelf",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 6/home_shelf",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 6/home_shelf",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 6/home_lamp",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 6/home_lamp",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 6/home_lamp",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 6/home_lamp",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 6/home_reading_chair",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 6/home_reading_chair",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 6/home_reading_chair",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 6/home_reading_chair",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 6/home_daybed",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 6/home_daybed",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 6/home_daybed",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 6/home_daybed",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 6/home_vanity",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 6/home_vanity",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 6/home_vanity",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 6/home_vanity",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 6/home_record_player",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 6/home_record_player",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 6/home_record_player",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 6/home_record_player",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 6/home_play_rug",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 6/home_play_rug",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 6/home_play_rug",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 6/home_play_rug",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 6/home_window_seat",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 6/home_window_seat",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 6/home_window_seat",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 6/home_window_seat",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 6/home_tv",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 6/home_tv",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 6/home_tv",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 6/home_tv",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 6/home_turntable",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 6/home_turntable",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 6/home_turntable",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 6/home_turntable",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 6/home_wall_shelf",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 6/home_wall_shelf",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 6/home_wall_shelf",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 6/home_wall_shelf",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 6/home_dresser",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 6/home_dresser",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 6/home_dresser",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 6/home_dresser",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 6/home_fireplace",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 6/home_fireplace",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 6/home_fireplace",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 6/home_fireplace",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 6/home_bathtub",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 6/home_bathtub",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 6/home_bathtub",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 6/home_bathtub",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 6/home_toy_plush",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 6/home_toy_plush",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 6/home_toy_plush",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 6/home_toy_plush",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 6/drink",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 6/drink",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 6/sing",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 6/sing",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 6/study",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 6/study",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 6/work",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 6/work",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 6/pajama",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 6/pajama",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 6/fight",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 6/fight",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 6/sad",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 6/sad",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 6/peek",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 6/peek",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 6/happy",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 6/happy",
+			"passed": true
+		},
+		{
+			"check": "plush controller respects extended duration 6",
+			"passed": true
+		},
+		{
+			"check": "basket click starts dedicated play 6",
+			"passed": true
+		},
+		{
+			"check": "animal stands beside basket 6",
+			"passed": true
+		},
+		{
+			"check": "basket uses whole-body play 6/0.8",
+			"passed": true
+		},
+		{
+			"check": "basket toy replaces legacy ball request 6/0.8",
+			"passed": true
+		},
+		{
+			"check": "basket uses whole-body play 6/1.5",
+			"passed": true
+		},
+		{
+			"check": "basket toy replaces legacy ball request 6/1.5",
+			"passed": true
+		},
+		{
+			"check": "basket uses whole-body play 6/2.5",
+			"passed": true
+		},
+		{
+			"check": "basket toy replaces legacy ball request 6/2.5",
+			"passed": true
+		},
+		{
+			"check": "basket uses whole-body play 6/10.0",
+			"passed": true
+		},
+		{
+			"check": "basket toy replaces legacy ball request 6/10.0",
+			"passed": true
+		},
+		{
+			"check": "basket uses whole-body play 6/24.6",
+			"passed": true
+		},
+		{
+			"check": "basket toy replaces legacy ball request 6/24.6",
+			"passed": true
+		},
+		{
+			"check": "basket cancellation cleans toy and wobble 6",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 7/home_sofa",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 7/home_sofa",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 7/home_sofa",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 7/home_sofa",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 7/home_tea",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 7/home_tea",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 7/home_tea",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 7/home_tea",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 7/home_shelf",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 7/home_shelf",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 7/home_shelf",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 7/home_shelf",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 7/home_lamp",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 7/home_lamp",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 7/home_lamp",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 7/home_lamp",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 7/home_reading_chair",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 7/home_reading_chair",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 7/home_reading_chair",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 7/home_reading_chair",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 7/home_daybed",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 7/home_daybed",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 7/home_daybed",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 7/home_daybed",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 7/home_vanity",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 7/home_vanity",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 7/home_vanity",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 7/home_vanity",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 7/home_record_player",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 7/home_record_player",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 7/home_record_player",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 7/home_record_player",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 7/home_play_rug",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 7/home_play_rug",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 7/home_play_rug",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 7/home_play_rug",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 7/home_window_seat",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 7/home_window_seat",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 7/home_window_seat",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 7/home_window_seat",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 7/home_tv",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 7/home_tv",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 7/home_tv",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 7/home_tv",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 7/home_turntable",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 7/home_turntable",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 7/home_turntable",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 7/home_turntable",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 7/home_wall_shelf",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 7/home_wall_shelf",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 7/home_wall_shelf",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 7/home_wall_shelf",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 7/home_dresser",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 7/home_dresser",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 7/home_dresser",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 7/home_dresser",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 7/home_fireplace",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 7/home_fireplace",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 7/home_fireplace",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 7/home_fireplace",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 7/home_bathtub",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 7/home_bathtub",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 7/home_bathtub",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 7/home_bathtub",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 7/home_toy_plush",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 7/home_toy_plush",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 7/home_toy_plush",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 7/home_toy_plush",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 7/drink",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 7/drink",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 7/sing",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 7/sing",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 7/study",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 7/study",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 7/work",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 7/work",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 7/pajama",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 7/pajama",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 7/fight",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 7/fight",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 7/sad",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 7/sad",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 7/peek",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 7/peek",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 7/happy",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 7/happy",
+			"passed": true
+		},
+		{
+			"check": "plush controller respects extended duration 7",
+			"passed": true
+		},
+		{
+			"check": "basket click starts dedicated play 7",
+			"passed": true
+		},
+		{
+			"check": "animal stands beside basket 7",
+			"passed": true
+		},
+		{
+			"check": "basket uses whole-body play 7/0.8",
+			"passed": true
+		},
+		{
+			"check": "basket toy replaces legacy ball request 7/0.8",
+			"passed": true
+		},
+		{
+			"check": "basket uses whole-body play 7/1.5",
+			"passed": true
+		},
+		{
+			"check": "basket toy replaces legacy ball request 7/1.5",
+			"passed": true
+		},
+		{
+			"check": "basket uses whole-body play 7/2.5",
+			"passed": true
+		},
+		{
+			"check": "basket toy replaces legacy ball request 7/2.5",
+			"passed": true
+		},
+		{
+			"check": "basket uses whole-body play 7/10.0",
+			"passed": true
+		},
+		{
+			"check": "basket toy replaces legacy ball request 7/10.0",
+			"passed": true
+		},
+		{
+			"check": "basket uses whole-body play 7/24.6",
+			"passed": true
+		},
+		{
+			"check": "basket toy replaces legacy ball request 7/24.6",
+			"passed": true
+		},
+		{
+			"check": "basket cancellation cleans toy and wobble 7",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 8/home_sofa",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 8/home_sofa",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 8/home_sofa",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 8/home_sofa",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 8/home_tea",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 8/home_tea",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 8/home_tea",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 8/home_tea",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 8/home_shelf",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 8/home_shelf",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 8/home_shelf",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 8/home_shelf",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 8/home_lamp",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 8/home_lamp",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 8/home_lamp",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 8/home_lamp",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 8/home_reading_chair",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 8/home_reading_chair",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 8/home_reading_chair",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 8/home_reading_chair",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 8/home_daybed",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 8/home_daybed",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 8/home_daybed",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 8/home_daybed",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 8/home_vanity",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 8/home_vanity",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 8/home_vanity",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 8/home_vanity",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 8/home_record_player",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 8/home_record_player",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 8/home_record_player",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 8/home_record_player",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 8/home_play_rug",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 8/home_play_rug",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 8/home_play_rug",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 8/home_play_rug",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 8/home_window_seat",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 8/home_window_seat",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 8/home_window_seat",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 8/home_window_seat",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 8/home_tv",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 8/home_tv",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 8/home_tv",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 8/home_tv",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 8/home_turntable",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 8/home_turntable",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 8/home_turntable",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 8/home_turntable",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 8/home_wall_shelf",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 8/home_wall_shelf",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 8/home_wall_shelf",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 8/home_wall_shelf",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 8/home_dresser",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 8/home_dresser",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 8/home_dresser",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 8/home_dresser",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 8/home_fireplace",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 8/home_fireplace",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 8/home_fireplace",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 8/home_fireplace",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 8/home_bathtub",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 8/home_bathtub",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 8/home_bathtub",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 8/home_bathtub",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 8/home_toy_plush",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 8/home_toy_plush",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 8/home_toy_plush",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 8/home_toy_plush",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 8/drink",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 8/drink",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 8/sing",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 8/sing",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 8/study",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 8/study",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 8/work",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 8/work",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 8/pajama",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 8/pajama",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 8/fight",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 8/fight",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 8/sad",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 8/sad",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 8/peek",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 8/peek",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 8/happy",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 8/happy",
+			"passed": true
+		},
+		{
+			"check": "plush controller respects extended duration 8",
+			"passed": true
+		},
+		{
+			"check": "basket click starts dedicated play 8",
+			"passed": true
+		},
+		{
+			"check": "animal stands beside basket 8",
+			"passed": true
+		},
+		{
+			"check": "basket uses whole-body play 8/0.8",
+			"passed": true
+		},
+		{
+			"check": "basket toy replaces legacy ball request 8/0.8",
+			"passed": true
+		},
+		{
+			"check": "basket uses whole-body play 8/1.5",
+			"passed": true
+		},
+		{
+			"check": "basket toy replaces legacy ball request 8/1.5",
+			"passed": true
+		},
+		{
+			"check": "basket uses whole-body play 8/2.5",
+			"passed": true
+		},
+		{
+			"check": "basket toy replaces legacy ball request 8/2.5",
+			"passed": true
+		},
+		{
+			"check": "basket uses whole-body play 8/10.0",
+			"passed": true
+		},
+		{
+			"check": "basket toy replaces legacy ball request 8/10.0",
+			"passed": true
+		},
+		{
+			"check": "basket uses whole-body play 8/24.6",
+			"passed": true
+		},
+		{
+			"check": "basket toy replaces legacy ball request 8/24.6",
+			"passed": true
+		},
+		{
+			"check": "basket cancellation cleans toy and wobble 8",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 9/home_sofa",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 9/home_sofa",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 9/home_sofa",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 9/home_sofa",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 9/home_tea",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 9/home_tea",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 9/home_tea",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 9/home_tea",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 9/home_shelf",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 9/home_shelf",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 9/home_shelf",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 9/home_shelf",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 9/home_lamp",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 9/home_lamp",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 9/home_lamp",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 9/home_lamp",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 9/home_reading_chair",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 9/home_reading_chair",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 9/home_reading_chair",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 9/home_reading_chair",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 9/home_daybed",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 9/home_daybed",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 9/home_daybed",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 9/home_daybed",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 9/home_vanity",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 9/home_vanity",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 9/home_vanity",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 9/home_vanity",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 9/home_record_player",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 9/home_record_player",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 9/home_record_player",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 9/home_record_player",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 9/home_play_rug",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 9/home_play_rug",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 9/home_play_rug",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 9/home_play_rug",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 9/home_window_seat",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 9/home_window_seat",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 9/home_window_seat",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 9/home_window_seat",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 9/home_tv",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 9/home_tv",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 9/home_tv",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 9/home_tv",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 9/home_turntable",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 9/home_turntable",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 9/home_turntable",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 9/home_turntable",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 9/home_wall_shelf",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 9/home_wall_shelf",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 9/home_wall_shelf",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 9/home_wall_shelf",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 9/home_dresser",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 9/home_dresser",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 9/home_dresser",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 9/home_dresser",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 9/home_fireplace",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 9/home_fireplace",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 9/home_fireplace",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 9/home_fireplace",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 9/home_bathtub",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 9/home_bathtub",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 9/home_bathtub",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 9/home_bathtub",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 9/home_toy_plush",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 9/home_toy_plush",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 9/home_toy_plush",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 9/home_toy_plush",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 9/drink",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 9/drink",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 9/sing",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 9/sing",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 9/study",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 9/study",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 9/work",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 9/work",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 9/pajama",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 9/pajama",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 9/fight",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 9/fight",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 9/sad",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 9/sad",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 9/peek",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 9/peek",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 9/happy",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 9/happy",
+			"passed": true
+		},
+		{
+			"check": "plush controller respects extended duration 9",
+			"passed": true
+		},
+		{
+			"check": "basket click starts dedicated play 9",
+			"passed": true
+		},
+		{
+			"check": "animal stands beside basket 9",
+			"passed": true
+		},
+		{
+			"check": "basket uses whole-body play 9/0.8",
+			"passed": true
+		},
+		{
+			"check": "basket toy replaces legacy ball request 9/0.8",
+			"passed": true
+		},
+		{
+			"check": "basket uses whole-body play 9/1.5",
+			"passed": true
+		},
+		{
+			"check": "basket toy replaces legacy ball request 9/1.5",
+			"passed": true
+		},
+		{
+			"check": "basket uses whole-body play 9/2.5",
+			"passed": true
+		},
+		{
+			"check": "basket toy replaces legacy ball request 9/2.5",
+			"passed": true
+		},
+		{
+			"check": "basket uses whole-body play 9/10.0",
+			"passed": true
+		},
+		{
+			"check": "basket toy replaces legacy ball request 9/10.0",
+			"passed": true
+		},
+		{
+			"check": "basket uses whole-body play 9/24.6",
+			"passed": true
+		},
+		{
+			"check": "basket toy replaces legacy ball request 9/24.6",
+			"passed": true
+		},
+		{
+			"check": "basket cancellation cleans toy and wobble 9",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 10/home_sofa",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 10/home_sofa",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 10/home_sofa",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 10/home_sofa",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 10/home_tea",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 10/home_tea",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 10/home_tea",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 10/home_tea",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 10/home_shelf",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 10/home_shelf",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 10/home_shelf",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 10/home_shelf",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 10/home_lamp",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 10/home_lamp",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 10/home_lamp",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 10/home_lamp",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 10/home_reading_chair",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 10/home_reading_chair",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 10/home_reading_chair",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 10/home_reading_chair",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 10/home_daybed",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 10/home_daybed",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 10/home_daybed",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 10/home_daybed",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 10/home_vanity",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 10/home_vanity",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 10/home_vanity",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 10/home_vanity",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 10/home_record_player",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 10/home_record_player",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 10/home_record_player",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 10/home_record_player",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 10/home_play_rug",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 10/home_play_rug",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 10/home_play_rug",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 10/home_play_rug",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 10/home_window_seat",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 10/home_window_seat",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 10/home_window_seat",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 10/home_window_seat",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 10/home_tv",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 10/home_tv",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 10/home_tv",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 10/home_tv",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 10/home_turntable",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 10/home_turntable",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 10/home_turntable",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 10/home_turntable",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 10/home_wall_shelf",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 10/home_wall_shelf",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 10/home_wall_shelf",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 10/home_wall_shelf",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 10/home_dresser",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 10/home_dresser",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 10/home_dresser",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 10/home_dresser",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 10/home_fireplace",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 10/home_fireplace",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 10/home_fireplace",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 10/home_fireplace",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 10/home_bathtub",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 10/home_bathtub",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 10/home_bathtub",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 10/home_bathtub",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 10/home_toy_plush",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 10/home_toy_plush",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 10/home_toy_plush",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 10/home_toy_plush",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 10/drink",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 10/drink",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 10/sing",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 10/sing",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 10/study",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 10/study",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 10/work",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 10/work",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 10/pajama",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 10/pajama",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 10/fight",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 10/fight",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 10/sad",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 10/sad",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 10/peek",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 10/peek",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 10/happy",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 10/happy",
+			"passed": true
+		},
+		{
+			"check": "plush controller respects extended duration 10",
+			"passed": true
+		},
+		{
+			"check": "basket click starts dedicated play 10",
+			"passed": true
+		},
+		{
+			"check": "animal stands beside basket 10",
+			"passed": true
+		},
+		{
+			"check": "basket uses whole-body play 10/0.8",
+			"passed": true
+		},
+		{
+			"check": "basket toy replaces legacy ball request 10/0.8",
+			"passed": true
+		},
+		{
+			"check": "basket uses whole-body play 10/1.5",
+			"passed": true
+		},
+		{
+			"check": "basket toy replaces legacy ball request 10/1.5",
+			"passed": true
+		},
+		{
+			"check": "basket uses whole-body play 10/2.5",
+			"passed": true
+		},
+		{
+			"check": "basket toy replaces legacy ball request 10/2.5",
+			"passed": true
+		},
+		{
+			"check": "basket uses whole-body play 10/10.0",
+			"passed": true
+		},
+		{
+			"check": "basket toy replaces legacy ball request 10/10.0",
+			"passed": true
+		},
+		{
+			"check": "basket uses whole-body play 10/24.6",
+			"passed": true
+		},
+		{
+			"check": "basket toy replaces legacy ball request 10/24.6",
+			"passed": true
+		},
+		{
+			"check": "basket cancellation cleans toy and wobble 10",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 11/home_sofa",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 11/home_sofa",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 11/home_sofa",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 11/home_sofa",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 11/home_tea",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 11/home_tea",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 11/home_tea",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 11/home_tea",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 11/home_shelf",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 11/home_shelf",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 11/home_shelf",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 11/home_shelf",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 11/home_lamp",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 11/home_lamp",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 11/home_lamp",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 11/home_lamp",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 11/home_reading_chair",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 11/home_reading_chair",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 11/home_reading_chair",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 11/home_reading_chair",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 11/home_daybed",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 11/home_daybed",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 11/home_daybed",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 11/home_daybed",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 11/home_vanity",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 11/home_vanity",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 11/home_vanity",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 11/home_vanity",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 11/home_record_player",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 11/home_record_player",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 11/home_record_player",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 11/home_record_player",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 11/home_play_rug",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 11/home_play_rug",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 11/home_play_rug",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 11/home_play_rug",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 11/home_window_seat",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 11/home_window_seat",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 11/home_window_seat",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 11/home_window_seat",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 11/home_tv",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 11/home_tv",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 11/home_tv",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 11/home_tv",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 11/home_turntable",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 11/home_turntable",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 11/home_turntable",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 11/home_turntable",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 11/home_wall_shelf",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 11/home_wall_shelf",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 11/home_wall_shelf",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 11/home_wall_shelf",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 11/home_dresser",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 11/home_dresser",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 11/home_dresser",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 11/home_dresser",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 11/home_fireplace",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 11/home_fireplace",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 11/home_fireplace",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 11/home_fireplace",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 11/home_bathtub",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 11/home_bathtub",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 11/home_bathtub",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 11/home_bathtub",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 11/home_toy_plush",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 11/home_toy_plush",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 11/home_toy_plush",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 11/home_toy_plush",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 11/drink",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 11/drink",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 11/sing",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 11/sing",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 11/study",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 11/study",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 11/work",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 11/work",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 11/pajama",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 11/pajama",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 11/fight",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 11/fight",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 11/sad",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 11/sad",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 11/peek",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 11/peek",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 11/happy",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 11/happy",
+			"passed": true
+		},
+		{
+			"check": "plush controller respects extended duration 11",
+			"passed": true
+		},
+		{
+			"check": "basket click starts dedicated play 11",
+			"passed": true
+		},
+		{
+			"check": "animal stands beside basket 11",
+			"passed": true
+		},
+		{
+			"check": "basket uses whole-body play 11/0.8",
+			"passed": true
+		},
+		{
+			"check": "basket toy replaces legacy ball request 11/0.8",
+			"passed": true
+		},
+		{
+			"check": "basket uses whole-body play 11/1.5",
+			"passed": true
+		},
+		{
+			"check": "basket toy replaces legacy ball request 11/1.5",
+			"passed": true
+		},
+		{
+			"check": "basket uses whole-body play 11/2.5",
+			"passed": true
+		},
+		{
+			"check": "basket toy replaces legacy ball request 11/2.5",
+			"passed": true
+		},
+		{
+			"check": "basket uses whole-body play 11/10.0",
+			"passed": true
+		},
+		{
+			"check": "basket toy replaces legacy ball request 11/10.0",
+			"passed": true
+		},
+		{
+			"check": "basket uses whole-body play 11/24.6",
+			"passed": true
+		},
+		{
+			"check": "basket toy replaces legacy ball request 11/24.6",
+			"passed": true
+		},
+		{
+			"check": "basket cancellation cleans toy and wobble 11",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 12/home_sofa",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 12/home_sofa",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 12/home_sofa",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 12/home_sofa",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 12/home_tea",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 12/home_tea",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 12/home_tea",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 12/home_tea",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 12/home_shelf",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 12/home_shelf",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 12/home_shelf",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 12/home_shelf",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 12/home_lamp",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 12/home_lamp",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 12/home_lamp",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 12/home_lamp",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 12/home_reading_chair",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 12/home_reading_chair",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 12/home_reading_chair",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 12/home_reading_chair",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 12/home_daybed",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 12/home_daybed",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 12/home_daybed",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 12/home_daybed",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 12/home_vanity",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 12/home_vanity",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 12/home_vanity",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 12/home_vanity",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 12/home_record_player",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 12/home_record_player",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 12/home_record_player",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 12/home_record_player",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 12/home_play_rug",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 12/home_play_rug",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 12/home_play_rug",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 12/home_play_rug",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 12/home_window_seat",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 12/home_window_seat",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 12/home_window_seat",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 12/home_window_seat",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 12/home_tv",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 12/home_tv",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 12/home_tv",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 12/home_tv",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 12/home_turntable",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 12/home_turntable",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 12/home_turntable",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 12/home_turntable",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 12/home_wall_shelf",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 12/home_wall_shelf",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 12/home_wall_shelf",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 12/home_wall_shelf",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 12/home_dresser",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 12/home_dresser",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 12/home_dresser",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 12/home_dresser",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 12/home_fireplace",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 12/home_fireplace",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 12/home_fireplace",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 12/home_fireplace",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 12/home_bathtub",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 12/home_bathtub",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 12/home_bathtub",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 12/home_bathtub",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 12/home_toy_plush",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 12/home_toy_plush",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 12/home_toy_plush",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 12/home_toy_plush",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 12/drink",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 12/drink",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 12/sing",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 12/sing",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 12/study",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 12/study",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 12/work",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 12/work",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 12/pajama",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 12/pajama",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 12/fight",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 12/fight",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 12/sad",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 12/sad",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 12/peek",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 12/peek",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 12/happy",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 12/happy",
+			"passed": true
+		},
+		{
+			"check": "plush controller respects extended duration 12",
+			"passed": true
+		},
+		{
+			"check": "basket click starts dedicated play 12",
+			"passed": true
+		},
+		{
+			"check": "animal stands beside basket 12",
+			"passed": true
+		},
+		{
+			"check": "basket uses whole-body play 12/0.8",
+			"passed": true
+		},
+		{
+			"check": "basket toy replaces legacy ball request 12/0.8",
+			"passed": true
+		},
+		{
+			"check": "basket uses whole-body play 12/1.5",
+			"passed": true
+		},
+		{
+			"check": "basket toy replaces legacy ball request 12/1.5",
+			"passed": true
+		},
+		{
+			"check": "basket uses whole-body play 12/2.5",
+			"passed": true
+		},
+		{
+			"check": "basket toy replaces legacy ball request 12/2.5",
+			"passed": true
+		},
+		{
+			"check": "basket uses whole-body play 12/10.0",
+			"passed": true
+		},
+		{
+			"check": "basket toy replaces legacy ball request 12/10.0",
+			"passed": true
+		},
+		{
+			"check": "basket uses whole-body play 12/24.6",
+			"passed": true
+		},
+		{
+			"check": "basket toy replaces legacy ball request 12/24.6",
+			"passed": true
+		},
+		{
+			"check": "basket cancellation cleans toy and wobble 12",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 13/home_sofa",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 13/home_sofa",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 13/home_sofa",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 13/home_sofa",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 13/home_tea",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 13/home_tea",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 13/home_tea",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 13/home_tea",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 13/home_shelf",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 13/home_shelf",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 13/home_shelf",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 13/home_shelf",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 13/home_lamp",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 13/home_lamp",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 13/home_lamp",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 13/home_lamp",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 13/home_reading_chair",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 13/home_reading_chair",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 13/home_reading_chair",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 13/home_reading_chair",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 13/home_daybed",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 13/home_daybed",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 13/home_daybed",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 13/home_daybed",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 13/home_vanity",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 13/home_vanity",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 13/home_vanity",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 13/home_vanity",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 13/home_record_player",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 13/home_record_player",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 13/home_record_player",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 13/home_record_player",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 13/home_play_rug",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 13/home_play_rug",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 13/home_play_rug",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 13/home_play_rug",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 13/home_window_seat",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 13/home_window_seat",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 13/home_window_seat",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 13/home_window_seat",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 13/home_tv",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 13/home_tv",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 13/home_tv",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 13/home_tv",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 13/home_turntable",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 13/home_turntable",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 13/home_turntable",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 13/home_turntable",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 13/home_wall_shelf",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 13/home_wall_shelf",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 13/home_wall_shelf",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 13/home_wall_shelf",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 13/home_dresser",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 13/home_dresser",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 13/home_dresser",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 13/home_dresser",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 13/home_fireplace",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 13/home_fireplace",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 13/home_fireplace",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 13/home_fireplace",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 13/home_bathtub",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 13/home_bathtub",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 13/home_bathtub",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 13/home_bathtub",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 13/home_toy_plush",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 13/home_toy_plush",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 13/home_toy_plush",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 13/home_toy_plush",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 13/drink",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 13/drink",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 13/sing",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 13/sing",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 13/study",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 13/study",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 13/work",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 13/work",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 13/pajama",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 13/pajama",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 13/fight",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 13/fight",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 13/sad",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 13/sad",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 13/peek",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 13/peek",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 13/happy",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 13/happy",
+			"passed": true
+		},
+		{
+			"check": "plush controller respects extended duration 13",
+			"passed": true
+		},
+		{
+			"check": "basket click starts dedicated play 13",
+			"passed": true
+		},
+		{
+			"check": "animal stands beside basket 13",
+			"passed": true
+		},
+		{
+			"check": "basket uses whole-body play 13/0.8",
+			"passed": true
+		},
+		{
+			"check": "basket toy replaces legacy ball request 13/0.8",
+			"passed": true
+		},
+		{
+			"check": "basket uses whole-body play 13/1.5",
+			"passed": true
+		},
+		{
+			"check": "basket toy replaces legacy ball request 13/1.5",
+			"passed": true
+		},
+		{
+			"check": "basket uses whole-body play 13/2.5",
+			"passed": true
+		},
+		{
+			"check": "basket toy replaces legacy ball request 13/2.5",
+			"passed": true
+		},
+		{
+			"check": "basket uses whole-body play 13/10.0",
+			"passed": true
+		},
+		{
+			"check": "basket toy replaces legacy ball request 13/10.0",
+			"passed": true
+		},
+		{
+			"check": "basket uses whole-body play 13/24.6",
+			"passed": true
+		},
+		{
+			"check": "basket toy replaces legacy ball request 13/24.6",
+			"passed": true
+		},
+		{
+			"check": "basket cancellation cleans toy and wobble 13",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 14/home_sofa",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 14/home_sofa",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 14/home_sofa",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 14/home_sofa",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 14/home_tea",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 14/home_tea",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 14/home_tea",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 14/home_tea",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 14/home_shelf",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 14/home_shelf",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 14/home_shelf",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 14/home_shelf",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 14/home_lamp",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 14/home_lamp",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 14/home_lamp",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 14/home_lamp",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 14/home_reading_chair",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 14/home_reading_chair",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 14/home_reading_chair",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 14/home_reading_chair",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 14/home_daybed",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 14/home_daybed",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 14/home_daybed",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 14/home_daybed",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 14/home_vanity",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 14/home_vanity",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 14/home_vanity",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 14/home_vanity",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 14/home_record_player",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 14/home_record_player",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 14/home_record_player",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 14/home_record_player",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 14/home_play_rug",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 14/home_play_rug",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 14/home_play_rug",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 14/home_play_rug",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 14/home_window_seat",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 14/home_window_seat",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 14/home_window_seat",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 14/home_window_seat",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 14/home_tv",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 14/home_tv",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 14/home_tv",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 14/home_tv",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 14/home_turntable",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 14/home_turntable",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 14/home_turntable",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 14/home_turntable",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 14/home_wall_shelf",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 14/home_wall_shelf",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 14/home_wall_shelf",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 14/home_wall_shelf",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 14/home_dresser",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 14/home_dresser",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 14/home_dresser",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 14/home_dresser",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 14/home_fireplace",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 14/home_fireplace",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 14/home_fireplace",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 14/home_fireplace",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 14/home_bathtub",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 14/home_bathtub",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 14/home_bathtub",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 14/home_bathtub",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 14/home_toy_plush",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 14/home_toy_plush",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 14/home_toy_plush",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 14/home_toy_plush",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 14/drink",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 14/drink",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 14/sing",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 14/sing",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 14/study",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 14/study",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 14/work",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 14/work",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 14/pajama",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 14/pajama",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 14/fight",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 14/fight",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 14/sad",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 14/sad",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 14/peek",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 14/peek",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 14/happy",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 14/happy",
+			"passed": true
+		},
+		{
+			"check": "plush controller respects extended duration 14",
+			"passed": true
+		},
+		{
+			"check": "basket click starts dedicated play 14",
+			"passed": true
+		},
+		{
+			"check": "animal stands beside basket 14",
+			"passed": true
+		},
+		{
+			"check": "basket uses whole-body play 14/0.8",
+			"passed": true
+		},
+		{
+			"check": "basket toy replaces legacy ball request 14/0.8",
+			"passed": true
+		},
+		{
+			"check": "basket uses whole-body play 14/1.5",
+			"passed": true
+		},
+		{
+			"check": "basket toy replaces legacy ball request 14/1.5",
+			"passed": true
+		},
+		{
+			"check": "basket uses whole-body play 14/2.5",
+			"passed": true
+		},
+		{
+			"check": "basket toy replaces legacy ball request 14/2.5",
+			"passed": true
+		},
+		{
+			"check": "basket uses whole-body play 14/10.0",
+			"passed": true
+		},
+		{
+			"check": "basket toy replaces legacy ball request 14/10.0",
+			"passed": true
+		},
+		{
+			"check": "basket uses whole-body play 14/24.6",
+			"passed": true
+		},
+		{
+			"check": "basket toy replaces legacy ball request 14/24.6",
+			"passed": true
+		},
+		{
+			"check": "basket cancellation cleans toy and wobble 14",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 15/home_sofa",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 15/home_sofa",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 15/home_sofa",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 15/home_sofa",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 15/home_tea",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 15/home_tea",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 15/home_tea",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 15/home_tea",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 15/home_shelf",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 15/home_shelf",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 15/home_shelf",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 15/home_shelf",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 15/home_lamp",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 15/home_lamp",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 15/home_lamp",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 15/home_lamp",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 15/home_reading_chair",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 15/home_reading_chair",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 15/home_reading_chair",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 15/home_reading_chair",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 15/home_daybed",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 15/home_daybed",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 15/home_daybed",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 15/home_daybed",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 15/home_vanity",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 15/home_vanity",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 15/home_vanity",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 15/home_vanity",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 15/home_record_player",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 15/home_record_player",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 15/home_record_player",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 15/home_record_player",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 15/home_play_rug",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 15/home_play_rug",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 15/home_play_rug",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 15/home_play_rug",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 15/home_window_seat",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 15/home_window_seat",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 15/home_window_seat",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 15/home_window_seat",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 15/home_tv",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 15/home_tv",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 15/home_tv",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 15/home_tv",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 15/home_turntable",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 15/home_turntable",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 15/home_turntable",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 15/home_turntable",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 15/home_wall_shelf",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 15/home_wall_shelf",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 15/home_wall_shelf",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 15/home_wall_shelf",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 15/home_dresser",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 15/home_dresser",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 15/home_dresser",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 15/home_dresser",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 15/home_fireplace",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 15/home_fireplace",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 15/home_fireplace",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 15/home_fireplace",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 15/home_bathtub",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 15/home_bathtub",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 15/home_bathtub",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 15/home_bathtub",
+			"passed": true
+		},
+		{
+			"check": "duration initialized 4x 15/home_toy_plush",
+			"passed": true
+		},
+		{
+			"check": "remains active past previous end 15/home_toy_plush",
+			"passed": true
+		},
+		{
+			"check": "remains active until four durations 15/home_toy_plush",
+			"passed": true
+		},
+		{
+			"check": "completes at four durations 15/home_toy_plush",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 15/drink",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 15/drink",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 15/sing",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 15/sing",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 15/study",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 15/study",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 15/work",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 15/work",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 15/pajama",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 15/pajama",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 15/fight",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 15/fight",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 15/sad",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 15/sad",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 15/peek",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 15/peek",
+			"passed": true
+		},
+		{
+			"check": "daily persists past prior duration 15/happy",
+			"passed": true
+		},
+		{
+			"check": "daily ends after 4x 15/happy",
+			"passed": true
+		},
+		{
+			"check": "plush controller respects extended duration 15",
+			"passed": true
+		},
+		{
+			"check": "basket click starts dedicated play 15",
+			"passed": true
+		},
+		{
+			"check": "animal stands beside basket 15",
+			"passed": true
+		},
+		{
+			"check": "basket uses whole-body play 15/0.8",
+			"passed": true
+		},
+		{
+			"check": "basket toy replaces legacy ball request 15/0.8",
+			"passed": true
+		},
+		{
+			"check": "basket uses whole-body play 15/1.5",
+			"passed": true
+		},
+		{
+			"check": "basket toy replaces legacy ball request 15/1.5",
+			"passed": true
+		},
+		{
+			"check": "basket uses whole-body play 15/2.5",
+			"passed": true
+		},
+		{
+			"check": "basket toy replaces legacy ball request 15/2.5",
+			"passed": true
+		},
+		{
+			"check": "basket uses whole-body play 15/10.0",
+			"passed": true
+		},
+		{
+			"check": "basket toy replaces legacy ball request 15/10.0",
+			"passed": true
+		},
+		{
+			"check": "basket uses whole-body play 15/24.6",
+			"passed": true
+		},
+		{
+			"check": "basket toy replaces legacy ball request 15/24.6",
+			"passed": true
+		},
+		{
+			"check": "basket cancellation cleans toy and wobble 15",
+			"passed": true
+		}
+	],
+	"passed": true
+}

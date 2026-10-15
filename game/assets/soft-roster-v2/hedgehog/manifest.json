@@ -1,0 +1,42 @@
+{
+  "version": 2,
+  "species": "hedgehog",
+  "stages": {
+    "adult": {
+      "file": "walk.png",
+      "idle_file": "idle.png",
+      "count": 96,
+      "columns": 8,
+      "reference_height": 210,
+      "cycle_seconds": 1.6,
+      "playback_seconds": 1.6,
+      "stride": 36,
+      "source_key_count": 8,
+      "gait": "biped_grounded",
+      "root": [
+        128,
+        232
+      ],
+      "view": "fixed_three_quarter_right"
+    },
+    "baby": {
+      "file": "walk.png",
+      "idle_file": "idle.png",
+      "count": 96,
+      "columns": 8,
+      "reference_height": 210,
+      "cycle_seconds": 1.6,
+      "playback_seconds": 1.6,
+      "stride": 36,
+      "source_key_count": 8,
+      "gait": "biped_grounded",
+      "root": [
+        128,
+        232
+      ],
+      "view": "fixed_three_quarter_right"
+    }
+  },
+  "source": "C:\\Users\\rlagk\\Documents\\복슬복슬펫\\output\\hedgehog-three-quarter-v3\\assets\\adult.png",
+  "method": "Unchanged approved full-body walk sprites"
+}

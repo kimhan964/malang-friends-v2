@@ -1,0 +1,19 @@
+{
+  "reference_height": 216,
+  "method": "VARCO whole-character keys + offline RIFE v4.6 inbetweens",
+  "source": "design\\slapstick-varco-v1\\rabbit-adult-cyan.png",
+  "validation": {
+    "stumble": {
+      "frames": 60,
+      "distinct": 53,
+      "clipped": 0,
+      "neutral_endpoints": true
+    },
+    "sneeze": {
+      "frames": 60,
+      "distinct": 54,
+      "clipped": 0,
+      "neutral_endpoints": true
+    }
+  }
+}

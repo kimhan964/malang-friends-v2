@@ -1,0 +1,54 @@
+{
+  "version": 2,
+  "species": "puppy",
+  "stages": {
+    "adult": {
+      "id": "puppy",
+      "file": "walk.png",
+      "count": 96,
+      "columns": 12,
+      "cell": 256,
+      "ground": 232,
+      "cycle_seconds": 1.6,
+      "stride": 40,
+      "source_key_count": 8,
+      "interpolated_frames": 88,
+      "method": "VARCO MCP generated whole-body poses; RIFE whole-frame inbetweens",
+      "source_hash": "36d30b48e372c9d7f1851f2990c722b487731772f07621b93185edb984b48eb7",
+      "unique_frames": 96,
+      "status": "preview_requires_visual_review",
+      "idle_file": "idle.png",
+      "reference_height": 205,
+      "playback_seconds": 1.6,
+      "root": [
+        128,
+        232
+      ]
+    },
+    "baby": {
+      "id": "puppy",
+      "file": "walk.png",
+      "count": 96,
+      "columns": 12,
+      "cell": 256,
+      "ground": 232,
+      "cycle_seconds": 1.6,
+      "stride": 40,
+      "source_key_count": 8,
+      "interpolated_frames": 88,
+      "method": "VARCO MCP generated whole-body poses; RIFE whole-frame inbetweens",
+      "source_hash": "36d30b48e372c9d7f1851f2990c722b487731772f07621b93185edb984b48eb7",
+      "unique_frames": 96,
+      "status": "preview_requires_visual_review",
+      "idle_file": "idle.png",
+      "reference_height": 205,
+      "playback_seconds": 1.6,
+      "root": [
+        128,
+        232
+      ]
+    }
+  },
+  "source": "C:\\Users\\rlagk\\Documents\\복슬복슬펫\\output\\varco-animals-walk-v1\\puppy\\walk.png",
+  "method": "Unchanged approved full-body walk sprites"
+}

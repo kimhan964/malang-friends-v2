@@ -1,0 +1,29 @@
+{
+  "species": "bear",
+  "reference_height": 205,
+  "roll_center": [
+    160,
+    210
+  ],
+  "roll_radius": 95.5,
+  "anchor": [
+    160,
+    290
+  ],
+  "sequences": {
+    "roll": {
+      "file": "roll.png",
+      "count": 32,
+      "columns": 8,
+      "cell": 320,
+      "duration": 2.4
+    },
+    "fly": {
+      "file": "fly.png",
+      "count": 32,
+      "columns": 8,
+      "cell": 320,
+      "duration": 1.4
+    }
+  }
+}

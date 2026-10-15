@@ -1,0 +1,32 @@
+{
+  "sofa": {
+    "file": "sofa.png",
+    "count": 32,
+    "columns": 8,
+    "cell": [
+      512,
+      320
+    ],
+    "duration": 3.2
+  },
+  "daybed": {
+    "file": "daybed.png",
+    "count": 32,
+    "columns": 8,
+    "cell": [
+      512,
+      320
+    ],
+    "duration": 4.8
+  },
+  "bathtub": {
+    "file": "bathtub.png",
+    "count": 32,
+    "columns": 8,
+    "cell": [
+      512,
+      320
+    ],
+    "duration": 2.4
+  }
+}

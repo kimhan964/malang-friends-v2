@@ -1,0 +1,86 @@
+{
+  "species": "rabbit",
+  "reference_height": 205,
+  "cell": 256,
+  "anchor": [
+    128,
+    232
+  ],
+  "method": "16 generated whole-body drawings per action; whole-image optical inbetweens; 60 playback cels. Fixed per-action scale, no limb rig.",
+  "sequences": {
+    "run": {
+      "file": "run.png",
+      "columns": 10,
+      "count": 60,
+      "generated_keys": 16,
+      "duration": 1.05,
+      "loop": true,
+      "stride": 112,
+      "lift": 14,
+      "launch": 0.3,
+      "land": 0.7,
+      "source": "C:\\Users\\rlagk\\Documents\\복슬복슬펫\\output\\v2-run-hop\\sources\\rabbit-run-v2.png",
+      "qa_whole_cel_holds": {
+        "25": 24
+      }
+    },
+    "jump": {
+      "file": "jump.png",
+      "columns": 10,
+      "count": 60,
+      "generated_keys": 16,
+      "duration": 1.6,
+      "loop": false,
+      "stride": 0,
+      "lift": 26,
+      "launch": 0.28,
+      "land": 0.72,
+      "phase_curve": [
+        [
+          0,
+          0
+        ],
+        [
+          0.16,
+          0.2
+        ],
+        [
+          0.28,
+          0.3333333333333333
+        ],
+        [
+          0.45,
+          0.5333333333333333
+        ],
+        [
+          0.6,
+          0.6666666666666666
+        ],
+        [
+          0.72,
+          0.7333333333333333
+        ],
+        [
+          0.82,
+          0.8
+        ],
+        [
+          0.94,
+          0.9333333333333333
+        ],
+        [
+          1,
+          1
+        ]
+      ],
+      "source": "C:\\Users\\rlagk\\Documents\\복슬복슬펫\\output\\v2-run-hop\\sources\\rabbit-jump-v2.png",
+      "qa_whole_cel_holds": {
+        "10": 11,
+        "14": 15,
+        "18": 19,
+        "45": 46,
+        "49": 50
+      }
+    }
+  }
+}

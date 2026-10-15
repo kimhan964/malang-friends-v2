@@ -1,0 +1,77 @@
+{
+  "species": "puppy",
+  "cell": 256,
+  "anchor": [
+    128,
+    232
+  ],
+  "reference_height": 205,
+  "method": "AI whole-body drawings and whole-frame optical inbetweens; no limb cutting",
+  "source": "C:\\Users\\rlagk\\Documents\\복슬복슬펫\\output\\v2-behavior-library\\sources\\puppy.png",
+  "sequences": {
+    "sad": {
+      "file": "sad.png",
+      "count": 32,
+      "columns": 8,
+      "duration": 3.5,
+      "generated_keys": 4,
+      "loop": true
+    },
+    "peek": {
+      "file": "peek.png",
+      "count": 32,
+      "columns": 8,
+      "duration": 3.2,
+      "generated_keys": 4,
+      "loop": true
+    },
+    "drink": {
+      "file": "drink.png",
+      "count": 32,
+      "columns": 8,
+      "duration": 3.2,
+      "generated_keys": 4,
+      "loop": true
+    },
+    "sing": {
+      "file": "sing.png",
+      "count": 32,
+      "columns": 8,
+      "duration": 3.2,
+      "generated_keys": 4,
+      "loop": true
+    },
+    "study": {
+      "file": "study.png",
+      "count": 32,
+      "columns": 8,
+      "duration": 4.8,
+      "generated_keys": 4,
+      "loop": true
+    },
+    "work": {
+      "file": "work.png",
+      "count": 32,
+      "columns": 8,
+      "duration": 3.8,
+      "generated_keys": 4,
+      "loop": true
+    },
+    "pajama": {
+      "file": "pajama.png",
+      "count": 32,
+      "columns": 8,
+      "duration": 4.8,
+      "generated_keys": 4,
+      "loop": true
+    },
+    "fight": {
+      "file": "fight.png",
+      "count": 32,
+      "columns": 8,
+      "duration": 3.2,
+      "generated_keys": 4,
+      "loop": true
+    }
+  }
+}

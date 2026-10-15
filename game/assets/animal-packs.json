@@ -1,0 +1,156 @@
+{
+  "version": "storage-20261007-v1",
+  "default": "hedgehog",
+  "animals": {
+    "otter": {
+      "file": "pet-otter.pck",
+      "size": 54206464,
+      "sha256": "4411d16f54ff5256f76702d9edff6becaf0791c218a25c3c199d99c5170aa2c5",
+      "url": "https://github.com/kimhan964/boksilboksil-pet/releases/download/v0.33.0-preview.20261007/pet-otter.pck",
+      "required_paths": [
+        "res://assets/species-v3/otter/manifest.json",
+        "res://assets/walk-v14/otter/manifest.json"
+      ]
+    },
+    "squirrel": {
+      "file": "pet-squirrel.pck",
+      "size": 56277652,
+      "sha256": "2d777fe28456593b4eae5ba601973701d4a014d9f773300be8c50cbc306cd3de",
+      "url": "https://github.com/kimhan964/boksilboksil-pet/releases/download/v0.33.0-preview.20261007/pet-squirrel.pck",
+      "required_paths": [
+        "res://assets/species-v3/squirrel/manifest.json",
+        "res://assets/walk-v14/squirrel/manifest.json"
+      ]
+    },
+    "hedgehog": {
+      "file": "pet-hedgehog.pck",
+      "size": 59784756,
+      "sha256": "19ce355b67e253e14eda6e5394563729ebf8a0024b6d578adb28864027c272fe",
+      "url": "https://github.com/kimhan964/boksilboksil-pet/releases/download/v0.33.0-preview.20261007/pet-hedgehog.pck",
+      "required_paths": [
+        "res://assets/species-v3/hedgehog/manifest.json",
+        "res://assets/walk-v14/hedgehog/manifest.json"
+      ]
+    },
+    "raccoon": {
+      "file": "pet-raccoon.pck",
+      "size": 50695596,
+      "sha256": "999010644efefe989c4cca9bb8f141813a4df0f134ea70d30a75958ee3527ac6",
+      "url": "https://github.com/kimhan964/boksilboksil-pet/releases/download/v0.33.0-preview.20261007/pet-raccoon.pck",
+      "required_paths": [
+        "res://assets/species-v3/raccoon/manifest.json",
+        "res://assets/walk-v14/raccoon/manifest.json"
+      ]
+    },
+    "fox": {
+      "file": "pet-fox.pck",
+      "size": 52140840,
+      "sha256": "f87f0f1223866eecaaf924e1ba86075f4f0f7fdc8c2697ad51e387d03af47c67",
+      "url": "https://github.com/kimhan964/boksilboksil-pet/releases/download/v0.33.0-preview.20261007/pet-fox.pck",
+      "required_paths": [
+        "res://assets/species-v3/fox/manifest.json",
+        "res://assets/walk-v14/fox/manifest.json"
+      ]
+    },
+    "bear": {
+      "file": "pet-bear.pck",
+      "size": 51749072,
+      "sha256": "26a64fea8269e3c577f4c873c30a295607f8a54423c0aa6c81d009221939058e",
+      "url": "https://github.com/kimhan964/boksilboksil-pet/releases/download/v0.33.0-preview.20261007/pet-bear.pck",
+      "required_paths": [
+        "res://assets/species-v3/bear/manifest.json",
+        "res://assets/walk-v14/bear/manifest.json"
+      ]
+    },
+    "owl": {
+      "file": "pet-owl.pck",
+      "size": 55845084,
+      "sha256": "24868a98adc9adc4d503e76193cded6b249cbba44ad5cca5ac49508b86caa36f",
+      "url": "https://github.com/kimhan964/boksilboksil-pet/releases/download/v0.33.0-preview.20261007/pet-owl.pck",
+      "required_paths": [
+        "res://assets/species-v3/owl/manifest.json",
+        "res://assets/walk-v14/owl/manifest.json"
+      ]
+    },
+    "cat": {
+      "file": "pet-cat.pck",
+      "size": 56149848,
+      "sha256": "2ab22f6dce8a79f9d04ae058c8282faa20dd040dd4aaa5c20018c6ac156327ad",
+      "url": "https://github.com/kimhan964/boksilboksil-pet/releases/download/v0.33.0-preview.20261007/pet-cat.pck",
+      "required_paths": [
+        "res://assets/species-v3/cat/manifest.json",
+        "res://assets/walk-v14/cat/manifest.json"
+      ]
+    },
+    "puppy": {
+      "file": "pet-puppy.pck",
+      "size": 48540592,
+      "sha256": "d97de96bb2c5672ed432b3eecb3851bbe54126d7c5218d1a51d916849d37205f",
+      "url": "https://github.com/kimhan964/boksilboksil-pet/releases/download/v0.33.0-preview.20261007/pet-puppy.pck",
+      "required_paths": [
+        "res://assets/species-v3/puppy/manifest.json",
+        "res://assets/walk-v14/puppy/manifest.json"
+      ]
+    },
+    "hamster": {
+      "file": "pet-hamster.pck",
+      "size": 53132484,
+      "sha256": "6f65e764a8454988e73edeb14c085e725335457d5e2b8012d5c3ee95bb5b901d",
+      "url": "https://github.com/kimhan964/boksilboksil-pet/releases/download/v0.33.0-preview.20261007/pet-hamster.pck",
+      "required_paths": [
+        "res://assets/species-v3/hamster/manifest.json",
+        "res://assets/walk-v14/hamster/manifest.json"
+      ]
+    },
+    "panda": {
+      "file": "pet-panda.pck",
+      "size": 42668464,
+      "sha256": "0aed96670baab228c7785227294741c0d76b9989e4e94bfe2c5625be4e1ddb85",
+      "url": "https://github.com/kimhan964/boksilboksil-pet/releases/download/v0.33.0-preview.20261007/pet-panda.pck",
+      "required_paths": [
+        "res://assets/species-v3/panda/manifest.json",
+        "res://assets/walk-v14/panda/manifest.json"
+      ]
+    },
+    "red_panda": {
+      "file": "pet-red_panda.pck",
+      "size": 49216324,
+      "sha256": "0e8bf68052147154eca6756e6bf16b403c8ba2b4d9b875b94f1b69d63996e940",
+      "url": "https://github.com/kimhan964/boksilboksil-pet/releases/download/v0.33.0-preview.20261007/pet-red_panda.pck",
+      "required_paths": [
+        "res://assets/species-v3/red_panda/manifest.json",
+        "res://assets/walk-v14/red_panda/manifest.json"
+      ]
+    },
+    "lamb": {
+      "file": "pet-lamb.pck",
+      "size": 47687392,
+      "sha256": "212fce4c907ca252bb188a1033b09b30658a903006915b06a7d1a1884f64b7d2",
+      "url": "https://github.com/kimhan964/boksilboksil-pet/releases/download/v0.33.0-preview.20261007/pet-lamb.pck",
+      "required_paths": [
+        "res://assets/species-v3/lamb/manifest.json",
+        "res://assets/walk-v14/lamb/manifest.json"
+      ]
+    },
+    "koala": {
+      "file": "pet-koala.pck",
+      "size": 49574972,
+      "sha256": "7591b46be255a8cec67ba45e8d88be6db3501a124a0d444835cb022d956d9406",
+      "url": "https://github.com/kimhan964/boksilboksil-pet/releases/download/v0.33.0-preview.20261007/pet-koala.pck",
+      "required_paths": [
+        "res://assets/species-v3/koala/manifest.json",
+        "res://assets/walk-v14/koala/manifest.json"
+      ]
+    },
+    "penguin": {
+      "file": "pet-penguin.pck",
+      "size": 43682116,
+      "sha256": "b53ac7eb53834a5f46aeea920c77f75abdabe841254d2a02ac68dd9f2701e65d",
+      "url": "https://github.com/kimhan964/boksilboksil-pet/releases/download/v0.33.0-preview.20261007/pet-penguin.pck",
+      "required_paths": [
+        "res://assets/species-v3/penguin/manifest.json",
+        "res://assets/walk-v14/penguin/manifest.json"
+      ]
+    }
+  }
+}
