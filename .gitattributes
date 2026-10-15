@@ -1,0 +1,2 @@
+# Keep the exported resource snapshot byte-for-byte, including line endings.
+* -text
