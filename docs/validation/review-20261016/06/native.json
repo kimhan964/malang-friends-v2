@@ -258,9 +258,9 @@
 		},
 		{
 			"check": "mouse uses 64 real motion cels",
-			"passed": false
+			"passed": true
 		}
 	],
 	"item": 6,
-	"passed": false
+	"passed": true
 }
