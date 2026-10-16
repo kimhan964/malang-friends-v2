@@ -1,0 +1,498 @@
+{
+	"checks": [
+		{
+			"check": "alarm effect uses steady input/draw canvas 0",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 1",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 2",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 3",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 4",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 5",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 6",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 7",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 8",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 9",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 10",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 11",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 12",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 13",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 14",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 15",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 16",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 17",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 18",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 19",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 20",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 21",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 22",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 23",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 24",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 25",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 26",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 27",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 28",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 29",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 30",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 31",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 32",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 33",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 34",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 35",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 36",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 37",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 38",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 39",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 40",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 41",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 42",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 43",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 44",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 45",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 46",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 47",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 48",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 49",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 50",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 51",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 52",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 53",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 54",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 55",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 56",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 57",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 58",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 59",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 60",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 61",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 62",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 63",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 64",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 65",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 66",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 67",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 68",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 69",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 70",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 71",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 72",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 73",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 74",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 75",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 76",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 77",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 78",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 79",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 80",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 81",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 82",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 83",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 84",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 85",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 86",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 87",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 88",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 89",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 90",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 91",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 92",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 93",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 94",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 95",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 96",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 97",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 98",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 99",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 100",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 101",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 102",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 103",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 104",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 105",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 106",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 107",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 108",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 109",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 110",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 111",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 112",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 113",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 114",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 115",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 116",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 117",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 118",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 119",
+			"passed": true
+		},
+		{
+			"check": "alarm has visible bell shake",
+			"passed": true
+		},
+		{
+			"check": "alarm settles without permanent tilt",
+			"passed": true
+		},
+		{
+			"check": "pet reacts immediately to alarm",
+			"passed": true
+		}
+	],
+	"item": 10,
+	"passed": true
+}

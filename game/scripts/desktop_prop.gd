@@ -127,7 +127,7 @@ class PropDrawing extends Node2D:
 		var tint=[Color.WHITE,Color(1,.93,.90),Color(.90,.95,1)][prop.palette]
 		if prop.kind in ["acorn","basket"]:
 			var amplitude=prop.WOBBLE_ANGLE if prop.kind=="acorn" else .025
-			var angle=sin(prop.wobble_time*TAU*1.8)*amplitude if prop.wobbling else 0.0
+			var angle=sin(prop.wobble_time*TAU*(.8 if prop.kind=="acorn" else 1.8))*amplitude if prop.wobbling else 0.0
 			draw_set_transform(Vector2(56,86),angle,Vector2.ONE)
 			draw_texture_rect(artwork,Rect2(Vector2(-dimensions.x*.5,-dimensions.y),dimensions),false,tint)
 			draw_set_transform(Vector2.ZERO)

@@ -10,7 +10,9 @@ static func data(species: int) -> Dictionary:
 static func has_action(species: int,action: String) -> bool:
 	return data(species).get("sequences",{}).has(action)
 static func spec(species: int,action: String) -> Dictionary:
-	return data(species).get("sequences",{}).get(action,{})
+	var result: Dictionary=data(species).get("sequences",{}).get(action,{}).duplicate()
+	if action=="run" and result.has("duration"):result.duration=float(result.duration)*1.3/Catalog.WORLD_SPEED_MULTIPLIER
+	return result
 static func frames(species: int,action: String) -> Array:
 	var key="%d/%s"%[species,action]
 	if not banks.has(key):

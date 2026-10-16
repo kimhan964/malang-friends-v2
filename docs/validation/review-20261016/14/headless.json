@@ -1,0 +1,46 @@
+{
+	"checks": [
+		{
+			"check": "plant migration preserves custom size 0.65",
+			"passed": true
+		},
+		{
+			"check": "plant migration leaves other furniture size",
+			"passed": true
+		},
+		{
+			"check": "plant migration preserves custom size 0.7",
+			"passed": true
+		},
+		{
+			"check": "plant migration leaves other furniture size",
+			"passed": true
+		},
+		{
+			"check": "plant migration preserves custom size 1.0",
+			"passed": true
+		},
+		{
+			"check": "plant migration leaves other furniture size",
+			"passed": true
+		},
+		{
+			"check": "plant migration preserves custom size 1.2",
+			"passed": true
+		},
+		{
+			"check": "plant migration leaves other furniture size",
+			"passed": true
+		},
+		{
+			"check": "new plant starts at 70 percent",
+			"passed": true
+		},
+		{
+			"check": "reset uses 70 percent",
+			"passed": true
+		}
+	],
+	"item": 14,
+	"passed": true
+}

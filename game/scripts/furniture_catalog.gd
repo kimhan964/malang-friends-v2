@@ -40,6 +40,7 @@ static func apply_style(target: ShaderMaterial,value: Dictionary,id: String="") 
 	target.set_shader_parameter("accent_color",COLORS[s.color])
 	target.set_shader_parameter("protect_nature",id in ["plant_stand","aquarium","window_seat"])
 static func is_wall(id: String) -> bool: return ITEMS.get(id,{}).get("wall",false)
+static func default_scale(id: String) -> float:return .7 if id=="plant_stand" else 1.0
 static func material() -> ShaderMaterial:
 	var result=ShaderMaterial.new()
 	result.shader=preload("res://scripts/furniture_palette.gdshader")
@@ -51,6 +52,7 @@ static func use_label(id: String) -> String:
 	if id=="alarm_clock": return "자명종 살펴보기"
 	return {"tv":"TV 보며 쉬기","turntable":"LP 감상하기","wall_clock":"시계 바라보기","wall_shelf":"선반 곁에서 독서","plant_stand":"잎새 구경하기","dresser":"거울 없이 털 단장","fireplace":"따뜻하게 쉬기","aquarium":"물고기 구경하기"}.get(id,USE_LABELS.get(id,"곁에서 쉬기"))
 static func texture(id: String,design: int=0) -> Texture2D:
+	if id=="toy_mouse": return preload("res://scripts/toy_mouse_art.gd").frames()[0]
 	if id in preload("res://scripts/v2_furniture_art.gd").IDS: return preload("res://scripts/v2_furniture_art.gd").frames(id)[0]
 	if id=="toy_plush": return preload("res://scripts/v2_shared_art.gd").texture("carrot-plush")
 	if not ITEMS.has(id) and id!="water-cup": return null

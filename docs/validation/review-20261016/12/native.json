@@ -1,0 +1,150 @@
+{
+	"checks": [
+		{
+			"check": "ladder appears at wall shelf",
+			"passed": true
+		},
+		{
+			"check": "climb has continuous visual height and grounded physics 0",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame ladder-00",
+			"passed": true
+		},
+		{
+			"check": "climb has continuous visual height and grounded physics 1",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame ladder-01",
+			"passed": true
+		},
+		{
+			"check": "climb has continuous visual height and grounded physics 2",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame ladder-02",
+			"passed": true
+		},
+		{
+			"check": "climb has continuous visual height and grounded physics 3",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame ladder-03",
+			"passed": true
+		},
+		{
+			"check": "climb has continuous visual height and grounded physics 4",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame ladder-04",
+			"passed": true
+		},
+		{
+			"check": "climb has continuous visual height and grounded physics 5",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame ladder-05",
+			"passed": true
+		},
+		{
+			"check": "climb has continuous visual height and grounded physics 6",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame ladder-06",
+			"passed": true
+		},
+		{
+			"check": "climb has continuous visual height and grounded physics 7",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame ladder-07",
+			"passed": true
+		},
+		{
+			"check": "climb has continuous visual height and grounded physics 8",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame ladder-08",
+			"passed": true
+		},
+		{
+			"check": "climb has continuous visual height and grounded physics 9",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame ladder-09",
+			"passed": true
+		},
+		{
+			"check": "climb has continuous visual height and grounded physics 10",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame ladder-10",
+			"passed": true
+		},
+		{
+			"check": "climb has continuous visual height and grounded physics 11",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame ladder-11",
+			"passed": true
+		},
+		{
+			"check": "climb has continuous visual height and grounded physics 12",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame ladder-12",
+			"passed": true
+		},
+		{
+			"check": "climb has continuous visual height and grounded physics 13",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame ladder-13",
+			"passed": true
+		},
+		{
+			"check": "climb has continuous visual height and grounded physics 14",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame ladder-14",
+			"passed": true
+		},
+		{
+			"check": "climb has continuous visual height and grounded physics 15",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame ladder-15",
+			"passed": true
+		},
+		{
+			"check": "after descent switches to reading",
+			"passed": true
+		},
+		{
+			"check": "reading uses one embedded book",
+			"passed": true
+		},
+		{
+			"check": "cancel clears ladder and lift",
+			"passed": true
+		}
+	],
+	"item": 12,
+	"passed": true
+}

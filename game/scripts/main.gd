@@ -85,6 +85,11 @@ func restore_layer_order() -> void:
 		for piece in furniture_room.ordered_pieces():
 			if is_instance_valid(piece) and piece.visible:
 				ordered_windows.append(piece)
+	# Small desktop props are independent native windows too. Include them
+	# before the animal so a basket click cannot leave it above the pet.
+	for prop in props.values()+hunt:
+		if is_instance_valid(prop) and prop.visible:
+			ordered_windows.append(prop)
 	var ball=pet.ball_window if is_instance_valid(pet) else null
 	for window in [pet,ball,held_food,gift_notice]:
 		if is_instance_valid(window) and window.visible:
@@ -785,6 +790,7 @@ func _process(_delta: float) -> void:
 			pet.motion.cancel_play()
 			playing=false
 		props.acorn.set_wobbling(playing)
+		if playing:props.acorn.wobble_time=pet.motion.elapsed
 	var hovered=""
 	var furniture_hover=""
 	if is_instance_valid(furniture_room):
@@ -1101,20 +1107,23 @@ func use_common_toy(id: String) -> void:
 	var point=(props[id].feet_point()+Vector2(-48,0)).clamp(pet.motion.bounds.position,pet.motion.bounds.end)
 	pet.motion.visit(point,"prop_use",id,true)
 
-func set_acorn_visible(value: bool) -> void:
-	if not props.has("acorn"): return
+func set_prop_visible(id: String,value: bool) -> void:
+	if not props.has(id): return
 	if value:
-		state.hidden.erase("acorn")
-		preferred_toy="acorn"
-		focus_prop="acorn"
-		ensure_prop_nearby("acorn")
-		floor_prop(props.acorn)
+		state.hidden.erase(id)
+		preferred_toy=id
+		focus_prop=id
+		ensure_prop_nearby(id)
+		floor_prop(props[id])
 	else:
-		if "acorn" not in state.hidden: state.hidden.append("acorn")
-		if pet.motion.visit_id=="acorn": pet.motion.cancel_play()
-		props.acorn.set_wobbling(false)
+		if id not in state.hidden: state.hidden.append(id)
+		if pet.motion.visit_id==id: pet.motion.cancel_play()
+		props[id].set_wobbling(false)
 	state.save_game()
 	apply_prop_visibility()
 	refresh_destinations()
 	request_layer_order()
 	if is_instance_valid(furniture_room): furniture_room.refresh_buttons()
+
+func set_acorn_visible(value: bool) -> void:
+	set_prop_visible("acorn",value)

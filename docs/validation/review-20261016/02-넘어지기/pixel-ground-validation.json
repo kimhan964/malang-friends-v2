@@ -1,0 +1,7 @@
+{
+  "passed": true,
+  "frames": 84,
+  "bottom_min": 189,
+  "bottom_max": 190,
+  "method": "Production DesktopPetView rendered in continuously updated GPU SubViewport"
+}

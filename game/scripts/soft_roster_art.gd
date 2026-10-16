@@ -28,6 +28,8 @@ static func sample(motion) -> Dictionary:
 	var result: Dictionary
 	if preload("res://scripts/v2_interaction_art.gd").active(motion):
 		result=preload("res://scripts/v2_interaction_art.gd").sample(motion)
+	elif preload("res://scripts/shelf_ladder.gd").active(motion):
+		result=preload("res://scripts/shelf_ladder.gd").sample(motion)
 	elif preload("res://scripts/v2_daily_art.gd").active(motion):
 		result=preload("res://scripts/v2_daily_art.gd").sample(motion)
 	elif preload("res://scripts/v2_life_art.gd").active(motion):

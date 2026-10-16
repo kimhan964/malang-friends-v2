@@ -1,7 +1,8 @@
 extends RefCounted
-const LABELS={"run":"신나게 달리기","jump":"폴짝 점프","happy":"기분 좋은 춤","sad":"잠깐 토라지기","peek":"궁금해서 빼꼼","drink":"차 한 모금","sing":"작은 노래","study":"책 읽고 공부","work":"새싹 돌보기","pajama":"잠옷 입고 꾸벅","fight":"나뭇잎 방패 놀이","roll":"데굴데굴 굴러가기","fly":"대나무 프로펠러 비행"}
-const DURATIONS={"run":4.5,"jump":1.25,"happy":3.2,"sad":3.5,"peek":3.2,"drink":4.8,"sing":6.4,"study":9.6,"work":7.6,"pajama":9.6,"fight":6.4,"roll":4.0,"fly":6.0}
+const LABELS={"stumble":"앗, 넘어졌다 일어나기","run":"신나게 달리기","jump":"폴짝 점프","happy":"기분 좋은 춤","sad":"잠깐 토라지기","peek":"궁금해서 빼꼼","drink":"차 한 모금","sing":"작은 노래","study":"책 읽고 공부","work":"새싹 돌보기","pajama":"잠옷 입고 꾸벅","fight":"나뭇잎 방패 놀이","roll":"데굴데굴 굴러가기","fly":"대나무 프로펠러 비행"}
+const DURATIONS={"stumble":2.8,"run":4.5,"jump":1.25,"happy":3.2,"sad":3.5,"peek":3.2,"drink":4.8,"sing":6.4,"study":9.6,"work":7.6,"pajama":9.6,"fight":6.4,"roll":4.0,"fly":6.0}
 var runner=preload("res://scripts/run_hop_motion.gd").new()
+var generic_runner=preload("res://scripts/generic_run.gd").new()
 var queued=""
 var action=""
 var clock=0.0
@@ -41,7 +42,8 @@ func start(m,kind: String) -> bool:
 		m.facing=direction
 		if absf(m.target.x-m.feet.x)<18: action="happy"
 	if preload("res://scripts/run_hop_art.gd").has_action(m.species,action): runner.begin(m)
-	m.say({"run":"가볍게 한 바퀴!","jump":"폴짝!","happy":"신나는 하루","sad":"잠깐만, 생각 중…","peek":"무슨 일일까?","drink":"따뜻한 한 모금","sing":"흥얼흥얼 ♪","study":"한 장만 더 읽자","work":"새싹아, 쑥쑥 자라라","pajama":"포근해서 졸려…","fight":"오늘은 잎새 기사!","roll":"데굴데굴, 한 바퀴!","fly":"두둥실, 날아보자!"}[kind])
+	elif action=="run": generic_runner.begin(m)
+	m.say({"stumble":"앗, 미끄러졌네… 괜찮아!","run":"가볍게 한 바퀴!","jump":"폴짝!","happy":"신나는 하루","sad":"잠깐만, 생각 중…","peek":"무슨 일일까?","drink":"따뜻한 한 모금","sing":"흥얼흥얼 ♪","study":"한 장만 더 읽자","work":"새싹아, 쑥쑥 자라라","pajama":"포근해서 졸려…","fight":"오늘은 잎새 기사!","roll":"데굴데굴, 한 바퀴!","fly":"두둥실, 날아보자!"}[kind])
 	cooldown=m.rng.randf_range(32,52)
 	return true
 func finish(m) -> void:
@@ -65,23 +67,17 @@ func advance(m,delta: float) -> bool:
 			runner.advance(m,delta)
 			return true
 		if action=="run":
-			var offset=m.target-m.feet
-			# Retain the approved stride distance; move and sample by actual distance.
-			var metadata=preload("res://scripts/smooth_species_art.gd").spec(m)
-			var stride=m.smooth_walk_cycle.stride_length(m,metadata)
-			var speed=stride/(float(metadata.cycle_seconds)/1.65)
-			var travel=minf(offset.length(),speed*delta)
-			m.feet+=offset.normalized()*travel
-			m.walk_phase=fposmod(m.walk_phase+travel/maxf(.01,stride),1.0)
-			m.travel_speed=speed
-			if offset.length()<1: finish(m);return true
+			generic_runner.advance(m,delta)
+			return true
 		if action=="drink": m.hydration=minf(100,m.hydration+delta*4)
 		if action=="pajama": m.energy=minf(100,m.energy+delta*.6)
 		if clock>=duration(action): finish(m)
 		return true
 	if not action.is_empty(): clear()
+	if enabled and m.autonomy and not m.held and not m.carried and not m.resting and m.phase=="wander" and cooldown<=0 and m.elapsed>1.5 and absf(sin(m.walk_phase*TAU))<.18:
+		return start(m,"stumble")
 	if not enabled or not m.autonomy or m.resting or m.held or m.carried or m.phase!="idle" or cooldown>0 or m.energy<38 or m.satiety<40 or m.hydration<40: return false
-	var choices=["happy","peek","sing","study","work","fight","jump"]
+	var choices=["happy","peek","sing","study","work","fight","jump","stumble"]
 	for kind in ["roll","fly"]:
 		if preload("res://scripts/behavior_unlocks.gd").available(m.behavior_points,kind): choices.append(kind)
 	if Time.get_time_dict_from_system().hour>=21: choices.append("pajama")

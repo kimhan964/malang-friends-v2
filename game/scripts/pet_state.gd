@@ -57,6 +57,10 @@ const RETIRED_PROPS=["bowl","water","cushion","shelter","lamp","plant"]
 var home_owned: Dictionary={}
 var home_initialized=false
 var starter_layout_version=0
+var scale_defaults_version=1
+func migrate_scale_defaults(version: int) -> void:
+	if version<1 and furniture.has("plant_stand") and furniture.plant_stand.size()>3 and is_equal_approx(float(furniture.plant_stand[3]),1.0):furniture.plant_stand[3]=.7
+	scale_defaults_version=1
 func home_points() -> int:
 	var points=0
 	for value in play_affection.values(): points+=int(value)
@@ -158,7 +162,7 @@ func load_furniture(value) -> void:
 		if point is Array and point.size()>=2 and point.size()<=5 and numeric(point[0]) and numeric(point[1]):
 			furniture[id]=[clampf(float(point[0]),-100000,100000),clampf(float(point[1]),-100000,100000)]
 			furniture[id].append(point.size()>2 and point[2]==true)
-			furniture[id].append(clampf(float(point[3]),.6,1.6) if point.size()>3 and numeric(point[3]) else 1.0)
+			furniture[id].append(clampf(float(point[3]),.6,1.6) if point.size()>3 and numeric(point[3]) else Furniture.default_scale(id))
 			furniture[id].append(clampi(int(point[4]),-100000,100000) if point.size()>4 and numeric(point[4]) else 0)
 
 func load_game() -> void:
@@ -166,6 +170,7 @@ func load_game() -> void:
 	var data=JSON.parse_string(FileAccess.get_file_as_string(save_path))
 	if not data is Dictionary: return
 	load_furniture(data.get("furniture",{}))
+	migrate_scale_defaults(int(data.get("scale_defaults_version",0)))
 	arrival_seen.clear()
 	var seen=data.get("arrival_seen",{})
 	if seen is Dictionary:
@@ -230,7 +235,7 @@ func save_game() -> void:
 	if file==null:
 		save_failed=true
 		return
-	file.store_string(JSON.stringify({"version":8,"starter_layout_version":starter_layout_version,"home_initialized":home_initialized,"home_owned":home_owned,"activity_space":activity_space,"guide_seen":guide_seen,"activity_counts":activity_counts,"growth":growth,"selected":selected,"palette":palette,"affection":play_affection,"layout":layout,"hidden":hidden,"discoveries":discoveries,"personal_layout":personal_layout,"meals":meals,"favorite_foods":favorite_foods,"outfits":outfits,"outfit_colors":outfit_colors,"furniture":furniture,"furniture_styles":furniture_styles,"arrival_seen":arrival_seen}))
+	file.store_string(JSON.stringify({"version":9,"scale_defaults_version":scale_defaults_version,"starter_layout_version":starter_layout_version,"home_initialized":home_initialized,"home_owned":home_owned,"activity_space":activity_space,"guide_seen":guide_seen,"activity_counts":activity_counts,"growth":growth,"selected":selected,"palette":palette,"affection":play_affection,"layout":layout,"hidden":hidden,"discoveries":discoveries,"personal_layout":personal_layout,"meals":meals,"favorite_foods":favorite_foods,"outfits":outfits,"outfit_colors":outfit_colors,"furniture":furniture,"furniture_styles":furniture_styles,"arrival_seen":arrival_seen}))
 	file.close()
 	save_failed=DirAccess.rename_absolute(save_path+".tmp",save_path)!=OK
 

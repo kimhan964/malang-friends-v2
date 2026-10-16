@@ -7,7 +7,7 @@
   ],
   "reference_height": 210,
   "method": "AI whole-body drawings and whole-frame optical inbetweens; no limb cutting",
-  "source": "C:\\Users\\rlagk\\Documents\\복슬복슬펫\\output\\v2-behavior-library\\sources\\hedgehog.png",
+  "source": "C:\\Users\\rlagk\\Documents\\복슬복슬펫\\output\\v2-behavior-library\\sources\\hedgehog-fixed.png",
   "sequences": {
     "sad": {
       "file": "sad.png",

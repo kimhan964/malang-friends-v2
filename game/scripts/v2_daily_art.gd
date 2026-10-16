@@ -27,12 +27,11 @@ static func sample(m) -> Dictionary:
 	var kind: String=m.daily.action if m.phase=="daily_action" else "drink"
 	if m.phase=="home_use": kind=HOME_ACTIONS[m.visit_id]
 	if kind in ["roll","fly"]: return preload("res://scripts/adventure_art.gd").sample(m)
+	if kind=="stumble": return preload("res://scripts/trip_art.gd").sample(m)
 	if preload("res://scripts/run_hop_art.gd").has_action(m.species,kind):
 		return preload("res://scripts/run_hop_art.gd").sample(m)
 	if kind=="run":
-		var result=preload("res://scripts/smooth_species_art.gd").sample(m,"walk")
-		result.bank="daily-run";result.daily_animation=true
-		return result
+		return preload("res://scripts/generic_run.gd").sample(m)
 	if kind in ["jump","happy"]:
 		var action="pet"
 		var cels=preload("res://scripts/v2_basic_art.gd").frames(m.species,action) if m.species!=3 else preload("res://scripts/soft_hedgehog_art.gd").frames(action)
@@ -42,4 +41,4 @@ static func sample(m) -> Dictionary:
 	var cels=frames(m.species,kind)
 	var time: float=m.daily.clock if m.phase=="daily_action" else m.elapsed
 	var index=mini(cels.size()-1,int(fposmod(time/float(data(m.species).sequences[kind].duration),1.0)*cels.size()))
-	return {"texture":cels[index],"next_texture":cels[index],"frame_mix":0.0,"action":"daily_"+kind,"bank":"daily-"+kind,"index":index,"height":float(data(m.species).reference_height),"mouth":Vector2(156,125),"hand":Vector2(151,175),"anchor":Vector2(128,232),"stage":preload("res://scripts/smooth_species_art.gd").stage(m),"home_animation":m.phase=="home_use","daily_animation":true,"embedded_food":kind=="drink","dressed":kind=="pajama","fixed_cels":true,"soft_roster":true}
+	return {"texture":cels[index],"next_texture":cels[index],"frame_mix":0.0,"action":"daily_"+kind,"bank":"daily-"+kind,"index":index,"height":float(data(m.species).reference_height),"mouth":Vector2(156,125),"hand":Vector2(151,175),"anchor":Vector2(128,232),"stage":preload("res://scripts/smooth_species_art.gd").stage(m),"home_animation":m.phase=="home_use","daily_animation":true,"embedded_food":kind=="drink","embedded_book":kind=="study","dressed":kind=="pajama","fixed_cels":true,"soft_roster":true}

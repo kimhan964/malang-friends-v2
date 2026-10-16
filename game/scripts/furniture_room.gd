@@ -11,8 +11,8 @@ var panel_icon: TextureRect
 var panel_column: VBoxContainer
 var panel_scroll: ScrollContainer
 var panel_done: Button
-const TOY_IDS=["acorn","toy_ball","toy_mouse","toy_plush"]
-var acorn_button: Button
+const TOY_IDS=["acorn","basket","toy_ball","toy_mouse","toy_plush"]
+var prop_buttons={}
 var buttons: Dictionary={}
 var previews: Dictionary={}
 var status_labels: Dictionary={}
@@ -28,6 +28,7 @@ const FRONT_GAP=18.0
 var arrivals=preload("res://scripts/furniture_arrivals.gd").new()
 var toy_play=preload("res://scripts/toy_play.gd").new()
 var mouse_roam=preload("res://scripts/mouse_roam.gd").new()
+var shelf_ladder=preload("res://scripts/shelf_ladder.gd").new()
 func _ready() -> void:
 	for id in app.state.furniture:
 		var at=app.state.furniture[id]
@@ -35,7 +36,7 @@ func _ready() -> void:
 		if pieces.has(id): pieces[id].set_mirrored(at.size()>2 and at[2]==true)
 		if pieces.has(id):
 			pieces[id].stack_order=int(at[4]) if at.size()>4 else 0
-			pieces[id].set_user_scale(float(at[3]) if at.size()>3 else 1.0)
+			pieces[id].set_user_scale(float(at[3]) if at.size()>3 else Catalog.default_scale(id))
 			floor_piece(pieces[id])
 	if not app.state.home_initialized or app.state.starter_layout_version<1:
 		for id in ["table","sofa","play_rug"]: place(id,Vector2.INF,false)
@@ -54,6 +55,7 @@ func place(id: String,at=Vector2.INF,persist: bool=true) -> void:
 	if pieces.has(id): return
 	var piece=Piece.new()
 	piece.item_id=id
+	piece.user_scale=Catalog.default_scale(id)
 	piece.appearance=Catalog.normalize_style(app.state.furniture_styles.get(id,{}))
 	add_child(piece)
 	if not at.is_finite():
@@ -96,6 +98,7 @@ func keep_panel_front() -> void:
 		DisplayServer.window_move_to_foreground(panel.get_window_id())
 func remove_piece(id: String) -> void:
 	if not pieces.has(id): return
+	if toy_play.id==id or toy_play.user_motion.get("id","")==id:toy_play.cancel()
 	if is_instance_valid(app.pet) and HOME_IDS.get(app.pet.motion.visit_id,"")==id: app.pet.motion.cancel_play()
 	pieces[id].hide()
 	pieces[id].queue_free()
@@ -121,6 +124,7 @@ func ordered_pieces() -> Array:
 	ordered.sort_custom(func(a,b):
 		if a.item_id=="play_rug" or b.item_id=="play_rug": return a.item_id=="play_rug" and b.item_id!="play_rug"
 		return a.stack_order<b.stack_order if a.stack_order!=b.stack_order else a.item_id<b.item_id)
+	if is_instance_valid(shelf_ladder.window) and shelf_ladder.window.visible:ordered.append(shelf_ladder.window)
 	return ordered
 func change_stack(id: String,direction: int) -> void:
 	if not pieces.has(id): return
@@ -251,11 +255,13 @@ func on_visit(id: String) -> void:
 	m.say({"home_food":"잘 먹을게","home_water":"시원해","home_tea":"차 한 잔","home_sofa":"포근해","home_shelf":"한 장 더","home_lamp":"잠깐 쉬자","home_reading_chair":"책 읽는 시간","home_daybed":"조금만 잘게","home_vanity":"단정하게","home_record_player":"좋은 노래","home_play_rug":"같이 놀자","home_window_seat":"느긋한 오후","home_tv":"같이 볼까","home_turntable":"이 곡 좋아","home_wall_clock":"몇 시일까","home_wall_shelf":"여기서 한 장 더","home_plant_stand":"잎이 싱그럽네","home_dresser":"보송하게 정리","home_fireplace":"따뜻하고 포근해","home_aquarium":"물고기가 헤엄쳐","home_alarm_clock":"아직은 여유 있어","home_toy_ball":"데굴데굴 굴려볼까","home_toy_mouse":"살짝 톡 건드려볼까","home_bathtub":"보글보글, 보송해지자","home_toy_plush":"꼬옥, 내 인형"}.get(id,"함께 쉬자"))
 	if id=="home_alarm_clock":
 		alarm_time=0.0
+		m.soft_alarm_time=0.0
 		alarm_species=m.species
 		m.action_left=8.0
 		m.react("surprised",1.1,"look")
 		m.say("어, 무슨 소리지?")
 	last_home=id
+	if id=="home_wall_shelf":shelf_ladder.begin(self)
 	home_delay=18
 func _process(delta: float) -> void:
 	arrivals.advance(self,delta)
@@ -263,12 +269,15 @@ func _process(delta: float) -> void:
 	toy_play.advance(self,delta)
 	if not is_instance_valid(app.pet): return
 	var m=app.pet.motion
+	shelf_ladder.advance(self)
 	if alarm_time>=0:
 		if m.visit_id!="home_alarm_clock" or m.species!=alarm_species or m.held or m.carried or not pieces.has("alarm_clock") or pieces.alarm_clock.dragging:
 			alarm_time=-1.0
+			m.soft_alarm_time=-1.0
 		else:
 			var previous=alarm_time
 			alarm_time+=delta
+			m.soft_alarm_time=alarm_time
 			m.action_left=maxf(m.action_left,2.0)
 			if previous<1.2 and alarm_time>=1.2:
 				m.phase="sniff"
@@ -279,6 +288,7 @@ func _process(delta: float) -> void:
 				m.react("happy",1.0,"interaction_done")
 				m.say("이제 조용해졌어")
 				alarm_time=-1.0
+				m.soft_alarm_time=-1.0
 	for id in pieces:
 		pieces[id].set_active(HOME_IDS.get(m.visit_id,"")==id and m.phase not in ["visit","drop","dizzy","idle"] and not m.held and not m.carried)
 		if id in ["sofa","daybed","bathtub"] and HOME_IDS.get(m.visit_id,"")==id:
@@ -307,7 +317,7 @@ func _process(delta: float) -> void:
 	home_delay=18
 	last_home=choice.id
 func refresh_buttons() -> void:
-	if is_instance_valid(acorn_button): acorn_button.text="치우기" if app.props.has("acorn") and app.props.acorn.visible else "꺼내기"
+	for id in prop_buttons:prop_buttons[id].text="치우기" if app.props.has(id) and app.props[id].visible else "꺼내기"
 	if is_instance_valid(space_picker): space_picker.select(0 if app.state.activity_space=="floor" else 1)
 	for id in buttons:
 		var available=app.state.furniture_available(id)
@@ -406,28 +416,12 @@ func build_panel() -> void:
 	rows.add_theme_constant_override("separation",10)
 	rows.size_flags_horizontal=Control.SIZE_EXPAND_FILL
 	scroll.add_child(rows)
-	var acorn_row=HBoxContainer.new()
-	acorn_row.add_theme_constant_override("separation",12)
-	rows.add_child(acorn_row)
-	item_rows.acorn=acorn_row
-	var acorn_icon=TextureRect.new()
-	acorn_icon.texture=preload("res://scripts/decor_art.gd").icon("acorn")
-	acorn_icon.custom_minimum_size=Vector2(64,68)
-	acorn_icon.expand_mode=TextureRect.EXPAND_IGNORE_SIZE
-	acorn_icon.stretch_mode=TextureRect.STRETCH_KEEP_ASPECT_CENTERED
-	acorn_row.add_child(acorn_icon)
-	var acorn_text=Label.new()
-	acorn_text.text="도토리 오뚝이\n기본 제공 · 클릭하면 흔들흔들"
-	acorn_text.size_flags_horizontal=Control.SIZE_EXPAND_FILL
-	acorn_text.autowrap_mode=TextServer.AUTOWRAP_WORD_SMART
-	preload("res://scripts/cozy_ui.gd").label(acorn_text)
-	acorn_row.add_child(acorn_text)
-	acorn_button=Button.new()
-	acorn_button.custom_minimum_size=Vector2(96,40)
-	acorn_button.size_flags_vertical=Control.SIZE_SHRINK_CENTER
-	style_button(acorn_button)
-	acorn_button.pressed.connect(func(): app.set_acorn_visible(not app.props.acorn.visible))
-	acorn_row.add_child(acorn_button)
+	for prop_id in ["acorn","basket"]:
+		var row=HBoxContainer.new();row.add_theme_constant_override("separation",12);rows.add_child(row);item_rows[prop_id]=row
+		var icon=TextureRect.new();icon.texture=preload("res://scripts/decor_art.gd").icon(prop_id);icon.custom_minimum_size=Vector2(64,68);icon.expand_mode=TextureRect.EXPAND_IGNORE_SIZE;icon.stretch_mode=TextureRect.STRETCH_KEEP_ASPECT_CENTERED;row.add_child(icon)
+		var text=Label.new();text.text=("도토리 오뚝이" if prop_id=="acorn" else "장난감 바구니")+"\n기본 제공 · 꺼내거나 치울 수 있어요";text.size_flags_horizontal=Control.SIZE_EXPAND_FILL;text.autowrap_mode=TextServer.AUTOWRAP_WORD_SMART;preload("res://scripts/cozy_ui.gd").label(text);row.add_child(text)
+		var button=Button.new();button.custom_minimum_size=Vector2(96,40);button.size_flags_vertical=Control.SIZE_SHRINK_CENTER;style_button(button)
+		button.pressed.connect(func():app.set_prop_visible(prop_id,not app.props[prop_id].visible));row.add_child(button);prop_buttons[prop_id]=button
 	var ordered=Catalog.ITEMS.keys()
 	ordered.sort_custom(func(a,b):
 		var ta=app.state.UNLOCKS["home_"+a]

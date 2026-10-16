@@ -5,6 +5,7 @@ const ROWS=[
 	["걷기","자유롭게 돌아다니거나 가구로 갈 때",[["walk","walk","산책"]]],
 	["달리기","신나게 뛰거나 다양한 행동에서 골라볼 때",[["locomotion","run","가볍게 통통 달리기"]]],
 	["점프","쉬는 동안 기분이 좋아 폴짝 뛸 때",[["locomotion","jump","제자리 폴짝"]]],
+	["넘어지기","다양한 행동에서 직접 고르거나 산책 중 가끔 보여요",[["trip","stumble","앗, 넘어졌다 일어나기"]]],
 	["기쁨","쓰다듬거나 기분이 좋아졌을 때",[["basic","pet","기분 좋은 반응"],["daily","sing","흥얼흥얼"]]],
 	["슬픔·토라짐","다양한 행동 메뉴에서 직접 골라볼 수 있어요",[["daily","sad","잠깐 토라지기"]]],
 	["잠","졸리거나 침대에서 쉴 때",[["basic","sleep","꾸벅꾸벅"],["life","bed","침대에서 잠들기"],["daily","pajama","포근한 잠옷"]]],
@@ -29,11 +30,16 @@ const HINTS={
 	"daily/fight":"쉬는 동안 가끔 나뭇잎 놀이를 해요. 다양한 행동 메뉴에서도 볼 수 있어요."
 }
 static func descriptor(species: int,bank: String,action: String) -> Dictionary:
+	if bank=="trip":
+		var spec=descriptor(species,"interaction","dizzy")
+		spec.key="trip/stumble";spec.bank="trip";spec.action="stumble";spec.seconds=2.8
+		return spec
 	if bank=="locomotion" and not preload("res://scripts/run_hop_art.gd").has_action(species,action):
 		var fallback=descriptor(species,"walk" if action=="run" else "basic","walk" if action=="run" else "pet")
 		if fallback.is_empty(): return fallback
 		fallback.key="locomotion/"+action;fallback.bank=bank;fallback.action=action
-		fallback.seconds=float(fallback.seconds)/1.65 if action=="run" else 1.25
+		fallback.seconds=float(fallback.seconds)*.62 if action=="run" else 1.25
+		if action=="run":fallback.lift=18;fallback.launch=.12;fallback.land=.84;fallback.hop_twice=true
 		if action=="jump": fallback.lift=15;fallback.launch=.12;fallback.land=.84
 		return fallback
 	var root="res://assets/"
@@ -55,6 +61,7 @@ static func descriptor(species: int,bank: String,action: String) -> Dictionary:
 	if spec.is_empty(): return {}
 	var seconds=float(spec.get("duration",2.4))
 	if bank=="walk": seconds=float(spec.get("playback_seconds",1.6))*(Catalog.DISPLAY_HEIGHT/110.0)/Catalog.WORLD_SPEED_MULTIPLIER
+	if bank=="locomotion" and action=="run":seconds*=1.3/Catalog.WORLD_SPEED_MULTIPLIER
 	return {"path":root+str(spec.file),"count":int(spec.count),"columns":int(spec.get("columns",8)),"cell":int(spec.get("cell",256)),"seconds":seconds,"curve":spec.get("phase_curve",[]),"key":bank+"/"+action,"bank":bank,"action":action,"lift":spec.get("lift",0),"launch":spec.get("launch",0),"land":spec.get("land",1),"loop":spec.get("loop",true)}
 
 static func index_at(spec: Dictionary,seconds: float) -> int:

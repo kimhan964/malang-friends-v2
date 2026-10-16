@@ -24,11 +24,11 @@ static func frames(species: int,action: String,enter: bool=false) -> Array:
 		banks[key]=result
 	return banks[key]
 static func active(m) -> bool:
-	return (m.phase=="home_use" and KEYS.has(m.visit_id)) or (m.phase=="sniff" and m.soft_toy_contact)
+	return (m.phase=="home_use" and KEYS.has(m.visit_id)) or (m.phase=="sniff" and m.soft_toy_contact) or (m.phase=="prop_use" and m.visit_id=="acorn")
 static func sample(m) -> Dictionary:
 	var action: String=KEYS.get(m.visit_id,"play")
 	var spec: Dictionary=data(m.species).sequences[action]
-	var is_toy: bool=m.phase=="sniff"
+	var is_toy: bool=m.phase in ["sniff","prop_use"]
 	var duration: float=preload("res://scripts/home_animation.gd").duration(m.visit_id)
 	var progress: float=clampf((m.elapsed-EDGE)/maxf(.01,duration-2*EDGE),0,1)
 	var loops: int=maxi(1,roundi((duration-2*EDGE)/float(spec.duration)))
@@ -42,5 +42,10 @@ static func sample(m) -> Dictionary:
 		index=mini(cels.size()-1,roundi(t*(cels.size()-1)))
 	else:
 		cels=frames(m.species,action)
-		if is_toy: index=mini(31,int(fposmod(m.soft_toy_time/float(spec.duration),1)*32))
-	return {"texture":cels[index],"next_texture":cels[index],"frame_mix":0.0,"action":action,"bank":"life_"+action,"index":index,"height":205.0,"anchor":Vector2(128,232),"mouth":Vector2(163,154),"hand":Vector2(146,194),"fixed_cels":true,"soft_roster":true,"home_animation":not is_toy,"life_animation":true,"life_transition":transition,"stage":preload("res://scripts/smooth_species_art.gd").stage(m)}
+		if is_toy: index=mini(31,int(fposmod((m.elapsed if m.visit_id=="acorn" else m.soft_toy_time)/float(spec.duration),1)*32))
+	var hand=Vector2(146,194)
+	if action=="play" and m.species==3:
+		var p=float(index)/32*TAU
+		hand=Vector2(166,183-6*(.5-.5*cos(p)))
+	elif action=="play" and m.species==15:hand=Vector2(162,176)
+	return {"texture":cels[index],"next_texture":cels[index],"frame_mix":0.0,"action":action,"bank":"life_"+action,"index":index,"height":205.0,"anchor":Vector2(128,232),"mouth":Vector2(163,154),"hand":hand,"fixed_cels":true,"soft_roster":true,"home_animation":not is_toy,"life_animation":true,"life_transition":transition,"stage":preload("res://scripts/smooth_species_art.gd").stage(m)}

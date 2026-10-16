@@ -25,6 +25,7 @@ func arrived(room,key: String) -> bool:
 		hug_piece.hide()
 		m.phase="home_use";m.elapsed=0;m.action_left=preload("res://scripts/home_animation.gd").duration(key)
 		m.soft_toy_prop="toy_plush"
+		m.soft_scene_origin=hug_piece.art_point(Vector2(.5,.5))
 		m.say("꼬옥, 같이 놀자")
 		return true
 	if not user_motion.is_empty() and key=="home_"+str(user_motion.id):

@@ -1,0 +1,105 @@
+{
+  "passed": true,
+  "checks": {
+    "3/reproduced": {
+      "expected": [
+        "basket",
+        "pet"
+      ],
+      "actual": [
+        "basket",
+        "pet"
+      ],
+      "passed": true
+    },
+    "3/restored": {
+      "expected": [
+        "pet",
+        "basket"
+      ],
+      "actual": [
+        "pet",
+        "basket"
+      ],
+      "passed": true
+    },
+    "3/playing": {
+      "expected": [
+        "pet",
+        "basket"
+      ],
+      "actual": [
+        "pet",
+        "basket"
+      ],
+      "passed": true
+    },
+    "0/reproduced": {
+      "expected": [
+        "basket",
+        "pet"
+      ],
+      "actual": [
+        "basket",
+        "pet"
+      ],
+      "passed": true
+    },
+    "0/restored": {
+      "expected": [
+        "pet",
+        "basket"
+      ],
+      "actual": [
+        "pet",
+        "basket"
+      ],
+      "passed": true
+    },
+    "0/playing": {
+      "expected": [
+        "pet",
+        "basket"
+      ],
+      "actual": [
+        "pet",
+        "basket"
+      ],
+      "passed": true
+    },
+    "15/reproduced": {
+      "expected": [
+        "basket",
+        "pet"
+      ],
+      "actual": [
+        "basket",
+        "pet"
+      ],
+      "passed": true
+    },
+    "15/restored": {
+      "expected": [
+        "pet",
+        "basket"
+      ],
+      "actual": [
+        "pet",
+        "basket"
+      ],
+      "passed": true
+    },
+    "15/playing": {
+      "expected": [
+        "pet",
+        "basket"
+      ],
+      "actual": [
+        "pet",
+        "basket"
+      ],
+      "passed": true
+    }
+  },
+  "method": "Read actual Windows native Z order; first reproduce basket above pet, then restore and verify playing"
+}

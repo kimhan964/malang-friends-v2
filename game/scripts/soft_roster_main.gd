@@ -29,6 +29,24 @@ func _ready() -> void:
 	super._ready()
 	if validating:
 		if discovery:
+			for argument in OS.get_cmdline_user_args():
+				if argument.begins_with("--review="):
+					var review_checker=preload("res://scripts/review_validation.gd").new()
+					review_checker.app=self;review_checker.item=int(argument.trim_prefix("--review="))
+					add_child(review_checker);review_checker.run.call_deferred()
+					return
+			if OS.get_cmdline_user_args().has("--trip"):
+				var trip_checker=preload("res://scripts/trip_validation.gd").new()
+				trip_checker.app=self
+				add_child(trip_checker)
+				trip_checker.run.call_deferred()
+				return
+			if OS.get_cmdline_user_args().has("--basket-layer"):
+				var layer_checker=preload("res://scripts/basket_layer_validation.gd").new()
+				layer_checker.app=self
+				add_child(layer_checker)
+				layer_checker.run.call_deferred()
+				return
 			if OS.get_cmdline_user_args().has("--home-timing"):
 				var timing_checker=preload("res://scripts/home_timing_validation.gd").new()
 				timing_checker.app=self

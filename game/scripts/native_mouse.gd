@@ -14,9 +14,13 @@ static func available() -> bool:
 	return Engine.has_singleton("MousePassthrough")
 
 static func apply(window: Window, enabled: bool, force: bool=false) -> void:
-	if window.mouse_passthrough!=enabled: window.mouse_passthrough=enabled
-	if not window.visible or not available(): return
 	var key="native_mouse_passthrough"
+	if not window.visible: return
 	if force or not window.has_meta(key) or window.get_meta(key)!=enabled:
-		Engine.get_singleton("MousePassthrough").set_passthrough(window.get_window_id(),enabled)
+		# Updating WS_EX_TRANSPARENT needs no non-client frame recalculation.
+		# The old extension sent SWP_FRAMECHANGED on every cursor crossing.
+		if not preload("res://scripts/native_layer_order.gd").set_passthrough(window,enabled):
+			window.mouse_passthrough=enabled
 		window.set_meta(key,enabled)
+static func enabled(window: Window) -> bool:
+	return bool(window.get_meta("native_mouse_passthrough",window.mouse_passthrough))

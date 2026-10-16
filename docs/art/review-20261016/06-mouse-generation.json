@@ -1,0 +1,6 @@
+{
+  "mode": "built-in image_gen",
+  "prompt": "Use case: identity-preserve. Asset: transparent whole-object sprite sheet for existing desktop game mouse toy. Input image is the approved character and exact art reference: small cream fabric mouse, pink round ears and tail, dark brown round eyes and outline, sage ribbon, squat horizontal body, facing three-quarter RIGHT. Preserve its identity and simple pastel drawing, no realistic fur. Produce exactly EIGHT chronological full-body toy walking poses in 4 columns by 2 rows, each isolated on genuine transparent background, large clear gaps, equal camera and scale. Tiny feet alternate forward/back, lower support foot stays on common baseline; tail flexes gently and ears twitch in sequence; head and torso bob subtly. Two ears, four mouse feet maximum with far feet occluded naturally, one tail, one ribbon. No ghost appendages, no extra silhouettes, no motion trails, no lettering, no scenery or floor shadow. Include all parts of each complete mouse, no overlapping cells. Seamless cyclic poses.",
+  "source": "source.png",
+  "asset": "output/v2-interaction-detail/patch/assets/v2-toys/mouse-walk.png"
+}

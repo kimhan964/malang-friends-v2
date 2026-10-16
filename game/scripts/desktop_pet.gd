@@ -186,7 +186,7 @@ func reveal_native_surface() -> void:
 		view.position=motion.feet-View.FEET-Vector2(position)
 	view.refresh(0)
 	update_mouse_region()
-	NativeMouse.apply(self,mouse_passthrough,true)
+	NativeMouse.apply(self,NativeMouse.enabled(self),true)
 
 func set_available_species(ids: PackedStringArray) -> void:
 	commerce_mode=true
@@ -491,7 +491,7 @@ func advance_frame(delta: float) -> void:
 func update_hover(delta: float) -> void:
 	if DisplayServer.get_name()=="headless": return
 	hover_cooldown=maxf(0,hover_cooldown-delta)
-	var hovered=not mouse_passthrough and not motion.held and not menu.visible
+	var hovered=not NativeMouse.enabled(self) and not motion.held and not menu.visible
 	hover_age=hover_age+delta if hovered else 0.0
 	if hovered and not was_hovered and hover_cooldown<=0 and motion.phase in ["idle","look"]:
 		view.dizzy_effects.hover_left=1.2
@@ -515,7 +515,7 @@ func update_mouse_region() -> void:
 			accept_input=Geometry2D.is_point_in_polygon(cursor,Geometry2D.convex_hull(points))
 	# A small exit margin avoids repeated native style changes when a moving
 	# paw/ear edge passes under a stationary cursor.
-		if not accept_input and not mouse_passthrough:
+		if not accept_input and not NativeMouse.enabled(self):
 			accept_input=view.visible_pet_bounds().grow(6).has_point(cursor-view.position)
 	var pass_through=not accept_input
 	NativeMouse.apply(self,pass_through)

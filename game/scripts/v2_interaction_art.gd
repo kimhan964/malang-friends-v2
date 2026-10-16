@@ -37,8 +37,9 @@ static func sample(m) -> Dictionary:
 		var clock: float=m.struggle_age() if m.is_struggling() else maxf(0,m.carry_elapsed-m.carry_started_at)
 		progress=fposmod(clock/float(data(m.species).sequences[action].duration),1.0)
 	elif m.phase=="drop":
-		# Retain a complete suspended pose while the real physics moves the pet.
-		progress=.75
+		# React on the first released frame; don't freeze the carried pose in air.
+		action="landing"
+		progress=clampf(m.elapsed/.16,0,.5)
 	elif m.phase=="dizzy":
 		if m.landing_left>0:
 			action="landing"

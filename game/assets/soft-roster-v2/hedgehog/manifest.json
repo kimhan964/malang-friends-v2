@@ -1,5 +1,4 @@
 {
-  "version": 2,
   "species": "hedgehog",
   "stages": {
     "adult": {
@@ -7,36 +6,56 @@
       "idle_file": "idle.png",
       "count": 96,
       "columns": 8,
-      "reference_height": 210,
-      "cycle_seconds": 1.6,
-      "playback_seconds": 1.6,
-      "stride": 36,
-      "source_key_count": 8,
-      "gait": "biped_grounded",
+      "reference_height": 205,
+      "cycle_seconds": 2.0,
+      "playback_seconds": 2.0,
+      "stride": 45.0,
       "root": [
         128,
         232
       ],
-      "view": "fixed_three_quarter_right"
+      "source_key_count": 8,
+      "view": "fixed_three_quarter_right",
+      "gait": "wider_alternating_low_clearance",
+      "registration_offsets": [
+        0,
+        0,
+        0,
+        3,
+        0,
+        0,
+        0,
+        0
+      ],
+      "sampling": "8 authored full-body poses, 12 equal samples per adjacent pair; exact closed-loop endpoint"
     },
     "baby": {
       "file": "walk.png",
       "idle_file": "idle.png",
       "count": 96,
       "columns": 8,
-      "reference_height": 210,
-      "cycle_seconds": 1.6,
-      "playback_seconds": 1.6,
-      "stride": 36,
-      "source_key_count": 8,
-      "gait": "biped_grounded",
+      "reference_height": 205,
+      "cycle_seconds": 2.0,
+      "playback_seconds": 2.0,
+      "stride": 45.0,
       "root": [
         128,
         232
       ],
-      "view": "fixed_three_quarter_right"
+      "source_key_count": 8,
+      "view": "fixed_three_quarter_right",
+      "gait": "wider_alternating_low_clearance",
+      "registration_offsets": [
+        0,
+        0,
+        0,
+        3,
+        0,
+        0,
+        0,
+        0
+      ],
+      "sampling": "8 authored full-body poses, 12 equal samples per adjacent pair; exact closed-loop endpoint"
     }
-  },
-  "source": "C:\\Users\\rlagk\\Documents\\복슬복슬펫\\output\\hedgehog-three-quarter-v3\\assets\\adult.png",
-  "method": "Unchanged approved full-body walk sprites"
+  }
 }

@@ -1,0 +1,5566 @@
+{
+	"checks": [
+		{
+			"check": "life bank remains complete sofa",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank sofa/0",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank sofa/1",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank sofa/2",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank sofa/3",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank sofa/4",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank sofa/5",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank sofa/6",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank sofa/7",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank sofa/8",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank sofa/9",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank sofa/10",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank sofa/11",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank sofa/12",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank sofa/13",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank sofa/14",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank sofa/15",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank sofa/16",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank sofa/17",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank sofa/18",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank sofa/19",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank sofa/20",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank sofa/21",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank sofa/22",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank sofa/23",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank sofa/24",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank sofa/25",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank sofa/26",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank sofa/27",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank sofa/28",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank sofa/29",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank sofa/30",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank sofa/31",
+			"passed": true
+		},
+		{
+			"check": "life bank remains complete bed",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank bed/0",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank bed/1",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank bed/2",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank bed/3",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank bed/4",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank bed/5",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank bed/6",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank bed/7",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank bed/8",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank bed/9",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank bed/10",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank bed/11",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank bed/12",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank bed/13",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank bed/14",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank bed/15",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank bed/16",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank bed/17",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank bed/18",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank bed/19",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank bed/20",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank bed/21",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank bed/22",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank bed/23",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank bed/24",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank bed/25",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank bed/26",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank bed/27",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank bed/28",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank bed/29",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank bed/30",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank bed/31",
+			"passed": true
+		},
+		{
+			"check": "life bank remains complete play",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank play/0",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank play/1",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank play/2",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank play/3",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank play/4",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank play/5",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank play/6",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank play/7",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank play/8",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank play/9",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank play/10",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank play/11",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank play/12",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank play/13",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank play/14",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank play/15",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank play/16",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank play/17",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank play/18",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank play/19",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank play/20",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank play/21",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank play/22",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank play/23",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank play/24",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank play/25",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank play/26",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank play/27",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank play/28",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank play/29",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank play/30",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank play/31",
+			"passed": true
+		},
+		{
+			"check": "life bank remains complete bath",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank bath/0",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank bath/1",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank bath/2",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank bath/3",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank bath/4",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank bath/5",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank bath/6",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank bath/7",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank bath/8",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank bath/9",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank bath/10",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank bath/11",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank bath/12",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank bath/13",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank bath/14",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank bath/15",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank bath/16",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank bath/17",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank bath/18",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank bath/19",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank bath/20",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank bath/21",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank bath/22",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank bath/23",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank bath/24",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank bath/25",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank bath/26",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank bath/27",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank bath/28",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank bath/29",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank bath/30",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank bath/31",
+			"passed": true
+		},
+		{
+			"check": "daily bank remains complete sad",
+			"passed": true
+		},
+		{
+			"check": "daily starts sad",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank sad/0",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank sad/1",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank sad/2",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank sad/3",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank sad/4",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank sad/5",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank sad/6",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank sad/7",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank sad/8",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank sad/9",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank sad/10",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank sad/11",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank sad/12",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank sad/13",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank sad/14",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank sad/15",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank sad/16",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank sad/17",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank sad/18",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank sad/19",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank sad/20",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank sad/21",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank sad/22",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank sad/23",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank sad/24",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank sad/25",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank sad/26",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank sad/27",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank sad/28",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank sad/29",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank sad/30",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank sad/31",
+			"passed": true
+		},
+		{
+			"check": "daily bank remains complete peek",
+			"passed": true
+		},
+		{
+			"check": "daily starts peek",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank peek/0",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank peek/1",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank peek/2",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank peek/3",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank peek/4",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank peek/5",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank peek/6",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank peek/7",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank peek/8",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank peek/9",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank peek/10",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank peek/11",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank peek/12",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank peek/13",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank peek/14",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank peek/15",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank peek/16",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank peek/17",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank peek/18",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank peek/19",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank peek/20",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank peek/21",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank peek/22",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank peek/23",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank peek/24",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank peek/25",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank peek/26",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank peek/27",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank peek/28",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank peek/29",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank peek/30",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank peek/31",
+			"passed": true
+		},
+		{
+			"check": "daily bank remains complete drink",
+			"passed": true
+		},
+		{
+			"check": "daily starts drink",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank drink/0",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank drink/1",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank drink/2",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank drink/3",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank drink/4",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank drink/5",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank drink/6",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank drink/7",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank drink/8",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank drink/9",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank drink/10",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank drink/11",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank drink/12",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank drink/13",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank drink/14",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank drink/15",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank drink/16",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank drink/17",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank drink/18",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank drink/19",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank drink/20",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank drink/21",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank drink/22",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank drink/23",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank drink/24",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank drink/25",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank drink/26",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank drink/27",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank drink/28",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank drink/29",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank drink/30",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank drink/31",
+			"passed": true
+		},
+		{
+			"check": "daily bank remains complete sing",
+			"passed": true
+		},
+		{
+			"check": "daily starts sing",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank sing/0",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank sing/1",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank sing/2",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank sing/3",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank sing/4",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank sing/5",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank sing/6",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank sing/7",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank sing/8",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank sing/9",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank sing/10",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank sing/11",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank sing/12",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank sing/13",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank sing/14",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank sing/15",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank sing/16",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank sing/17",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank sing/18",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank sing/19",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank sing/20",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank sing/21",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank sing/22",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank sing/23",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank sing/24",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank sing/25",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank sing/26",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank sing/27",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank sing/28",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank sing/29",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank sing/30",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank sing/31",
+			"passed": true
+		},
+		{
+			"check": "daily bank remains complete study",
+			"passed": true
+		},
+		{
+			"check": "daily starts study",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank study/0",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank study/1",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank study/2",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank study/3",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank study/4",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank study/5",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank study/6",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank study/7",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank study/8",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank study/9",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank study/10",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank study/11",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank study/12",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank study/13",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank study/14",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank study/15",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank study/16",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank study/17",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank study/18",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank study/19",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank study/20",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank study/21",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank study/22",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank study/23",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank study/24",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank study/25",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank study/26",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank study/27",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank study/28",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank study/29",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank study/30",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank study/31",
+			"passed": true
+		},
+		{
+			"check": "daily bank remains complete work",
+			"passed": true
+		},
+		{
+			"check": "daily starts work",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank work/0",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank work/1",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank work/2",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank work/3",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank work/4",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank work/5",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank work/6",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank work/7",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank work/8",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank work/9",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank work/10",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank work/11",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank work/12",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank work/13",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank work/14",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank work/15",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank work/16",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank work/17",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank work/18",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank work/19",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank work/20",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank work/21",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank work/22",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank work/23",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank work/24",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank work/25",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank work/26",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank work/27",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank work/28",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank work/29",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank work/30",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank work/31",
+			"passed": true
+		},
+		{
+			"check": "daily bank remains complete pajama",
+			"passed": true
+		},
+		{
+			"check": "daily starts pajama",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank pajama/0",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank pajama/1",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank pajama/2",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank pajama/3",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank pajama/4",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank pajama/5",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank pajama/6",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank pajama/7",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank pajama/8",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank pajama/9",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank pajama/10",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank pajama/11",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank pajama/12",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank pajama/13",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank pajama/14",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank pajama/15",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank pajama/16",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank pajama/17",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank pajama/18",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank pajama/19",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank pajama/20",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank pajama/21",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank pajama/22",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank pajama/23",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank pajama/24",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank pajama/25",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank pajama/26",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank pajama/27",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank pajama/28",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank pajama/29",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank pajama/30",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank pajama/31",
+			"passed": true
+		},
+		{
+			"check": "daily bank remains complete fight",
+			"passed": true
+		},
+		{
+			"check": "daily starts fight",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank fight/0",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank fight/1",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank fight/2",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank fight/3",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank fight/4",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank fight/5",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank fight/6",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank fight/7",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank fight/8",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank fight/9",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank fight/10",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank fight/11",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank fight/12",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank fight/13",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank fight/14",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank fight/15",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank fight/16",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank fight/17",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank fight/18",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank fight/19",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank fight/20",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank fight/21",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank fight/22",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank fight/23",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank fight/24",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank fight/25",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank fight/26",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank fight/27",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank fight/28",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank fight/29",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank fight/30",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank fight/31",
+			"passed": true
+		},
+		{
+			"check": "reacts on first released frame 0/5.0",
+			"passed": true
+		},
+		{
+			"check": "lands without overshoot 0/5.0",
+			"passed": true
+		},
+		{
+			"check": "impact responds within .23 seconds 0/5.0",
+			"passed": true
+		},
+		{
+			"check": "small release has no long air pause 0",
+			"passed": true
+		},
+		{
+			"check": "reacts on first released frame 0/40.0",
+			"passed": true
+		},
+		{
+			"check": "lands without overshoot 0/40.0",
+			"passed": true
+		},
+		{
+			"check": "impact responds within .23 seconds 0/40.0",
+			"passed": true
+		},
+		{
+			"check": "reacts on first released frame 0/180.0",
+			"passed": true
+		},
+		{
+			"check": "lands without overshoot 0/180.0",
+			"passed": true
+		},
+		{
+			"check": "impact responds within .23 seconds 0/180.0",
+			"passed": true
+		},
+		{
+			"check": "reacts on first released frame 0/400.0",
+			"passed": true
+		},
+		{
+			"check": "lands without overshoot 0/400.0",
+			"passed": true
+		},
+		{
+			"check": "impact responds within .23 seconds 0/400.0",
+			"passed": true
+		},
+		{
+			"check": "reacts on first released frame 1/5.0",
+			"passed": true
+		},
+		{
+			"check": "lands without overshoot 1/5.0",
+			"passed": true
+		},
+		{
+			"check": "impact responds within .23 seconds 1/5.0",
+			"passed": true
+		},
+		{
+			"check": "small release has no long air pause 1",
+			"passed": true
+		},
+		{
+			"check": "reacts on first released frame 1/40.0",
+			"passed": true
+		},
+		{
+			"check": "lands without overshoot 1/40.0",
+			"passed": true
+		},
+		{
+			"check": "impact responds within .23 seconds 1/40.0",
+			"passed": true
+		},
+		{
+			"check": "reacts on first released frame 1/180.0",
+			"passed": true
+		},
+		{
+			"check": "lands without overshoot 1/180.0",
+			"passed": true
+		},
+		{
+			"check": "impact responds within .23 seconds 1/180.0",
+			"passed": true
+		},
+		{
+			"check": "reacts on first released frame 1/400.0",
+			"passed": true
+		},
+		{
+			"check": "lands without overshoot 1/400.0",
+			"passed": true
+		},
+		{
+			"check": "impact responds within .23 seconds 1/400.0",
+			"passed": true
+		},
+		{
+			"check": "reacts on first released frame 2/5.0",
+			"passed": true
+		},
+		{
+			"check": "lands without overshoot 2/5.0",
+			"passed": true
+		},
+		{
+			"check": "impact responds within .23 seconds 2/5.0",
+			"passed": true
+		},
+		{
+			"check": "small release has no long air pause 2",
+			"passed": true
+		},
+		{
+			"check": "reacts on first released frame 2/40.0",
+			"passed": true
+		},
+		{
+			"check": "lands without overshoot 2/40.0",
+			"passed": true
+		},
+		{
+			"check": "impact responds within .23 seconds 2/40.0",
+			"passed": true
+		},
+		{
+			"check": "reacts on first released frame 2/180.0",
+			"passed": true
+		},
+		{
+			"check": "lands without overshoot 2/180.0",
+			"passed": true
+		},
+		{
+			"check": "impact responds within .23 seconds 2/180.0",
+			"passed": true
+		},
+		{
+			"check": "reacts on first released frame 2/400.0",
+			"passed": true
+		},
+		{
+			"check": "lands without overshoot 2/400.0",
+			"passed": true
+		},
+		{
+			"check": "impact responds within .23 seconds 2/400.0",
+			"passed": true
+		},
+		{
+			"check": "reacts on first released frame 3/5.0",
+			"passed": true
+		},
+		{
+			"check": "lands without overshoot 3/5.0",
+			"passed": true
+		},
+		{
+			"check": "impact responds within .23 seconds 3/5.0",
+			"passed": true
+		},
+		{
+			"check": "small release has no long air pause 3",
+			"passed": true
+		},
+		{
+			"check": "reacts on first released frame 3/40.0",
+			"passed": true
+		},
+		{
+			"check": "lands without overshoot 3/40.0",
+			"passed": true
+		},
+		{
+			"check": "impact responds within .23 seconds 3/40.0",
+			"passed": true
+		},
+		{
+			"check": "reacts on first released frame 3/180.0",
+			"passed": true
+		},
+		{
+			"check": "lands without overshoot 3/180.0",
+			"passed": true
+		},
+		{
+			"check": "impact responds within .23 seconds 3/180.0",
+			"passed": true
+		},
+		{
+			"check": "reacts on first released frame 3/400.0",
+			"passed": true
+		},
+		{
+			"check": "lands without overshoot 3/400.0",
+			"passed": true
+		},
+		{
+			"check": "impact responds within .23 seconds 3/400.0",
+			"passed": true
+		},
+		{
+			"check": "reacts on first released frame 4/5.0",
+			"passed": true
+		},
+		{
+			"check": "lands without overshoot 4/5.0",
+			"passed": true
+		},
+		{
+			"check": "impact responds within .23 seconds 4/5.0",
+			"passed": true
+		},
+		{
+			"check": "small release has no long air pause 4",
+			"passed": true
+		},
+		{
+			"check": "reacts on first released frame 4/40.0",
+			"passed": true
+		},
+		{
+			"check": "lands without overshoot 4/40.0",
+			"passed": true
+		},
+		{
+			"check": "impact responds within .23 seconds 4/40.0",
+			"passed": true
+		},
+		{
+			"check": "reacts on first released frame 4/180.0",
+			"passed": true
+		},
+		{
+			"check": "lands without overshoot 4/180.0",
+			"passed": true
+		},
+		{
+			"check": "impact responds within .23 seconds 4/180.0",
+			"passed": true
+		},
+		{
+			"check": "reacts on first released frame 4/400.0",
+			"passed": true
+		},
+		{
+			"check": "lands without overshoot 4/400.0",
+			"passed": true
+		},
+		{
+			"check": "impact responds within .23 seconds 4/400.0",
+			"passed": true
+		},
+		{
+			"check": "reacts on first released frame 5/5.0",
+			"passed": true
+		},
+		{
+			"check": "lands without overshoot 5/5.0",
+			"passed": true
+		},
+		{
+			"check": "impact responds within .23 seconds 5/5.0",
+			"passed": true
+		},
+		{
+			"check": "small release has no long air pause 5",
+			"passed": true
+		},
+		{
+			"check": "reacts on first released frame 5/40.0",
+			"passed": true
+		},
+		{
+			"check": "lands without overshoot 5/40.0",
+			"passed": true
+		},
+		{
+			"check": "impact responds within .23 seconds 5/40.0",
+			"passed": true
+		},
+		{
+			"check": "reacts on first released frame 5/180.0",
+			"passed": true
+		},
+		{
+			"check": "lands without overshoot 5/180.0",
+			"passed": true
+		},
+		{
+			"check": "impact responds within .23 seconds 5/180.0",
+			"passed": true
+		},
+		{
+			"check": "reacts on first released frame 5/400.0",
+			"passed": true
+		},
+		{
+			"check": "lands without overshoot 5/400.0",
+			"passed": true
+		},
+		{
+			"check": "impact responds within .23 seconds 5/400.0",
+			"passed": true
+		},
+		{
+			"check": "reacts on first released frame 6/5.0",
+			"passed": true
+		},
+		{
+			"check": "lands without overshoot 6/5.0",
+			"passed": true
+		},
+		{
+			"check": "impact responds within .23 seconds 6/5.0",
+			"passed": true
+		},
+		{
+			"check": "small release has no long air pause 6",
+			"passed": true
+		},
+		{
+			"check": "reacts on first released frame 6/40.0",
+			"passed": true
+		},
+		{
+			"check": "lands without overshoot 6/40.0",
+			"passed": true
+		},
+		{
+			"check": "impact responds within .23 seconds 6/40.0",
+			"passed": true
+		},
+		{
+			"check": "reacts on first released frame 6/180.0",
+			"passed": true
+		},
+		{
+			"check": "lands without overshoot 6/180.0",
+			"passed": true
+		},
+		{
+			"check": "impact responds within .23 seconds 6/180.0",
+			"passed": true
+		},
+		{
+			"check": "reacts on first released frame 6/400.0",
+			"passed": true
+		},
+		{
+			"check": "lands without overshoot 6/400.0",
+			"passed": true
+		},
+		{
+			"check": "impact responds within .23 seconds 6/400.0",
+			"passed": true
+		},
+		{
+			"check": "reacts on first released frame 7/5.0",
+			"passed": true
+		},
+		{
+			"check": "lands without overshoot 7/5.0",
+			"passed": true
+		},
+		{
+			"check": "impact responds within .23 seconds 7/5.0",
+			"passed": true
+		},
+		{
+			"check": "small release has no long air pause 7",
+			"passed": true
+		},
+		{
+			"check": "reacts on first released frame 7/40.0",
+			"passed": true
+		},
+		{
+			"check": "lands without overshoot 7/40.0",
+			"passed": true
+		},
+		{
+			"check": "impact responds within .23 seconds 7/40.0",
+			"passed": true
+		},
+		{
+			"check": "reacts on first released frame 7/180.0",
+			"passed": true
+		},
+		{
+			"check": "lands without overshoot 7/180.0",
+			"passed": true
+		},
+		{
+			"check": "impact responds within .23 seconds 7/180.0",
+			"passed": true
+		},
+		{
+			"check": "reacts on first released frame 7/400.0",
+			"passed": true
+		},
+		{
+			"check": "lands without overshoot 7/400.0",
+			"passed": true
+		},
+		{
+			"check": "impact responds within .23 seconds 7/400.0",
+			"passed": true
+		},
+		{
+			"check": "reacts on first released frame 8/5.0",
+			"passed": true
+		},
+		{
+			"check": "lands without overshoot 8/5.0",
+			"passed": true
+		},
+		{
+			"check": "impact responds within .23 seconds 8/5.0",
+			"passed": true
+		},
+		{
+			"check": "small release has no long air pause 8",
+			"passed": true
+		},
+		{
+			"check": "reacts on first released frame 8/40.0",
+			"passed": true
+		},
+		{
+			"check": "lands without overshoot 8/40.0",
+			"passed": true
+		},
+		{
+			"check": "impact responds within .23 seconds 8/40.0",
+			"passed": true
+		},
+		{
+			"check": "reacts on first released frame 8/180.0",
+			"passed": true
+		},
+		{
+			"check": "lands without overshoot 8/180.0",
+			"passed": true
+		},
+		{
+			"check": "impact responds within .23 seconds 8/180.0",
+			"passed": true
+		},
+		{
+			"check": "reacts on first released frame 8/400.0",
+			"passed": true
+		},
+		{
+			"check": "lands without overshoot 8/400.0",
+			"passed": true
+		},
+		{
+			"check": "impact responds within .23 seconds 8/400.0",
+			"passed": true
+		},
+		{
+			"check": "reacts on first released frame 9/5.0",
+			"passed": true
+		},
+		{
+			"check": "lands without overshoot 9/5.0",
+			"passed": true
+		},
+		{
+			"check": "impact responds within .23 seconds 9/5.0",
+			"passed": true
+		},
+		{
+			"check": "small release has no long air pause 9",
+			"passed": true
+		},
+		{
+			"check": "reacts on first released frame 9/40.0",
+			"passed": true
+		},
+		{
+			"check": "lands without overshoot 9/40.0",
+			"passed": true
+		},
+		{
+			"check": "impact responds within .23 seconds 9/40.0",
+			"passed": true
+		},
+		{
+			"check": "reacts on first released frame 9/180.0",
+			"passed": true
+		},
+		{
+			"check": "lands without overshoot 9/180.0",
+			"passed": true
+		},
+		{
+			"check": "impact responds within .23 seconds 9/180.0",
+			"passed": true
+		},
+		{
+			"check": "reacts on first released frame 9/400.0",
+			"passed": true
+		},
+		{
+			"check": "lands without overshoot 9/400.0",
+			"passed": true
+		},
+		{
+			"check": "impact responds within .23 seconds 9/400.0",
+			"passed": true
+		},
+		{
+			"check": "reacts on first released frame 10/5.0",
+			"passed": true
+		},
+		{
+			"check": "lands without overshoot 10/5.0",
+			"passed": true
+		},
+		{
+			"check": "impact responds within .23 seconds 10/5.0",
+			"passed": true
+		},
+		{
+			"check": "small release has no long air pause 10",
+			"passed": true
+		},
+		{
+			"check": "reacts on first released frame 10/40.0",
+			"passed": true
+		},
+		{
+			"check": "lands without overshoot 10/40.0",
+			"passed": true
+		},
+		{
+			"check": "impact responds within .23 seconds 10/40.0",
+			"passed": true
+		},
+		{
+			"check": "reacts on first released frame 10/180.0",
+			"passed": true
+		},
+		{
+			"check": "lands without overshoot 10/180.0",
+			"passed": true
+		},
+		{
+			"check": "impact responds within .23 seconds 10/180.0",
+			"passed": true
+		},
+		{
+			"check": "reacts on first released frame 10/400.0",
+			"passed": true
+		},
+		{
+			"check": "lands without overshoot 10/400.0",
+			"passed": true
+		},
+		{
+			"check": "impact responds within .23 seconds 10/400.0",
+			"passed": true
+		},
+		{
+			"check": "reacts on first released frame 11/5.0",
+			"passed": true
+		},
+		{
+			"check": "lands without overshoot 11/5.0",
+			"passed": true
+		},
+		{
+			"check": "impact responds within .23 seconds 11/5.0",
+			"passed": true
+		},
+		{
+			"check": "small release has no long air pause 11",
+			"passed": true
+		},
+		{
+			"check": "reacts on first released frame 11/40.0",
+			"passed": true
+		},
+		{
+			"check": "lands without overshoot 11/40.0",
+			"passed": true
+		},
+		{
+			"check": "impact responds within .23 seconds 11/40.0",
+			"passed": true
+		},
+		{
+			"check": "reacts on first released frame 11/180.0",
+			"passed": true
+		},
+		{
+			"check": "lands without overshoot 11/180.0",
+			"passed": true
+		},
+		{
+			"check": "impact responds within .23 seconds 11/180.0",
+			"passed": true
+		},
+		{
+			"check": "reacts on first released frame 11/400.0",
+			"passed": true
+		},
+		{
+			"check": "lands without overshoot 11/400.0",
+			"passed": true
+		},
+		{
+			"check": "impact responds within .23 seconds 11/400.0",
+			"passed": true
+		},
+		{
+			"check": "reacts on first released frame 12/5.0",
+			"passed": true
+		},
+		{
+			"check": "lands without overshoot 12/5.0",
+			"passed": true
+		},
+		{
+			"check": "impact responds within .23 seconds 12/5.0",
+			"passed": true
+		},
+		{
+			"check": "small release has no long air pause 12",
+			"passed": true
+		},
+		{
+			"check": "reacts on first released frame 12/40.0",
+			"passed": true
+		},
+		{
+			"check": "lands without overshoot 12/40.0",
+			"passed": true
+		},
+		{
+			"check": "impact responds within .23 seconds 12/40.0",
+			"passed": true
+		},
+		{
+			"check": "reacts on first released frame 12/180.0",
+			"passed": true
+		},
+		{
+			"check": "lands without overshoot 12/180.0",
+			"passed": true
+		},
+		{
+			"check": "impact responds within .23 seconds 12/180.0",
+			"passed": true
+		},
+		{
+			"check": "reacts on first released frame 12/400.0",
+			"passed": true
+		},
+		{
+			"check": "lands without overshoot 12/400.0",
+			"passed": true
+		},
+		{
+			"check": "impact responds within .23 seconds 12/400.0",
+			"passed": true
+		},
+		{
+			"check": "reacts on first released frame 13/5.0",
+			"passed": true
+		},
+		{
+			"check": "lands without overshoot 13/5.0",
+			"passed": true
+		},
+		{
+			"check": "impact responds within .23 seconds 13/5.0",
+			"passed": true
+		},
+		{
+			"check": "small release has no long air pause 13",
+			"passed": true
+		},
+		{
+			"check": "reacts on first released frame 13/40.0",
+			"passed": true
+		},
+		{
+			"check": "lands without overshoot 13/40.0",
+			"passed": true
+		},
+		{
+			"check": "impact responds within .23 seconds 13/40.0",
+			"passed": true
+		},
+		{
+			"check": "reacts on first released frame 13/180.0",
+			"passed": true
+		},
+		{
+			"check": "lands without overshoot 13/180.0",
+			"passed": true
+		},
+		{
+			"check": "impact responds within .23 seconds 13/180.0",
+			"passed": true
+		},
+		{
+			"check": "reacts on first released frame 13/400.0",
+			"passed": true
+		},
+		{
+			"check": "lands without overshoot 13/400.0",
+			"passed": true
+		},
+		{
+			"check": "impact responds within .23 seconds 13/400.0",
+			"passed": true
+		},
+		{
+			"check": "reacts on first released frame 14/5.0",
+			"passed": true
+		},
+		{
+			"check": "lands without overshoot 14/5.0",
+			"passed": true
+		},
+		{
+			"check": "impact responds within .23 seconds 14/5.0",
+			"passed": true
+		},
+		{
+			"check": "small release has no long air pause 14",
+			"passed": true
+		},
+		{
+			"check": "reacts on first released frame 14/40.0",
+			"passed": true
+		},
+		{
+			"check": "lands without overshoot 14/40.0",
+			"passed": true
+		},
+		{
+			"check": "impact responds within .23 seconds 14/40.0",
+			"passed": true
+		},
+		{
+			"check": "reacts on first released frame 14/180.0",
+			"passed": true
+		},
+		{
+			"check": "lands without overshoot 14/180.0",
+			"passed": true
+		},
+		{
+			"check": "impact responds within .23 seconds 14/180.0",
+			"passed": true
+		},
+		{
+			"check": "reacts on first released frame 14/400.0",
+			"passed": true
+		},
+		{
+			"check": "lands without overshoot 14/400.0",
+			"passed": true
+		},
+		{
+			"check": "impact responds within .23 seconds 14/400.0",
+			"passed": true
+		},
+		{
+			"check": "reacts on first released frame 15/5.0",
+			"passed": true
+		},
+		{
+			"check": "lands without overshoot 15/5.0",
+			"passed": true
+		},
+		{
+			"check": "impact responds within .23 seconds 15/5.0",
+			"passed": true
+		},
+		{
+			"check": "small release has no long air pause 15",
+			"passed": true
+		},
+		{
+			"check": "reacts on first released frame 15/40.0",
+			"passed": true
+		},
+		{
+			"check": "lands without overshoot 15/40.0",
+			"passed": true
+		},
+		{
+			"check": "impact responds within .23 seconds 15/40.0",
+			"passed": true
+		},
+		{
+			"check": "reacts on first released frame 15/180.0",
+			"passed": true
+		},
+		{
+			"check": "lands without overshoot 15/180.0",
+			"passed": true
+		},
+		{
+			"check": "impact responds within .23 seconds 15/180.0",
+			"passed": true
+		},
+		{
+			"check": "reacts on first released frame 15/400.0",
+			"passed": true
+		},
+		{
+			"check": "lands without overshoot 15/400.0",
+			"passed": true
+		},
+		{
+			"check": "impact responds within .23 seconds 15/400.0",
+			"passed": true
+		},
+		{
+			"check": "authored walk poses with complete intermediates 0",
+			"passed": true
+		},
+		{
+			"check": "run has airborne motion 0",
+			"passed": true
+		},
+		{
+			"check": "running travels faster than walking 0",
+			"passed": true
+		},
+		{
+			"check": "run stays inside activity space 0",
+			"passed": true
+		},
+		{
+			"check": "authored walk poses with complete intermediates 1",
+			"passed": true
+		},
+		{
+			"check": "run has airborne motion 1",
+			"passed": true
+		},
+		{
+			"check": "running travels faster than walking 1",
+			"passed": true
+		},
+		{
+			"check": "run stays inside activity space 1",
+			"passed": true
+		},
+		{
+			"check": "authored walk poses with complete intermediates 2",
+			"passed": true
+		},
+		{
+			"check": "run has airborne motion 2",
+			"passed": true
+		},
+		{
+			"check": "running travels faster than walking 2",
+			"passed": true
+		},
+		{
+			"check": "run stays inside activity space 2",
+			"passed": true
+		},
+		{
+			"check": "authored walk poses with complete intermediates 3",
+			"passed": true
+		},
+		{
+			"check": "run has airborne motion 3",
+			"passed": true
+		},
+		{
+			"check": "running travels faster than walking 3",
+			"passed": true
+		},
+		{
+			"check": "run stays inside activity space 3",
+			"passed": true
+		},
+		{
+			"check": "authored walk poses with complete intermediates 4",
+			"passed": true
+		},
+		{
+			"check": "run has airborne motion 4",
+			"passed": true
+		},
+		{
+			"check": "running travels faster than walking 4",
+			"passed": true
+		},
+		{
+			"check": "run stays inside activity space 4",
+			"passed": true
+		},
+		{
+			"check": "authored walk poses with complete intermediates 5",
+			"passed": true
+		},
+		{
+			"check": "run has airborne motion 5",
+			"passed": true
+		},
+		{
+			"check": "running travels faster than walking 5",
+			"passed": true
+		},
+		{
+			"check": "run stays inside activity space 5",
+			"passed": true
+		},
+		{
+			"check": "authored walk poses with complete intermediates 6",
+			"passed": true
+		},
+		{
+			"check": "run has airborne motion 6",
+			"passed": true
+		},
+		{
+			"check": "running travels faster than walking 6",
+			"passed": true
+		},
+		{
+			"check": "run stays inside activity space 6",
+			"passed": true
+		},
+		{
+			"check": "authored walk poses with complete intermediates 7",
+			"passed": true
+		},
+		{
+			"check": "run has airborne motion 7",
+			"passed": true
+		},
+		{
+			"check": "running travels faster than walking 7",
+			"passed": true
+		},
+		{
+			"check": "run stays inside activity space 7",
+			"passed": true
+		},
+		{
+			"check": "authored walk poses with complete intermediates 8",
+			"passed": true
+		},
+		{
+			"check": "run has airborne motion 8",
+			"passed": true
+		},
+		{
+			"check": "running travels faster than walking 8",
+			"passed": true
+		},
+		{
+			"check": "run stays inside activity space 8",
+			"passed": true
+		},
+		{
+			"check": "authored walk poses with complete intermediates 9",
+			"passed": true
+		},
+		{
+			"check": "run has airborne motion 9",
+			"passed": true
+		},
+		{
+			"check": "running travels faster than walking 9",
+			"passed": true
+		},
+		{
+			"check": "run stays inside activity space 9",
+			"passed": true
+		},
+		{
+			"check": "authored walk poses with complete intermediates 10",
+			"passed": true
+		},
+		{
+			"check": "run has airborne motion 10",
+			"passed": true
+		},
+		{
+			"check": "running travels faster than walking 10",
+			"passed": true
+		},
+		{
+			"check": "run stays inside activity space 10",
+			"passed": true
+		},
+		{
+			"check": "authored walk poses with complete intermediates 11",
+			"passed": true
+		},
+		{
+			"check": "run has airborne motion 11",
+			"passed": true
+		},
+		{
+			"check": "running travels faster than walking 11",
+			"passed": true
+		},
+		{
+			"check": "run stays inside activity space 11",
+			"passed": true
+		},
+		{
+			"check": "authored walk poses with complete intermediates 12",
+			"passed": true
+		},
+		{
+			"check": "run has airborne motion 12",
+			"passed": true
+		},
+		{
+			"check": "running travels faster than walking 12",
+			"passed": true
+		},
+		{
+			"check": "run stays inside activity space 12",
+			"passed": true
+		},
+		{
+			"check": "authored walk poses with complete intermediates 13",
+			"passed": true
+		},
+		{
+			"check": "run has airborne motion 13",
+			"passed": true
+		},
+		{
+			"check": "running travels faster than walking 13",
+			"passed": true
+		},
+		{
+			"check": "run stays inside activity space 13",
+			"passed": true
+		},
+		{
+			"check": "authored walk poses with complete intermediates 14",
+			"passed": true
+		},
+		{
+			"check": "run has airborne motion 14",
+			"passed": true
+		},
+		{
+			"check": "running travels faster than walking 14",
+			"passed": true
+		},
+		{
+			"check": "run stays inside activity space 14",
+			"passed": true
+		},
+		{
+			"check": "authored walk poses with complete intermediates 15",
+			"passed": true
+		},
+		{
+			"check": "run has airborne motion 15",
+			"passed": true
+		},
+		{
+			"check": "running travels faster than walking 15",
+			"passed": true
+		},
+		{
+			"check": "run stays inside activity space 15",
+			"passed": true
+		},
+		{
+			"check": "mouse canvas/input region stays stable 0",
+			"passed": true
+		},
+		{
+			"check": "mouse canvas/input region stays stable 1",
+			"passed": true
+		},
+		{
+			"check": "mouse canvas/input region stays stable 2",
+			"passed": true
+		},
+		{
+			"check": "mouse canvas/input region stays stable 3",
+			"passed": true
+		},
+		{
+			"check": "mouse canvas/input region stays stable 4",
+			"passed": true
+		},
+		{
+			"check": "mouse canvas/input region stays stable 5",
+			"passed": true
+		},
+		{
+			"check": "mouse canvas/input region stays stable 6",
+			"passed": true
+		},
+		{
+			"check": "mouse canvas/input region stays stable 7",
+			"passed": true
+		},
+		{
+			"check": "mouse canvas/input region stays stable 8",
+			"passed": true
+		},
+		{
+			"check": "mouse canvas/input region stays stable 9",
+			"passed": true
+		},
+		{
+			"check": "mouse canvas/input region stays stable 10",
+			"passed": true
+		},
+		{
+			"check": "mouse canvas/input region stays stable 11",
+			"passed": true
+		},
+		{
+			"check": "mouse canvas/input region stays stable 12",
+			"passed": true
+		},
+		{
+			"check": "mouse canvas/input region stays stable 13",
+			"passed": true
+		},
+		{
+			"check": "mouse canvas/input region stays stable 14",
+			"passed": true
+		},
+		{
+			"check": "mouse canvas/input region stays stable 15",
+			"passed": true
+		},
+		{
+			"check": "mouse canvas/input region stays stable 16",
+			"passed": true
+		},
+		{
+			"check": "mouse canvas/input region stays stable 17",
+			"passed": true
+		},
+		{
+			"check": "mouse canvas/input region stays stable 18",
+			"passed": true
+		},
+		{
+			"check": "mouse canvas/input region stays stable 19",
+			"passed": true
+		},
+		{
+			"check": "mouse canvas/input region stays stable 20",
+			"passed": true
+		},
+		{
+			"check": "mouse canvas/input region stays stable 21",
+			"passed": true
+		},
+		{
+			"check": "mouse canvas/input region stays stable 22",
+			"passed": true
+		},
+		{
+			"check": "mouse canvas/input region stays stable 23",
+			"passed": true
+		},
+		{
+			"check": "mouse canvas/input region stays stable 24",
+			"passed": true
+		},
+		{
+			"check": "mouse canvas/input region stays stable 25",
+			"passed": true
+		},
+		{
+			"check": "mouse canvas/input region stays stable 26",
+			"passed": true
+		},
+		{
+			"check": "mouse canvas/input region stays stable 27",
+			"passed": true
+		},
+		{
+			"check": "mouse canvas/input region stays stable 28",
+			"passed": true
+		},
+		{
+			"check": "mouse canvas/input region stays stable 29",
+			"passed": true
+		},
+		{
+			"check": "mouse canvas/input region stays stable 30",
+			"passed": true
+		},
+		{
+			"check": "mouse canvas/input region stays stable 31",
+			"passed": true
+		},
+		{
+			"check": "mouse canvas/input region stays stable 32",
+			"passed": true
+		},
+		{
+			"check": "mouse canvas/input region stays stable 33",
+			"passed": true
+		},
+		{
+			"check": "mouse canvas/input region stays stable 34",
+			"passed": true
+		},
+		{
+			"check": "mouse canvas/input region stays stable 35",
+			"passed": true
+		},
+		{
+			"check": "mouse canvas/input region stays stable 36",
+			"passed": true
+		},
+		{
+			"check": "mouse canvas/input region stays stable 37",
+			"passed": true
+		},
+		{
+			"check": "mouse canvas/input region stays stable 38",
+			"passed": true
+		},
+		{
+			"check": "mouse canvas/input region stays stable 39",
+			"passed": true
+		},
+		{
+			"check": "mouse canvas/input region stays stable 40",
+			"passed": true
+		},
+		{
+			"check": "mouse canvas/input region stays stable 41",
+			"passed": true
+		},
+		{
+			"check": "mouse canvas/input region stays stable 42",
+			"passed": true
+		},
+		{
+			"check": "mouse canvas/input region stays stable 43",
+			"passed": true
+		},
+		{
+			"check": "mouse canvas/input region stays stable 44",
+			"passed": true
+		},
+		{
+			"check": "mouse canvas/input region stays stable 45",
+			"passed": true
+		},
+		{
+			"check": "mouse canvas/input region stays stable 46",
+			"passed": true
+		},
+		{
+			"check": "mouse canvas/input region stays stable 47",
+			"passed": true
+		},
+		{
+			"check": "mouse canvas/input region stays stable 48",
+			"passed": true
+		},
+		{
+			"check": "mouse canvas/input region stays stable 49",
+			"passed": true
+		},
+		{
+			"check": "mouse canvas/input region stays stable 50",
+			"passed": true
+		},
+		{
+			"check": "mouse canvas/input region stays stable 51",
+			"passed": true
+		},
+		{
+			"check": "mouse canvas/input region stays stable 52",
+			"passed": true
+		},
+		{
+			"check": "mouse canvas/input region stays stable 53",
+			"passed": true
+		},
+		{
+			"check": "mouse canvas/input region stays stable 54",
+			"passed": true
+		},
+		{
+			"check": "mouse canvas/input region stays stable 55",
+			"passed": true
+		},
+		{
+			"check": "mouse canvas/input region stays stable 56",
+			"passed": true
+		},
+		{
+			"check": "mouse canvas/input region stays stable 57",
+			"passed": true
+		},
+		{
+			"check": "mouse canvas/input region stays stable 58",
+			"passed": true
+		},
+		{
+			"check": "mouse canvas/input region stays stable 59",
+			"passed": true
+		},
+		{
+			"check": "mouse canvas/input region stays stable 60",
+			"passed": true
+		},
+		{
+			"check": "mouse canvas/input region stays stable 61",
+			"passed": true
+		},
+		{
+			"check": "mouse canvas/input region stays stable 62",
+			"passed": true
+		},
+		{
+			"check": "mouse canvas/input region stays stable 63",
+			"passed": true
+		},
+		{
+			"check": "mouse uses 64 real motion cels",
+			"passed": true
+		},
+		{
+			"check": "rabbit is 24 percent larger across all actions",
+			"passed": true
+		},
+		{
+			"check": "world plush hidden while held",
+			"passed": true
+		},
+		{
+			"check": "plush includes small throw and catch",
+			"passed": true
+		},
+		{
+			"check": "cancel restores one world plush",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 0",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 1",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 2",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 3",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 4",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 5",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 6",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 7",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 8",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 9",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 10",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 11",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 12",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 13",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 14",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 15",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 16",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 17",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 18",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 19",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 20",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 21",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 22",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 23",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 24",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 25",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 26",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 27",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 28",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 29",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 30",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 31",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 32",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 33",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 34",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 35",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 36",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 37",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 38",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 39",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 40",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 41",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 42",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 43",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 44",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 45",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 46",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 47",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 48",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 49",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 50",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 51",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 52",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 53",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 54",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 55",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 56",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 57",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 58",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 59",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 60",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 61",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 62",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 63",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 64",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 65",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 66",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 67",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 68",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 69",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 70",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 71",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 72",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 73",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 74",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 75",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 76",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 77",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 78",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 79",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 80",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 81",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 82",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 83",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 84",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 85",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 86",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 87",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 88",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 89",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 90",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 91",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 92",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 93",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 94",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 95",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 96",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 97",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 98",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 99",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 100",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 101",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 102",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 103",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 104",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 105",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 106",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 107",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 108",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 109",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 110",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 111",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 112",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 113",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 114",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 115",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 116",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 117",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 118",
+			"passed": true
+		},
+		{
+			"check": "alarm effect uses steady input/draw canvas 119",
+			"passed": true
+		},
+		{
+			"check": "alarm has visible bell shake",
+			"passed": true
+		},
+		{
+			"check": "alarm settles without permanent tilt",
+			"passed": true
+		},
+		{
+			"check": "pet reacts immediately to alarm",
+			"passed": true
+		},
+		{
+			"check": "dedicated grounded walk bank 1",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 1",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 1",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 1",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 1",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 1",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 1",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 1",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 1",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 1",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 1",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 1",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 1",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 1",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 1",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 1",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 1",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 1",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 1",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 1",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 1",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 1",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 1",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 1",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 1",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 1",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 1",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 1",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 1",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 1",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 1",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 1",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 1",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 1",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 1",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 1",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 1",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 1",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 1",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 1",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 1",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 1",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 1",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 1",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 1",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 1",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 1",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 1",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 1",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 1",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 1",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 1",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 1",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 1",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 1",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 1",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 1",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 1",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 1",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 1",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 1",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 1",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 1",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 1",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 1",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 1",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 1",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 1",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 1",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 1",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 1",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 1",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 1",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 1",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 1",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 1",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 1",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 1",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 1",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 1",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 1",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 1",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 1",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 1",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 1",
+			"passed": true
+		},
+		{
+			"check": "dedicated grounded walk bank 5",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 5",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 5",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 5",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 5",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 5",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 5",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 5",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 5",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 5",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 5",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 5",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 5",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 5",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 5",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 5",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 5",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 5",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 5",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 5",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 5",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 5",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 5",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 5",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 5",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 5",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 5",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 5",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 5",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 5",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 5",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 5",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 5",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 5",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 5",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 5",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 5",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 5",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 5",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 5",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 5",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 5",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 5",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 5",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 5",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 5",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 5",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 5",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 5",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 5",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 5",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 5",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 5",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 5",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 5",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 5",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 5",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 5",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 5",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 5",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 5",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 5",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 5",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 5",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 5",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 5",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 5",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 5",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 5",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 5",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 5",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 5",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 5",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 5",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 5",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 5",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 5",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 5",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 5",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 5",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 5",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 5",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 5",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 5",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 5",
+			"passed": true
+		},
+		{
+			"check": "dedicated grounded walk bank 7",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 7",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 7",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 7",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 7",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 7",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 7",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 7",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 7",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 7",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 7",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 7",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 7",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 7",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 7",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 7",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 7",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 7",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 7",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 7",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 7",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 7",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 7",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 7",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 7",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 7",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 7",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 7",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 7",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 7",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 7",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 7",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 7",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 7",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 7",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 7",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 7",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 7",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 7",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 7",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 7",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 7",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 7",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 7",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 7",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 7",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 7",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 7",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 7",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 7",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 7",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 7",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 7",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 7",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 7",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 7",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 7",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 7",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 7",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 7",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 7",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 7",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 7",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 7",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 7",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 7",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 7",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 7",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 7",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 7",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 7",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 7",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 7",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 7",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 7",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 7",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 7",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 7",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 7",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 7",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 7",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 7",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 7",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 7",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 7",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 7",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 7",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 7",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 7",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 7",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 7",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 7",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 7",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 7",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 7",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 7",
+			"passed": true
+		},
+		{
+			"check": "no blank walk cel 7",
+			"passed": true
+		},
+		{
+			"check": "ladder appears at wall shelf",
+			"passed": true
+		},
+		{
+			"check": "climb has continuous visual height and grounded physics 0",
+			"passed": true
+		},
+		{
+			"check": "climb has continuous visual height and grounded physics 1",
+			"passed": true
+		},
+		{
+			"check": "climb has continuous visual height and grounded physics 2",
+			"passed": true
+		},
+		{
+			"check": "climb has continuous visual height and grounded physics 3",
+			"passed": true
+		},
+		{
+			"check": "climb has continuous visual height and grounded physics 4",
+			"passed": true
+		},
+		{
+			"check": "climb has continuous visual height and grounded physics 5",
+			"passed": true
+		},
+		{
+			"check": "climb has continuous visual height and grounded physics 6",
+			"passed": true
+		},
+		{
+			"check": "climb has continuous visual height and grounded physics 7",
+			"passed": true
+		},
+		{
+			"check": "climb has continuous visual height and grounded physics 8",
+			"passed": true
+		},
+		{
+			"check": "climb has continuous visual height and grounded physics 9",
+			"passed": true
+		},
+		{
+			"check": "climb has continuous visual height and grounded physics 10",
+			"passed": true
+		},
+		{
+			"check": "climb has continuous visual height and grounded physics 11",
+			"passed": true
+		},
+		{
+			"check": "climb has continuous visual height and grounded physics 12",
+			"passed": true
+		},
+		{
+			"check": "climb has continuous visual height and grounded physics 13",
+			"passed": true
+		},
+		{
+			"check": "climb has continuous visual height and grounded physics 14",
+			"passed": true
+		},
+		{
+			"check": "climb has continuous visual height and grounded physics 15",
+			"passed": true
+		},
+		{
+			"check": "after descent switches to reading",
+			"passed": true
+		},
+		{
+			"check": "reading uses one embedded book",
+			"passed": true
+		},
+		{
+			"check": "cancel clears ladder and lift",
+			"passed": true
+		},
+		{
+			"check": "plant migration preserves custom size 0.65",
+			"passed": true
+		},
+		{
+			"check": "plant migration leaves other furniture size",
+			"passed": true
+		},
+		{
+			"check": "plant migration preserves custom size 0.7",
+			"passed": true
+		},
+		{
+			"check": "plant migration leaves other furniture size",
+			"passed": true
+		},
+		{
+			"check": "plant migration preserves custom size 1.0",
+			"passed": true
+		},
+		{
+			"check": "plant migration leaves other furniture size",
+			"passed": true
+		},
+		{
+			"check": "plant migration preserves custom size 1.2",
+			"passed": true
+		},
+		{
+			"check": "plant migration leaves other furniture size",
+			"passed": true
+		},
+		{
+			"check": "new plant starts at 70 percent",
+			"passed": true
+		},
+		{
+			"check": "reset uses 70 percent",
+			"passed": true
+		},
+		{
+			"check": "acorn uses complete play body 0",
+			"passed": true
+		},
+		{
+			"check": "acorn uses complete play body 1",
+			"passed": true
+		},
+		{
+			"check": "acorn uses complete play body 2",
+			"passed": true
+		},
+		{
+			"check": "acorn uses complete play body 3",
+			"passed": true
+		},
+		{
+			"check": "acorn uses complete play body 4",
+			"passed": true
+		},
+		{
+			"check": "acorn uses complete play body 5",
+			"passed": true
+		},
+		{
+			"check": "acorn uses complete play body 6",
+			"passed": true
+		},
+		{
+			"check": "acorn uses complete play body 7",
+			"passed": true
+		},
+		{
+			"check": "acorn uses complete play body 8",
+			"passed": true
+		},
+		{
+			"check": "acorn uses complete play body 9",
+			"passed": true
+		},
+		{
+			"check": "acorn uses complete play body 10",
+			"passed": true
+		},
+		{
+			"check": "acorn uses complete play body 11",
+			"passed": true
+		},
+		{
+			"check": "acorn uses complete play body 12",
+			"passed": true
+		},
+		{
+			"check": "acorn uses complete play body 13",
+			"passed": true
+		},
+		{
+			"check": "acorn uses complete play body 14",
+			"passed": true
+		},
+		{
+			"check": "acorn uses complete play body 15",
+			"passed": true
+		},
+		{
+			"check": "acorn uses complete play body 16",
+			"passed": true
+		},
+		{
+			"check": "acorn uses complete play body 17",
+			"passed": true
+		},
+		{
+			"check": "acorn uses complete play body 18",
+			"passed": true
+		},
+		{
+			"check": "acorn uses complete play body 19",
+			"passed": true
+		},
+		{
+			"check": "acorn uses complete play body 20",
+			"passed": true
+		},
+		{
+			"check": "acorn uses complete play body 21",
+			"passed": true
+		},
+		{
+			"check": "acorn uses complete play body 22",
+			"passed": true
+		},
+		{
+			"check": "acorn uses complete play body 23",
+			"passed": true
+		},
+		{
+			"check": "acorn uses complete play body 24",
+			"passed": true
+		},
+		{
+			"check": "acorn uses complete play body 25",
+			"passed": true
+		},
+		{
+			"check": "acorn uses complete play body 26",
+			"passed": true
+		},
+		{
+			"check": "acorn uses complete play body 27",
+			"passed": true
+		},
+		{
+			"check": "acorn uses complete play body 28",
+			"passed": true
+		},
+		{
+			"check": "acorn uses complete play body 29",
+			"passed": true
+		},
+		{
+			"check": "acorn uses complete play body 30",
+			"passed": true
+		},
+		{
+			"check": "acorn uses complete play body 31",
+			"passed": true
+		},
+		{
+			"check": "acorn uses complete play body 32",
+			"passed": true
+		},
+		{
+			"check": "acorn uses complete play body 33",
+			"passed": true
+		},
+		{
+			"check": "acorn uses complete play body 34",
+			"passed": true
+		},
+		{
+			"check": "acorn uses complete play body 35",
+			"passed": true
+		},
+		{
+			"check": "acorn uses complete play body 36",
+			"passed": true
+		},
+		{
+			"check": "acorn uses complete play body 37",
+			"passed": true
+		},
+		{
+			"check": "acorn uses complete play body 38",
+			"passed": true
+		},
+		{
+			"check": "acorn uses complete play body 39",
+			"passed": true
+		},
+		{
+			"check": "acorn uses complete play body 40",
+			"passed": true
+		},
+		{
+			"check": "acorn uses complete play body 41",
+			"passed": true
+		},
+		{
+			"check": "acorn uses complete play body 42",
+			"passed": true
+		},
+		{
+			"check": "acorn uses complete play body 43",
+			"passed": true
+		},
+		{
+			"check": "acorn uses complete play body 44",
+			"passed": true
+		},
+		{
+			"check": "acorn uses complete play body 45",
+			"passed": true
+		},
+		{
+			"check": "acorn uses complete play body 46",
+			"passed": true
+		},
+		{
+			"check": "acorn uses complete play body 47",
+			"passed": true
+		},
+		{
+			"check": "acorn has changing full-body poses",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state idle",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state idle",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state idle",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state idle",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state idle",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state idle",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state idle",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state idle",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state idle",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state idle",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state idle",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state idle",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state idle",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state idle",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state idle",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state idle",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state idle",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state idle",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state idle",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state idle",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state idle",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state idle",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state idle",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state idle",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state idle",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state idle",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state idle",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state idle",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state idle",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state idle",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state idle",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state idle",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state pet",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state pet",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state pet",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state pet",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state pet",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state pet",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state pet",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state pet",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state pet",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state pet",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state pet",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state pet",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state pet",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state pet",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state pet",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state pet",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state pet",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state pet",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state pet",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state pet",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state pet",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state pet",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state pet",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state pet",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state pet",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state pet",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state pet",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state pet",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state pet",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state pet",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state pet",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state pet",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state sleep",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state sleep",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state sleep",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state sleep",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state sleep",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state sleep",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state sleep",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state sleep",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state sleep",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state sleep",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state sleep",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state sleep",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state sleep",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state sleep",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state sleep",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state sleep",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state sleep",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state sleep",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state sleep",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state sleep",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state sleep",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state sleep",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state sleep",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state sleep",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state sleep",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state sleep",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state sleep",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state sleep",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state sleep",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state sleep",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state sleep",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state sleep",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state eat",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state eat",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state eat",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state eat",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state eat",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state eat",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state eat",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state eat",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state eat",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state eat",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state eat",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state eat",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state eat",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state eat",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state eat",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state eat",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state eat",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state eat",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state eat",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state eat",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state eat",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state eat",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state eat",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state eat",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state eat",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state eat",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state eat",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state eat",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state eat",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state eat",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state eat",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state eat",
+			"passed": true
+		},
+		{
+			"check": "can take out acorn",
+			"passed": true
+		},
+		{
+			"check": "button puts away correct toy acorn",
+			"passed": true
+		},
+		{
+			"check": "button restores correct toy acorn",
+			"passed": true
+		},
+		{
+			"check": "can take out basket",
+			"passed": true
+		},
+		{
+			"check": "button puts away correct toy basket",
+			"passed": true
+		},
+		{
+			"check": "button restores correct toy basket",
+			"passed": true
+		},
+		{
+			"check": "putting away cancels ongoing toy activity toy_ball",
+			"passed": true
+		},
+		{
+			"check": "putting away clears pet target toy_ball",
+			"passed": true
+		},
+		{
+			"check": "toy can be placed again toy_ball",
+			"passed": true
+		},
+		{
+			"check": "putting away cancels ongoing toy activity toy_mouse",
+			"passed": true
+		},
+		{
+			"check": "putting away clears pet target toy_mouse",
+			"passed": true
+		},
+		{
+			"check": "toy can be placed again toy_mouse",
+			"passed": true
+		},
+		{
+			"check": "putting away cancels ongoing toy activity toy_plush",
+			"passed": true
+		},
+		{
+			"check": "putting away clears pet target toy_plush",
+			"passed": true
+		},
+		{
+			"check": "toy can be placed again toy_plush",
+			"passed": true
+		},
+		{
+			"check": "codex tooltip has no frame counter",
+			"passed": true
+		},
+		{
+			"check": "codex tooltip has no frame counter",
+			"passed": true
+		},
+		{
+			"check": "codex tooltip has no frame counter",
+			"passed": true
+		},
+		{
+			"check": "codex tooltip has no frame counter",
+			"passed": true
+		},
+		{
+			"check": "codex tooltip has no frame counter",
+			"passed": true
+		},
+		{
+			"check": "codex tooltip has no frame counter",
+			"passed": true
+		},
+		{
+			"check": "codex tooltip has no frame counter",
+			"passed": true
+		},
+		{
+			"check": "codex tooltip has no frame counter",
+			"passed": true
+		},
+		{
+			"check": "codex tooltip has no frame counter",
+			"passed": true
+		},
+		{
+			"check": "codex tooltip has no frame counter",
+			"passed": true
+		},
+		{
+			"check": "codex tooltip has no frame counter",
+			"passed": true
+		},
+		{
+			"check": "codex tooltip has no frame counter",
+			"passed": true
+		},
+		{
+			"check": "codex tooltip has no frame counter",
+			"passed": true
+		},
+		{
+			"check": "codex tooltip has no frame counter",
+			"passed": true
+		},
+		{
+			"check": "codex tooltip has no frame counter",
+			"passed": true
+		},
+		{
+			"check": "codex tooltip has no frame counter",
+			"passed": true
+		},
+		{
+			"check": "codex tooltip has no frame counter",
+			"passed": true
+		},
+		{
+			"check": "codex tooltip has no frame counter",
+			"passed": true
+		},
+		{
+			"check": "codex tooltip has no frame counter",
+			"passed": true
+		},
+		{
+			"check": "codex tooltip has no frame counter",
+			"passed": true
+		},
+		{
+			"check": "codex tooltip has no frame counter",
+			"passed": true
+		},
+		{
+			"check": "codex tooltip has no frame counter",
+			"passed": true
+		},
+		{
+			"check": "codex tooltip has no frame counter",
+			"passed": true
+		},
+		{
+			"check": "codex tooltip has no frame counter",
+			"passed": true
+		},
+		{
+			"check": "codex tooltip has no frame counter",
+			"passed": true
+		},
+		{
+			"check": "codex tooltip has no frame counter",
+			"passed": true
+		},
+		{
+			"check": "codex tooltip has no frame counter",
+			"passed": true
+		},
+		{
+			"check": "codex tooltip has no frame counter",
+			"passed": true
+		},
+		{
+			"check": "codex tooltip has no frame counter",
+			"passed": true
+		},
+		{
+			"check": "codex tooltip has no frame counter",
+			"passed": true
+		},
+		{
+			"check": "codex tooltip has no frame counter",
+			"passed": true
+		},
+		{
+			"check": "codex tooltip has no frame counter",
+			"passed": true
+		},
+		{
+			"check": "codex tooltip has no frame counter",
+			"passed": true
+		}
+	],
+	"item": 20,
+	"passed": true
+}

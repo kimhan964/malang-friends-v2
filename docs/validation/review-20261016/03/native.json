@@ -1,0 +1,1814 @@
+{
+	"checks": [
+		{
+			"check": "life bank remains complete sofa",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank sofa/0",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame life-sofa-00",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank sofa/1",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank sofa/2",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank sofa/3",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank sofa/4",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank sofa/5",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank sofa/6",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank sofa/7",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank sofa/8",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame life-sofa-08",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank sofa/9",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank sofa/10",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank sofa/11",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank sofa/12",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank sofa/13",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank sofa/14",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank sofa/15",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank sofa/16",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame life-sofa-16",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank sofa/17",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank sofa/18",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank sofa/19",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank sofa/20",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank sofa/21",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank sofa/22",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank sofa/23",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank sofa/24",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame life-sofa-24",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank sofa/25",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank sofa/26",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank sofa/27",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank sofa/28",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank sofa/29",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank sofa/30",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank sofa/31",
+			"passed": true
+		},
+		{
+			"check": "life bank remains complete bed",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank bed/0",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame life-bed-00",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank bed/1",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank bed/2",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank bed/3",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank bed/4",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank bed/5",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank bed/6",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank bed/7",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank bed/8",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame life-bed-08",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank bed/9",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank bed/10",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank bed/11",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank bed/12",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank bed/13",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank bed/14",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank bed/15",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank bed/16",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame life-bed-16",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank bed/17",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank bed/18",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank bed/19",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank bed/20",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank bed/21",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank bed/22",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank bed/23",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank bed/24",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame life-bed-24",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank bed/25",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank bed/26",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank bed/27",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank bed/28",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank bed/29",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank bed/30",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank bed/31",
+			"passed": true
+		},
+		{
+			"check": "life bank remains complete play",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank play/0",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame life-play-00",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank play/1",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank play/2",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank play/3",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank play/4",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank play/5",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank play/6",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank play/7",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank play/8",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame life-play-08",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank play/9",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank play/10",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank play/11",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank play/12",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank play/13",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank play/14",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank play/15",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank play/16",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame life-play-16",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank play/17",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank play/18",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank play/19",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank play/20",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank play/21",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank play/22",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank play/23",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank play/24",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame life-play-24",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank play/25",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank play/26",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank play/27",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank play/28",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank play/29",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank play/30",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank play/31",
+			"passed": true
+		},
+		{
+			"check": "life bank remains complete bath",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank bath/0",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame life-bath-00",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank bath/1",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank bath/2",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank bath/3",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank bath/4",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank bath/5",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank bath/6",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank bath/7",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank bath/8",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame life-bath-08",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank bath/9",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank bath/10",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank bath/11",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank bath/12",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank bath/13",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank bath/14",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank bath/15",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank bath/16",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame life-bath-16",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank bath/17",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank bath/18",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank bath/19",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank bath/20",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank bath/21",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank bath/22",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank bath/23",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank bath/24",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame life-bath-24",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank bath/25",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank bath/26",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank bath/27",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank bath/28",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank bath/29",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank bath/30",
+			"passed": true
+		},
+		{
+			"check": "correct whole-body bank bath/31",
+			"passed": true
+		},
+		{
+			"check": "daily bank remains complete sad",
+			"passed": true
+		},
+		{
+			"check": "daily starts sad",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank sad/0",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame daily-sad-00",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank sad/1",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank sad/2",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank sad/3",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank sad/4",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank sad/5",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank sad/6",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank sad/7",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank sad/8",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame daily-sad-08",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank sad/9",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank sad/10",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank sad/11",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank sad/12",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank sad/13",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank sad/14",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank sad/15",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank sad/16",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame daily-sad-16",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank sad/17",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank sad/18",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank sad/19",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank sad/20",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank sad/21",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank sad/22",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank sad/23",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank sad/24",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame daily-sad-24",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank sad/25",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank sad/26",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank sad/27",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank sad/28",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank sad/29",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank sad/30",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank sad/31",
+			"passed": true
+		},
+		{
+			"check": "daily bank remains complete peek",
+			"passed": true
+		},
+		{
+			"check": "daily starts peek",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank peek/0",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame daily-peek-00",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank peek/1",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank peek/2",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank peek/3",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank peek/4",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank peek/5",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank peek/6",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank peek/7",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank peek/8",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame daily-peek-08",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank peek/9",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank peek/10",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank peek/11",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank peek/12",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank peek/13",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank peek/14",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank peek/15",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank peek/16",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame daily-peek-16",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank peek/17",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank peek/18",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank peek/19",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank peek/20",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank peek/21",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank peek/22",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank peek/23",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank peek/24",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame daily-peek-24",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank peek/25",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank peek/26",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank peek/27",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank peek/28",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank peek/29",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank peek/30",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank peek/31",
+			"passed": true
+		},
+		{
+			"check": "daily bank remains complete drink",
+			"passed": true
+		},
+		{
+			"check": "daily starts drink",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank drink/0",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame daily-drink-00",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank drink/1",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank drink/2",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank drink/3",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank drink/4",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank drink/5",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank drink/6",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank drink/7",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank drink/8",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame daily-drink-08",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank drink/9",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank drink/10",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank drink/11",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank drink/12",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank drink/13",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank drink/14",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank drink/15",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank drink/16",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame daily-drink-16",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank drink/17",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank drink/18",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank drink/19",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank drink/20",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank drink/21",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank drink/22",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank drink/23",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank drink/24",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame daily-drink-24",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank drink/25",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank drink/26",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank drink/27",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank drink/28",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank drink/29",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank drink/30",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank drink/31",
+			"passed": true
+		},
+		{
+			"check": "daily bank remains complete sing",
+			"passed": true
+		},
+		{
+			"check": "daily starts sing",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank sing/0",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame daily-sing-00",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank sing/1",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank sing/2",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank sing/3",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank sing/4",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank sing/5",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank sing/6",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank sing/7",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank sing/8",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame daily-sing-08",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank sing/9",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank sing/10",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank sing/11",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank sing/12",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank sing/13",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank sing/14",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank sing/15",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank sing/16",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame daily-sing-16",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank sing/17",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank sing/18",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank sing/19",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank sing/20",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank sing/21",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank sing/22",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank sing/23",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank sing/24",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame daily-sing-24",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank sing/25",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank sing/26",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank sing/27",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank sing/28",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank sing/29",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank sing/30",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank sing/31",
+			"passed": true
+		},
+		{
+			"check": "daily bank remains complete study",
+			"passed": true
+		},
+		{
+			"check": "daily starts study",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank study/0",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame daily-study-00",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank study/1",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank study/2",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank study/3",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank study/4",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank study/5",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank study/6",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank study/7",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank study/8",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame daily-study-08",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank study/9",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank study/10",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank study/11",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank study/12",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank study/13",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank study/14",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank study/15",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank study/16",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame daily-study-16",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank study/17",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank study/18",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank study/19",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank study/20",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank study/21",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank study/22",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank study/23",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank study/24",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame daily-study-24",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank study/25",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank study/26",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank study/27",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank study/28",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank study/29",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank study/30",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank study/31",
+			"passed": true
+		},
+		{
+			"check": "daily bank remains complete work",
+			"passed": true
+		},
+		{
+			"check": "daily starts work",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank work/0",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame daily-work-00",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank work/1",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank work/2",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank work/3",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank work/4",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank work/5",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank work/6",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank work/7",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank work/8",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame daily-work-08",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank work/9",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank work/10",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank work/11",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank work/12",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank work/13",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank work/14",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank work/15",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank work/16",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame daily-work-16",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank work/17",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank work/18",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank work/19",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank work/20",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank work/21",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank work/22",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank work/23",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank work/24",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame daily-work-24",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank work/25",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank work/26",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank work/27",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank work/28",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank work/29",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank work/30",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank work/31",
+			"passed": true
+		},
+		{
+			"check": "daily bank remains complete pajama",
+			"passed": true
+		},
+		{
+			"check": "daily starts pajama",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank pajama/0",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame daily-pajama-00",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank pajama/1",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank pajama/2",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank pajama/3",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank pajama/4",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank pajama/5",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank pajama/6",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank pajama/7",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank pajama/8",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame daily-pajama-08",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank pajama/9",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank pajama/10",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank pajama/11",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank pajama/12",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank pajama/13",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank pajama/14",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank pajama/15",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank pajama/16",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame daily-pajama-16",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank pajama/17",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank pajama/18",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank pajama/19",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank pajama/20",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank pajama/21",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank pajama/22",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank pajama/23",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank pajama/24",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame daily-pajama-24",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank pajama/25",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank pajama/26",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank pajama/27",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank pajama/28",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank pajama/29",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank pajama/30",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank pajama/31",
+			"passed": true
+		},
+		{
+			"check": "daily bank remains complete fight",
+			"passed": true
+		},
+		{
+			"check": "daily starts fight",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank fight/0",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame daily-fight-00",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank fight/1",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank fight/2",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank fight/3",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank fight/4",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank fight/5",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank fight/6",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank fight/7",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank fight/8",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame daily-fight-08",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank fight/9",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank fight/10",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank fight/11",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank fight/12",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank fight/13",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank fight/14",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank fight/15",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank fight/16",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame daily-fight-16",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank fight/17",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank fight/18",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank fight/19",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank fight/20",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank fight/21",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank fight/22",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank fight/23",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank fight/24",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame daily-fight-24",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank fight/25",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank fight/26",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank fight/27",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank fight/28",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank fight/29",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank fight/30",
+			"passed": true
+		},
+		{
+			"check": "correct daily bank fight/31",
+			"passed": true
+		}
+	],
+	"item": 3,
+	"passed": true
+}

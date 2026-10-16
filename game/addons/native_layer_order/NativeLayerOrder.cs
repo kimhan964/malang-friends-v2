@@ -15,6 +15,8 @@ internal static class NativeLayerOrder {
     [DllImport("user32.dll")] static extern bool SetWindowPos(IntPtr window,IntPtr after,int x,int y,int cx,int cy,uint flags);
     [DllImport("user32.dll")] static extern uint GetWindowThreadProcessId(IntPtr window, out uint pid);
     [DllImport("user32.dll")] static extern bool IsWindowVisible(IntPtr window);
+    [DllImport("user32.dll",EntryPoint="GetWindowLongPtrW")] static extern IntPtr GetWindowLongPtr(IntPtr window,int index);
+    [DllImport("user32.dll",EntryPoint="SetWindowLongPtrW")] static extern IntPtr SetWindowLongPtr(IntPtr window,int index,IntPtr value);
     static int Main(string[] args) {
         int parentId;
         if (args.Length != 1 || !int.TryParse(args[0], out parentId)) return 2;
@@ -28,6 +30,17 @@ internal static class NativeLayerOrder {
         watcher.Start();
         string line;
         while ((line=Console.ReadLine())!=null) {
+            if(line.StartsWith("input ")) {
+                string[] fields=line.Split(' ');long value;uint owner;
+                if(fields.Length!=3 || !long.TryParse(fields[1],out value)) continue;
+                var inputWindow=new IntPtr(value);GetWindowThreadProcessId(inputWindow,out owner);
+                if(owner!=(uint)parentId || !IsWindowVisible(inputWindow)) continue;
+                long before=GetWindowLongPtr(inputWindow,-20).ToInt64();
+                long after=fields[2]=="1" ? before|0x80000L|0x20L : before&~0x20L;
+                if(after!=before) SetWindowLongPtr(inputWindow,-20,new IntPtr(after));
+                // Do not call SetWindowPos(SWP_FRAMECHANGED), erase or re-show.
+                continue;
+            }
             var desired=new List<IntPtr>();
             foreach (string token in line.Split(' ')) {
                 long value;

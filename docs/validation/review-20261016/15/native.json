@@ -1,0 +1,250 @@
+{
+	"checks": [
+		{
+			"check": "acorn uses complete play body 0",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame acorn-00",
+			"passed": true
+		},
+		{
+			"check": "acorn uses complete play body 1",
+			"passed": true
+		},
+		{
+			"check": "acorn uses complete play body 2",
+			"passed": true
+		},
+		{
+			"check": "acorn uses complete play body 3",
+			"passed": true
+		},
+		{
+			"check": "acorn uses complete play body 4",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame acorn-04",
+			"passed": true
+		},
+		{
+			"check": "acorn uses complete play body 5",
+			"passed": true
+		},
+		{
+			"check": "acorn uses complete play body 6",
+			"passed": true
+		},
+		{
+			"check": "acorn uses complete play body 7",
+			"passed": true
+		},
+		{
+			"check": "acorn uses complete play body 8",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame acorn-08",
+			"passed": true
+		},
+		{
+			"check": "acorn uses complete play body 9",
+			"passed": true
+		},
+		{
+			"check": "acorn uses complete play body 10",
+			"passed": true
+		},
+		{
+			"check": "acorn uses complete play body 11",
+			"passed": true
+		},
+		{
+			"check": "acorn uses complete play body 12",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame acorn-12",
+			"passed": true
+		},
+		{
+			"check": "acorn uses complete play body 13",
+			"passed": true
+		},
+		{
+			"check": "acorn uses complete play body 14",
+			"passed": true
+		},
+		{
+			"check": "acorn uses complete play body 15",
+			"passed": true
+		},
+		{
+			"check": "acorn uses complete play body 16",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame acorn-16",
+			"passed": true
+		},
+		{
+			"check": "acorn uses complete play body 17",
+			"passed": true
+		},
+		{
+			"check": "acorn uses complete play body 18",
+			"passed": true
+		},
+		{
+			"check": "acorn uses complete play body 19",
+			"passed": true
+		},
+		{
+			"check": "acorn uses complete play body 20",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame acorn-20",
+			"passed": true
+		},
+		{
+			"check": "acorn uses complete play body 21",
+			"passed": true
+		},
+		{
+			"check": "acorn uses complete play body 22",
+			"passed": true
+		},
+		{
+			"check": "acorn uses complete play body 23",
+			"passed": true
+		},
+		{
+			"check": "acorn uses complete play body 24",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame acorn-24",
+			"passed": true
+		},
+		{
+			"check": "acorn uses complete play body 25",
+			"passed": true
+		},
+		{
+			"check": "acorn uses complete play body 26",
+			"passed": true
+		},
+		{
+			"check": "acorn uses complete play body 27",
+			"passed": true
+		},
+		{
+			"check": "acorn uses complete play body 28",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame acorn-28",
+			"passed": true
+		},
+		{
+			"check": "acorn uses complete play body 29",
+			"passed": true
+		},
+		{
+			"check": "acorn uses complete play body 30",
+			"passed": true
+		},
+		{
+			"check": "acorn uses complete play body 31",
+			"passed": true
+		},
+		{
+			"check": "acorn uses complete play body 32",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame acorn-32",
+			"passed": true
+		},
+		{
+			"check": "acorn uses complete play body 33",
+			"passed": true
+		},
+		{
+			"check": "acorn uses complete play body 34",
+			"passed": true
+		},
+		{
+			"check": "acorn uses complete play body 35",
+			"passed": true
+		},
+		{
+			"check": "acorn uses complete play body 36",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame acorn-36",
+			"passed": true
+		},
+		{
+			"check": "acorn uses complete play body 37",
+			"passed": true
+		},
+		{
+			"check": "acorn uses complete play body 38",
+			"passed": true
+		},
+		{
+			"check": "acorn uses complete play body 39",
+			"passed": true
+		},
+		{
+			"check": "acorn uses complete play body 40",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame acorn-40",
+			"passed": true
+		},
+		{
+			"check": "acorn uses complete play body 41",
+			"passed": true
+		},
+		{
+			"check": "acorn uses complete play body 42",
+			"passed": true
+		},
+		{
+			"check": "acorn uses complete play body 43",
+			"passed": true
+		},
+		{
+			"check": "acorn uses complete play body 44",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame acorn-44",
+			"passed": true
+		},
+		{
+			"check": "acorn uses complete play body 45",
+			"passed": true
+		},
+		{
+			"check": "acorn uses complete play body 46",
+			"passed": true
+		},
+		{
+			"check": "acorn uses complete play body 47",
+			"passed": true
+		},
+		{
+			"check": "acorn has changing full-body poses",
+			"passed": true
+		}
+	],
+	"item": 15,
+	"passed": true
+}

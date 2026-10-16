@@ -283,6 +283,15 @@ func show_generated_species() -> void:
 		var settled=smoothstep(0.0,.6,motion.elapsed)*smoothstep(0.0,.6,motion.action_left)
 		sprite.position.y-=lift*settled
 	sprite.position+=window_subpixel
+	if generated_sample.get("trip",false):
+		var angle=float(generated_sample.trip_angle)*motion.facing
+		var bounds=Rect2(Metrics.used_rect(sprite.texture))
+		var floor_y=-INF
+		for corner in preload("res://scripts/animation_outline.gd").local_hull(sprite.texture):
+			floor_y=maxf(floor_y,(corner*sprite.scale).rotated(angle).y)
+		var center=Vector2(bounds.get_center().x,0)*sprite.scale
+		sprite.rotation=angle
+		sprite.position=FEET+Vector2(-center.rotated(angle).x,-floor_y)+window_subpixel
 	if generated_sample.get("adventure_animation",false):
 		if generated_sample.has("roll_center"):
 			var angle=float(generated_sample.roll_angle)
@@ -290,12 +299,25 @@ func show_generated_species() -> void:
 			sprite.rotation=angle
 			sprite.position=center-(Vector2(generated_sample.roll_center)*sprite.scale).rotated(angle)
 		else: sprite.position.y-=float(generated_sample.get("flight_lift",0))
+	if generated_sample.get("ladder_animation",false):
+		sprite.position.y-=float(generated_sample.climb_lift)
+	if motion.phase=="prop_use" and motion.visit_id=="acorn":
+		var envelope=smoothstep(0,.4,motion.elapsed)*smoothstep(0,.4,motion.action_left)
+		var sway=sin(motion.elapsed*TAU*.8)*.045*envelope
+		var bottom=-INF
+		for point in preload("res://scripts/animation_outline.gd").local_hull(sprite.texture):bottom=maxf(bottom,(point*sprite.scale).rotated(sway).y)
+		var center=Vector2(128,0)*sprite.scale
+		sprite.rotation=sway;sprite.position=FEET+Vector2(-center.rotated(sway).x,-bottom)
 	if generated_sample.get("run_hop",false):
 		sprite.position.y-=float(generated_sample.lift)*factor
 	elif motion.phase=="daily_action" and motion.daily.action=="jump":
 		var p=clampf(motion.daily.clock/1.25,0,1)
 		var lift=sin(clampf((p-.12)/.72,0,1)*PI)*15.0*motion.growth_scale
 		sprite.position.y-=maxf(0,lift)
+	if motion.visit_id=="home_alarm_clock" and motion.soft_alarm_time>=0 and motion.soft_alarm_time<.55:
+		var surprise=sin(clampf(motion.soft_alarm_time/.55,0,1)*PI)
+		sprite.position.y-=surprise*9*motion.growth_scale
+		sprite.rotation=sin(motion.soft_alarm_time*TAU/.55)*.035
 
 func apply_generated_action_motion() -> void:
 	if generated_sample.get("soft_roster",false):
@@ -820,6 +842,13 @@ func show_lifestyle_prop() -> void:
 	if not is_instance_valid(lifestyle_prop): return
 	lifestyle_prop.hide()
 	scene_front.hide()
+	if generated_sample.get("ladder_animation",false):
+		if generated_sample.get("has_book",false):
+			lifestyle_prop.texture=preload("res://scripts/v2_shared_art.gd").texture("reading-book")
+			var take=smoothstep(3.65,4.15,motion.elapsed)
+			lifestyle_prop.position=generated_sample.hand+Vector2(35,-22)*(1-take)
+			lifestyle_prop.scale=Vector2.ONE*46.0/lifestyle_prop.texture.get_width();lifestyle_prop.rotation=0;lifestyle_prop.modulate=Color.WHITE;lifestyle_prop.show()
+		return
 	if motion.phase=="home_use" and motion.visit_id=="home_bathtub":
 		scene_front.texture=preload("res://scripts/v2_furniture_art.gd").bath_front()
 		scene_front.position=motion.soft_scene_origin-motion.feet+FEET
@@ -834,6 +863,12 @@ func show_lifestyle_prop() -> void:
 		lifestyle_prop.scale=Vector2.ONE*minf(42.0/lifestyle_prop.texture.get_width(),40.0/lifestyle_prop.texture.get_height())
 		lifestyle_prop.rotation=sin(motion.elapsed*2)*.06
 		lifestyle_prop.modulate.a=smoothstep(.3,.8,motion.elapsed)*smoothstep(.3,.8,motion.action_left)
+		if motion.visit_id=="home_toy_plush":
+			var play=preload("res://scripts/play_choreography.gd").plush(motion,generated_sample.hand)
+			var source=sprite.to_local(to_global(motion.soft_scene_origin-motion.feet+FEET))
+			lifestyle_prop.position=source.lerp(play.position,play.reach)
+			lifestyle_prop.rotation=play.angle
+			lifestyle_prop.modulate.a=1.0
 		if motion.visit_id=="basket":
 			var source=sprite.to_local(to_global(motion.soft_scene_origin-motion.feet+FEET))
 			var reach=smoothstep(.9,2.2,motion.elapsed)*smoothstep(.2,1.4,motion.action_left)
@@ -845,6 +880,7 @@ func show_lifestyle_prop() -> void:
 	var kind: String=preload("res://scripts/home_animation.gd").KINDS.get(motion.visit_id,"")
 	# The full-body drinking cels already contain the held mug.
 	if kind=="tea" and generated_sample.get("embedded_food",false): return
+	if kind=="read" and generated_sample.get("embedded_book",false):return
 	var id: String={"read":"reading-book","tea":"water-cup","music":"music"}.get(kind,"")
 	if id.is_empty(): return
 	var texture: Texture2D=preload("res://scripts/v2_shared_art.gd").texture(id)

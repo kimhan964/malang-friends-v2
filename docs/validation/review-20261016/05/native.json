@@ -1,0 +1,454 @@
+{
+	"checks": [
+		{
+			"check": "eight authored walk poses with complete intermediates 0",
+			"passed": true
+		},
+		{
+			"check": "run has airborne motion 0",
+			"passed": true
+		},
+		{
+			"check": "running travels faster than walking 0",
+			"passed": true
+		},
+		{
+			"check": "run stays inside activity space 0",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame 0-walk-00",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame 0-walk-01",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame 0-walk-02",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame 0-walk-03",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame 0-walk-04",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame 0-walk-05",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame 0-walk-06",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame 0-walk-07",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame 0-run-00",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame 0-run-01",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame 0-run-02",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame 0-run-03",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame 0-run-04",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame 0-run-05",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame 0-run-06",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame 0-run-07",
+			"passed": true
+		},
+		{
+			"check": "eight authored walk poses with complete intermediates 1",
+			"passed": true
+		},
+		{
+			"check": "run has airborne motion 1",
+			"passed": true
+		},
+		{
+			"check": "running travels faster than walking 1",
+			"passed": true
+		},
+		{
+			"check": "run stays inside activity space 1",
+			"passed": true
+		},
+		{
+			"check": "eight authored walk poses with complete intermediates 2",
+			"passed": true
+		},
+		{
+			"check": "run has airborne motion 2",
+			"passed": true
+		},
+		{
+			"check": "running travels faster than walking 2",
+			"passed": true
+		},
+		{
+			"check": "run stays inside activity space 2",
+			"passed": true
+		},
+		{
+			"check": "eight authored walk poses with complete intermediates 3",
+			"passed": true
+		},
+		{
+			"check": "run has airborne motion 3",
+			"passed": true
+		},
+		{
+			"check": "running travels faster than walking 3",
+			"passed": true
+		},
+		{
+			"check": "run stays inside activity space 3",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame 3-walk-00",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame 3-walk-01",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame 3-walk-02",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame 3-walk-03",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame 3-walk-04",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame 3-walk-05",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame 3-walk-06",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame 3-walk-07",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame 3-run-00",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame 3-run-01",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame 3-run-02",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame 3-run-03",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame 3-run-04",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame 3-run-05",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame 3-run-06",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame 3-run-07",
+			"passed": true
+		},
+		{
+			"check": "eight authored walk poses with complete intermediates 4",
+			"passed": true
+		},
+		{
+			"check": "run has airborne motion 4",
+			"passed": true
+		},
+		{
+			"check": "running travels faster than walking 4",
+			"passed": true
+		},
+		{
+			"check": "run stays inside activity space 4",
+			"passed": true
+		},
+		{
+			"check": "eight authored walk poses with complete intermediates 5",
+			"passed": true
+		},
+		{
+			"check": "run has airborne motion 5",
+			"passed": true
+		},
+		{
+			"check": "running travels faster than walking 5",
+			"passed": true
+		},
+		{
+			"check": "run stays inside activity space 5",
+			"passed": true
+		},
+		{
+			"check": "eight authored walk poses with complete intermediates 6",
+			"passed": true
+		},
+		{
+			"check": "run has airborne motion 6",
+			"passed": true
+		},
+		{
+			"check": "running travels faster than walking 6",
+			"passed": true
+		},
+		{
+			"check": "run stays inside activity space 6",
+			"passed": true
+		},
+		{
+			"check": "eight authored walk poses with complete intermediates 7",
+			"passed": true
+		},
+		{
+			"check": "run has airborne motion 7",
+			"passed": true
+		},
+		{
+			"check": "running travels faster than walking 7",
+			"passed": true
+		},
+		{
+			"check": "run stays inside activity space 7",
+			"passed": true
+		},
+		{
+			"check": "eight authored walk poses with complete intermediates 8",
+			"passed": true
+		},
+		{
+			"check": "run has airborne motion 8",
+			"passed": true
+		},
+		{
+			"check": "running travels faster than walking 8",
+			"passed": true
+		},
+		{
+			"check": "run stays inside activity space 8",
+			"passed": true
+		},
+		{
+			"check": "eight authored walk poses with complete intermediates 9",
+			"passed": true
+		},
+		{
+			"check": "run has airborne motion 9",
+			"passed": true
+		},
+		{
+			"check": "running travels faster than walking 9",
+			"passed": true
+		},
+		{
+			"check": "run stays inside activity space 9",
+			"passed": true
+		},
+		{
+			"check": "eight authored walk poses with complete intermediates 10",
+			"passed": true
+		},
+		{
+			"check": "run has airborne motion 10",
+			"passed": true
+		},
+		{
+			"check": "running travels faster than walking 10",
+			"passed": true
+		},
+		{
+			"check": "run stays inside activity space 10",
+			"passed": true
+		},
+		{
+			"check": "eight authored walk poses with complete intermediates 11",
+			"passed": true
+		},
+		{
+			"check": "run has airborne motion 11",
+			"passed": true
+		},
+		{
+			"check": "running travels faster than walking 11",
+			"passed": true
+		},
+		{
+			"check": "run stays inside activity space 11",
+			"passed": true
+		},
+		{
+			"check": "eight authored walk poses with complete intermediates 12",
+			"passed": true
+		},
+		{
+			"check": "run has airborne motion 12",
+			"passed": true
+		},
+		{
+			"check": "running travels faster than walking 12",
+			"passed": true
+		},
+		{
+			"check": "run stays inside activity space 12",
+			"passed": true
+		},
+		{
+			"check": "eight authored walk poses with complete intermediates 13",
+			"passed": true
+		},
+		{
+			"check": "run has airborne motion 13",
+			"passed": true
+		},
+		{
+			"check": "running travels faster than walking 13",
+			"passed": true
+		},
+		{
+			"check": "run stays inside activity space 13",
+			"passed": true
+		},
+		{
+			"check": "eight authored walk poses with complete intermediates 14",
+			"passed": true
+		},
+		{
+			"check": "run has airborne motion 14",
+			"passed": true
+		},
+		{
+			"check": "running travels faster than walking 14",
+			"passed": true
+		},
+		{
+			"check": "run stays inside activity space 14",
+			"passed": true
+		},
+		{
+			"check": "eight authored walk poses with complete intermediates 15",
+			"passed": true
+		},
+		{
+			"check": "run has airborne motion 15",
+			"passed": true
+		},
+		{
+			"check": "running travels faster than walking 15",
+			"passed": true
+		},
+		{
+			"check": "run stays inside activity space 15",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame 15-walk-00",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame 15-walk-01",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame 15-walk-02",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame 15-walk-03",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame 15-walk-04",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame 15-walk-05",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame 15-walk-06",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame 15-walk-07",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame 15-run-00",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame 15-run-01",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame 15-run-02",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame 15-run-03",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame 15-run-04",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame 15-run-05",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame 15-run-06",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame 15-run-07",
+			"passed": true
+		}
+	],
+	"item": 5,
+	"passed": true
+}

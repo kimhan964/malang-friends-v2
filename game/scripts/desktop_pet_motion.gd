@@ -51,6 +51,8 @@ var soft_scene_origin=Vector2.ZERO
 var soft_scene_scale=Vector2.ONE
 var soft_scene_mirrored=false
 var soft_scene_lift=0.0
+var soft_alarm_time=-1.0
+var soft_climb_height=0.0
 var soft_scene_style: Dictionary={}
 var food_id=-1
 var favorite_food=false
@@ -260,7 +262,7 @@ var silly_kind=""
 var silly_followup="idle"
 var slapstick=preload("res://scripts/slapstick.gd").new()
 const DIZZY_DURATION=4.8
-const DIZZY_LANDING=0.45
+const DIZZY_LANDING=0.22
 const DROP_HOLD_SECONDS=3.0
 const STRUGGLE_HOLD_SECONDS=2.0
 
@@ -319,6 +321,8 @@ func cancel_play() -> void:
 	soft_toy_time=0.0
 	soft_toy_prop=""
 	soft_scene_lift=0.0
+	soft_alarm_time=-1.0
+	soft_climb_height=0.0
 	smooth_walk_cycle.reset()
 	pilot_hop.reset()
 	pilot_was_traveling=false
@@ -368,7 +372,7 @@ func begin_drop(with_dizzy: bool=true) -> void:
 		drop_ground=drop_ground.clamp(bounds.position,bounds.end)
 		drop_ground.y=bounds.get_center().y
 	if dizzy_followup!="visit": target=drop_ground
-	drop_duration=clampf(sqrt(2.0*maxf(0.0,floor_y-feet.y)/1600.0),.18,1.25)
+	drop_duration=clampf(sqrt(2.0*maxf(0.0,drop_ground.y-feet.y)/2200.0),.08,1.0)
 	carried=false
 	held=false
 	landing_left=0.0
@@ -872,7 +876,7 @@ func advance(delta: float) -> void:
 				elapsed=0
 				if phase=="home_use": action_left=preload("res://scripts/home_animation.gd").duration(visit_id)
 				if phase=="prop_use":
-					action_left=4.5 if visit_id=="acorn" else (14.0 if species==9 and visit_id=="plant" else 8.0)
+					action_left=18.0 if visit_id=="acorn" else (14.0 if species==9 and visit_id=="plant" else 8.0)
 					facing=1.0
 				visited.emit(visit_id)
 				if phase=="doze": react("sleepy",2.4,"doze")

@@ -29,6 +29,7 @@ static func active(m) -> bool:
 static func base_duration(id: String) -> float:
 	return {"home_sofa":7.7,"home_daybed":10.9,"home_bathtub":10.9,"home_toy_plush":6.1}.get(id,DURATIONS.get(KINDS.get(id,"rest"),8.0))
 static func duration(id: String) -> float:
+	if id=="home_wall_shelf":return base_duration(id)*4.0+preload("res://scripts/shelf_ladder.gd").END
 	return base_duration(id)*4.0
 static func frames(m,kind: String) -> Array:
 	var key="%d/%s/%s"%[m.species,age(m),kind]

@@ -1,0 +1,349 @@
+{
+	"checks": [
+		{
+			"check": "trip can start 3",
+			"passed": true
+		},
+		{
+			"check": "trip stays grounded 3/0",
+			"passed": true
+		},
+		{
+			"check": "trip stays grounded 3/1",
+			"passed": true
+		},
+		{
+			"check": "trip stays grounded 3/2",
+			"passed": true
+		},
+		{
+			"check": "trip stays grounded 3/3",
+			"passed": true
+		},
+		{
+			"check": "trip stays grounded 3/4",
+			"passed": true
+		},
+		{
+			"check": "trip stays grounded 3/5",
+			"passed": true
+		},
+		{
+			"check": "trip stays grounded 3/6",
+			"passed": true
+		},
+		{
+			"check": "trip stays grounded 3/7",
+			"passed": true
+		},
+		{
+			"check": "trip stays grounded 3/8",
+			"passed": true
+		},
+		{
+			"check": "trip stays grounded 3/9",
+			"passed": true
+		},
+		{
+			"check": "trip stays grounded 3/10",
+			"passed": true
+		},
+		{
+			"check": "trip stays grounded 3/11",
+			"passed": true
+		},
+		{
+			"check": "trip stays grounded 3/12",
+			"passed": true
+		},
+		{
+			"check": "trip stays grounded 3/13",
+			"passed": true
+		},
+		{
+			"check": "trip stays grounded 3/14",
+			"passed": true
+		},
+		{
+			"check": "trip stays grounded 3/15",
+			"passed": true
+		},
+		{
+			"check": "trip stays grounded 3/16",
+			"passed": true
+		},
+		{
+			"check": "trip stays grounded 3/17",
+			"passed": true
+		},
+		{
+			"check": "trip stays grounded 3/18",
+			"passed": true
+		},
+		{
+			"check": "trip stays grounded 3/19",
+			"passed": true
+		},
+		{
+			"check": "trip stays grounded 3/20",
+			"passed": true
+		},
+		{
+			"check": "trip stays grounded 3/21",
+			"passed": true
+		},
+		{
+			"check": "trip stays grounded 3/22",
+			"passed": true
+		},
+		{
+			"check": "trip stays grounded 3/23",
+			"passed": true
+		},
+		{
+			"check": "trip stays grounded 3/24",
+			"passed": true
+		},
+		{
+			"check": "trip stays grounded 3/25",
+			"passed": true
+		},
+		{
+			"check": "trip stays grounded 3/26",
+			"passed": true
+		},
+		{
+			"check": "trip stays grounded 3/27",
+			"passed": true
+		},
+		{
+			"check": "trip stays grounded 3/28",
+			"passed": true
+		},
+		{
+			"check": "trip stays grounded 3/29",
+			"passed": true
+		},
+		{
+			"check": "trip stays grounded 3/30",
+			"passed": true
+		},
+		{
+			"check": "trip stays grounded 3/31",
+			"passed": true
+		},
+		{
+			"check": "trip stays grounded 3/32",
+			"passed": true
+		},
+		{
+			"check": "trip stays grounded 3/33",
+			"passed": true
+		},
+		{
+			"check": "trip stays grounded 3/34",
+			"passed": true
+		},
+		{
+			"check": "trip stays grounded 3/35",
+			"passed": true
+		},
+		{
+			"check": "trip stays grounded 3/36",
+			"passed": true
+		},
+		{
+			"check": "trip stays grounded 3/37",
+			"passed": true
+		},
+		{
+			"check": "trip stays grounded 3/38",
+			"passed": true
+		},
+		{
+			"check": "trip stays grounded 3/39",
+			"passed": true
+		},
+		{
+			"check": "trip stays grounded 3/40",
+			"passed": true
+		},
+		{
+			"check": "trip stays grounded 3/41",
+			"passed": true
+		},
+		{
+			"check": "trip stays grounded 3/42",
+			"passed": true
+		},
+		{
+			"check": "trip stays grounded 3/43",
+			"passed": true
+		},
+		{
+			"check": "trip stays grounded 3/44",
+			"passed": true
+		},
+		{
+			"check": "trip stays grounded 3/45",
+			"passed": true
+		},
+		{
+			"check": "trip stays grounded 3/46",
+			"passed": true
+		},
+		{
+			"check": "trip stays grounded 3/47",
+			"passed": true
+		},
+		{
+			"check": "trip stays grounded 3/48",
+			"passed": true
+		},
+		{
+			"check": "trip stays grounded 3/49",
+			"passed": true
+		},
+		{
+			"check": "trip stays grounded 3/50",
+			"passed": true
+		},
+		{
+			"check": "trip stays grounded 3/51",
+			"passed": true
+		},
+		{
+			"check": "trip stays grounded 3/52",
+			"passed": true
+		},
+		{
+			"check": "trip stays grounded 3/53",
+			"passed": true
+		},
+		{
+			"check": "trip stays grounded 3/54",
+			"passed": true
+		},
+		{
+			"check": "trip stays grounded 3/55",
+			"passed": true
+		},
+		{
+			"check": "trip stays grounded 3/56",
+			"passed": true
+		},
+		{
+			"check": "trip stays grounded 3/57",
+			"passed": true
+		},
+		{
+			"check": "trip stays grounded 3/58",
+			"passed": true
+		},
+		{
+			"check": "trip stays grounded 3/59",
+			"passed": true
+		},
+		{
+			"check": "trip stays grounded 3/60",
+			"passed": true
+		},
+		{
+			"check": "trip stays grounded 3/61",
+			"passed": true
+		},
+		{
+			"check": "trip stays grounded 3/62",
+			"passed": true
+		},
+		{
+			"check": "trip stays grounded 3/63",
+			"passed": true
+		},
+		{
+			"check": "trip stays grounded 3/64",
+			"passed": true
+		},
+		{
+			"check": "trip stays grounded 3/65",
+			"passed": true
+		},
+		{
+			"check": "trip stays grounded 3/66",
+			"passed": true
+		},
+		{
+			"check": "trip stays grounded 3/67",
+			"passed": true
+		},
+		{
+			"check": "trip stays grounded 3/68",
+			"passed": true
+		},
+		{
+			"check": "trip stays grounded 3/69",
+			"passed": true
+		},
+		{
+			"check": "trip stays grounded 3/70",
+			"passed": true
+		},
+		{
+			"check": "trip stays grounded 3/71",
+			"passed": true
+		},
+		{
+			"check": "trip stays grounded 3/72",
+			"passed": true
+		},
+		{
+			"check": "trip stays grounded 3/73",
+			"passed": true
+		},
+		{
+			"check": "trip stays grounded 3/74",
+			"passed": true
+		},
+		{
+			"check": "trip stays grounded 3/75",
+			"passed": true
+		},
+		{
+			"check": "trip stays grounded 3/76",
+			"passed": true
+		},
+		{
+			"check": "trip stays grounded 3/77",
+			"passed": true
+		},
+		{
+			"check": "trip stays grounded 3/78",
+			"passed": true
+		},
+		{
+			"check": "trip stays grounded 3/79",
+			"passed": true
+		},
+		{
+			"check": "trip stays grounded 3/80",
+			"passed": true
+		},
+		{
+			"check": "trip stays grounded 3/81",
+			"passed": true
+		},
+		{
+			"check": "trip stays grounded 3/82",
+			"passed": true
+		},
+		{
+			"check": "trip falls, dazes and recovers 3",
+			"passed": true
+		},
+		{
+			"check": "trip completes 3",
+			"passed": true
+		}
+	],
+	"passed": true
+}

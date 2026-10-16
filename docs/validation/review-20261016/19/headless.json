@@ -1,0 +1,198 @@
+{
+	"checks": [
+		{
+			"check": "can take out acorn",
+			"passed": true
+		},
+		{
+			"check": "button puts away correct toy acorn",
+			"passed": true
+		},
+		{
+			"check": "button restores correct toy acorn",
+			"passed": true
+		},
+		{
+			"check": "can take out basket",
+			"passed": true
+		},
+		{
+			"check": "button puts away correct toy basket",
+			"passed": true
+		},
+		{
+			"check": "button restores correct toy basket",
+			"passed": true
+		},
+		{
+			"check": "putting away cancels ongoing toy activity toy_ball",
+			"passed": true
+		},
+		{
+			"check": "putting away clears pet target toy_ball",
+			"passed": true
+		},
+		{
+			"check": "toy can be placed again toy_ball",
+			"passed": true
+		},
+		{
+			"check": "putting away cancels ongoing toy activity toy_mouse",
+			"passed": true
+		},
+		{
+			"check": "putting away clears pet target toy_mouse",
+			"passed": true
+		},
+		{
+			"check": "toy can be placed again toy_mouse",
+			"passed": true
+		},
+		{
+			"check": "putting away cancels ongoing toy activity toy_plush",
+			"passed": true
+		},
+		{
+			"check": "putting away clears pet target toy_plush",
+			"passed": true
+		},
+		{
+			"check": "toy can be placed again toy_plush",
+			"passed": true
+		},
+		{
+			"check": "codex tooltip has no frame counter",
+			"passed": true
+		},
+		{
+			"check": "codex tooltip has no frame counter",
+			"passed": true
+		},
+		{
+			"check": "codex tooltip has no frame counter",
+			"passed": true
+		},
+		{
+			"check": "codex tooltip has no frame counter",
+			"passed": true
+		},
+		{
+			"check": "codex tooltip has no frame counter",
+			"passed": true
+		},
+		{
+			"check": "codex tooltip has no frame counter",
+			"passed": true
+		},
+		{
+			"check": "codex tooltip has no frame counter",
+			"passed": true
+		},
+		{
+			"check": "codex tooltip has no frame counter",
+			"passed": true
+		},
+		{
+			"check": "codex tooltip has no frame counter",
+			"passed": true
+		},
+		{
+			"check": "codex tooltip has no frame counter",
+			"passed": true
+		},
+		{
+			"check": "codex tooltip has no frame counter",
+			"passed": true
+		},
+		{
+			"check": "codex tooltip has no frame counter",
+			"passed": true
+		},
+		{
+			"check": "codex tooltip has no frame counter",
+			"passed": true
+		},
+		{
+			"check": "codex tooltip has no frame counter",
+			"passed": true
+		},
+		{
+			"check": "codex tooltip has no frame counter",
+			"passed": true
+		},
+		{
+			"check": "codex tooltip has no frame counter",
+			"passed": true
+		},
+		{
+			"check": "codex tooltip has no frame counter",
+			"passed": true
+		},
+		{
+			"check": "codex tooltip has no frame counter",
+			"passed": true
+		},
+		{
+			"check": "codex tooltip has no frame counter",
+			"passed": true
+		},
+		{
+			"check": "codex tooltip has no frame counter",
+			"passed": true
+		},
+		{
+			"check": "codex tooltip has no frame counter",
+			"passed": true
+		},
+		{
+			"check": "codex tooltip has no frame counter",
+			"passed": true
+		},
+		{
+			"check": "codex tooltip has no frame counter",
+			"passed": true
+		},
+		{
+			"check": "codex tooltip has no frame counter",
+			"passed": true
+		},
+		{
+			"check": "codex tooltip has no frame counter",
+			"passed": true
+		},
+		{
+			"check": "codex tooltip has no frame counter",
+			"passed": true
+		},
+		{
+			"check": "codex tooltip has no frame counter",
+			"passed": true
+		},
+		{
+			"check": "codex tooltip has no frame counter",
+			"passed": true
+		},
+		{
+			"check": "codex tooltip has no frame counter",
+			"passed": true
+		},
+		{
+			"check": "codex tooltip has no frame counter",
+			"passed": true
+		},
+		{
+			"check": "codex tooltip has no frame counter",
+			"passed": true
+		},
+		{
+			"check": "codex tooltip has no frame counter",
+			"passed": true
+		},
+		{
+			"check": "codex tooltip has no frame counter",
+			"passed": true
+		}
+	],
+	"item": 19,
+	"passed": true
+}

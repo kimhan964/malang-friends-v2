@@ -32,6 +32,7 @@ var effect_time=0.0
 var roll_angle=0.0
 var roam_speed=0.0
 var roam_time=0.0
+var toy_clock=0.0
 var appearance={"color":0,"finish":0,"design":0}
 var art_origin=Vector2(6,6)
 var settle_time=0.0
@@ -42,6 +43,8 @@ func fit_surface(dimensions: Vector2) -> void:
 		var extent=ceili(dimensions.length())+24
 		size=Vector2i(extent,extent)
 		art_origin=(Vector2(size)-dimensions)*.5
+	elif item_id=="alarm_clock":
+		size=Vector2i(dimensions.ceil())+Vector2i(40,40);art_origin=Vector2(20,20)
 	else:
 		size=Vector2i(dimensions.ceil())+Vector2i(12,12)
 		art_origin=Vector2(6,6)
@@ -73,17 +76,19 @@ func _ready() -> void:
 	var tex=Catalog.texture(item_id,appearance.design)
 	if tex==null: return
 	var limit: Vector2=Catalog.ITEMS[item_id].size
-	var factor=minf(limit.x/tex.get_width(),limit.y/tex.get_height())
+	var factor=minf(limit.x/tex.get_width(),limit.y/tex.get_height())*user_scale
 	var dimensions=tex.get_size()*factor
 	fit_surface(dimensions)
 	sprite=Sprite2D.new()
 	sprite.texture=tex
 	sprite.material=Catalog.material()
-	sprite.centered=item_id=="toy_ball"
+	sprite.centered=item_id in ["toy_ball","alarm_clock"]
 	sprite.position=art_origin+(dimensions*.5 if sprite.centered else Vector2.ZERO)
 	sprite.scale=Vector2.ONE*factor
 	sprite.texture_filter=CanvasItem.TEXTURE_FILTER_LINEAR
 	add_child(sprite)
+	if item_id=="alarm_clock":
+		var rings=preload("res://scripts/alarm_effects.gd").new();rings.piece=self;add_child(rings)
 	Catalog.apply_style(sprite.material,appearance,item_id)
 	refresh_hit_region()
 	food_sprite=Sprite2D.new()
@@ -100,10 +105,10 @@ func _ready() -> void:
 	menu.add_item("맨 앞으로",20)
 	menu.add_item("맨 뒤로",21)
 	menu.add_separator()
-	menu.add_item("크기 조절 (현재 100%)",22)
+	menu.add_item("크기 조절 (현재 %d%%)"%roundi(user_scale*100),22)
 	menu.add_item("기본 크기",24)
 	menu.add_separator()
-	menu.add_item("가구 치우기",0)
+	menu.add_item("놀이감 치우기" if item_id.begins_with("toy_") else "가구 치우기",0)
 	menu.id_pressed.connect(menu_action)
 	menu.popup_hide.connect(func(): layer_changed.emit())
 	add_child(menu)
@@ -119,7 +124,7 @@ func menu_action(id: int) -> void:
 		20: stack_requested.emit(1)
 		21: stack_requested.emit(-1)
 		22: open_size_editor()
-		24: set_user_scale(1.0,true)
+		24: set_user_scale(Catalog.default_scale(item_id),true)
 		_: activated.emit("drink" if id==2 else ("eat" if id==3 else "default"))
 func set_user_scale(value: float,persist: bool=false) -> void:
 	var ground=ground_point()
@@ -181,8 +186,8 @@ func open_size_editor() -> void:
 		size_slider.value_changed.connect(func(value): set_user_scale(value/100.0,true))
 		column.add_child(size_slider)
 		var reset=Button.new()
-		reset.text="기본 크기 · 100%"
-		reset.pressed.connect(func(): set_user_scale(1.0,true))
+		reset.text="기본 크기 · %d%%"%roundi(Catalog.default_scale(item_id)*100)
+		reset.pressed.connect(func(): set_user_scale(Catalog.default_scale(item_id),true))
 		column.add_child(reset)
 	size_percent.set_value_no_signal(roundi(user_scale*100))
 	size_slider.set_value_no_signal(roundi(user_scale*100))
@@ -203,7 +208,9 @@ func refresh_hit_region() -> void:
 	# This picture never animates. Install one generously padded input region;
 	# clicking must also work when the cursor enters and presses in one frame.
 	var padded=PackedVector2Array()
-	if item_id in preload("res://scripts/v2_furniture_art.gd").IDS:
+	if item_id=="alarm_clock":
+		mouse_passthrough_polygon=PackedVector2Array([Vector2.ZERO,Vector2(size.x,0),Vector2(size),Vector2(0,size.y)]);return
+	if item_id=="toy_mouse" or item_id in preload("res://scripts/v2_furniture_art.gd").IDS:
 		# One stable generous region includes every generated cushion/water cel.
 		mouse_passthrough_polygon=PackedVector2Array([art_origin,art_origin+Vector2(tex.get_width()*sprite.scale.x,0),art_origin+tex.get_size()*sprite.scale,art_origin+Vector2(0,tex.get_height()*sprite.scale.y)])
 		return
@@ -315,9 +322,12 @@ func move_dragged_to(cursor: Vector2) -> void:
 		throw_samples.append({"at":Vector2(position),"time":now})
 		while throw_samples.size()>2 and now-throw_samples[0].time>120: throw_samples.pop_front()
 func _process(_delta: float) -> void:
+	toy_clock+=_delta
 	effect_time=effect_time+_delta if active else 0.0
 	settle_time=maxf(0,settle_time-_delta)
 	if is_instance_valid(sprite):
+		if item_id=="toy_mouse":
+			sprite.texture=preload("res://scripts/toy_mouse_art.gd").sample(toy_clock,roam_speed>1 or active)
 		if item_id in preload("res://scripts/v2_furniture_art.gd").IDS:
 			sprite.texture=preload("res://scripts/v2_furniture_art.gd").sample(item_id,effect_time,active)
 		sprite.position=art_origin+(sprite.texture.get_size()*sprite.scale*.5 if sprite.centered else Vector2.ZERO)
@@ -331,8 +341,10 @@ func _process(_delta: float) -> void:
 			var strength=1.0 if active else settle_time/.45
 			sprite.rotation=sin(effect_time*3.0)*.035*strength
 			sprite.position.y-=absf(sin(effect_time*3.0))*2*strength
-		elif active and item_id=="alarm_clock" and effect_time<1.4:
-			sprite.rotation=sin(effect_time*22)*.025
+		elif active and item_id=="alarm_clock" and effect_time<2.6:
+			var strength=1.0-smoothstep(1.8,2.6,effect_time)
+			sprite.rotation=sin(effect_time*38)*.11*strength
+			sprite.position.y-=absf(sin(effect_time*19))*1.3*strength
 	if dragging and DisplayServer.get_name()!="headless":
 		var still_down=bool(DisplayServer.mouse_get_button_state() & MOUSE_BUTTON_MASK_LEFT)
 		if still_down: move_dragged_to(Vector2(DisplayServer.mouse_get_position()))

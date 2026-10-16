@@ -1,0 +1,246 @@
+{
+  "passed": true,
+  "samples": {
+    "0": {
+      "through": true,
+      "expected": true,
+      "layered": true,
+      "observed_wait_ms": 0.0
+    },
+    "1": {
+      "through": false,
+      "expected": false,
+      "layered": true,
+      "observed_wait_ms": 0.0
+    },
+    "2": {
+      "through": true,
+      "expected": true,
+      "layered": true,
+      "observed_wait_ms": 0.0
+    },
+    "3": {
+      "through": false,
+      "expected": false,
+      "layered": true,
+      "observed_wait_ms": 0.0
+    },
+    "4": {
+      "through": true,
+      "expected": true,
+      "layered": true,
+      "observed_wait_ms": 31.0
+    },
+    "5": {
+      "through": false,
+      "expected": false,
+      "layered": true,
+      "observed_wait_ms": 16.0
+    },
+    "6": {
+      "through": true,
+      "expected": true,
+      "layered": true,
+      "observed_wait_ms": 0.0
+    },
+    "7": {
+      "through": false,
+      "expected": false,
+      "layered": true,
+      "observed_wait_ms": 0.0
+    },
+    "8": {
+      "through": true,
+      "expected": true,
+      "layered": true,
+      "observed_wait_ms": 16.0
+    },
+    "9": {
+      "through": false,
+      "expected": false,
+      "layered": true,
+      "observed_wait_ms": 16.0
+    },
+    "10": {
+      "through": true,
+      "expected": true,
+      "layered": true,
+      "observed_wait_ms": 31.0
+    },
+    "11": {
+      "through": false,
+      "expected": false,
+      "layered": true,
+      "observed_wait_ms": 15.0
+    },
+    "12": {
+      "through": true,
+      "expected": true,
+      "layered": true,
+      "observed_wait_ms": 31.0
+    },
+    "13": {
+      "through": false,
+      "expected": false,
+      "layered": true,
+      "observed_wait_ms": 16.0
+    },
+    "14": {
+      "through": true,
+      "expected": true,
+      "layered": true,
+      "observed_wait_ms": 0.0
+    },
+    "15": {
+      "through": false,
+      "expected": false,
+      "layered": true,
+      "observed_wait_ms": 0.0
+    },
+    "16": {
+      "through": true,
+      "expected": true,
+      "layered": true,
+      "observed_wait_ms": 0.0
+    },
+    "17": {
+      "through": false,
+      "expected": false,
+      "layered": true,
+      "observed_wait_ms": 31.0
+    },
+    "18": {
+      "through": true,
+      "expected": true,
+      "layered": true,
+      "observed_wait_ms": 16.0
+    },
+    "19": {
+      "through": false,
+      "expected": false,
+      "layered": true,
+      "observed_wait_ms": 16.0
+    },
+    "20": {
+      "through": true,
+      "expected": true,
+      "layered": true,
+      "observed_wait_ms": 16.0
+    },
+    "21": {
+      "through": false,
+      "expected": false,
+      "layered": true,
+      "observed_wait_ms": 0.0
+    },
+    "22": {
+      "through": true,
+      "expected": true,
+      "layered": true,
+      "observed_wait_ms": 0.0
+    },
+    "23": {
+      "through": false,
+      "expected": false,
+      "layered": true,
+      "observed_wait_ms": 16.0
+    },
+    "24": {
+      "through": true,
+      "expected": true,
+      "layered": true,
+      "observed_wait_ms": 0.0
+    },
+    "25": {
+      "through": false,
+      "expected": false,
+      "layered": true,
+      "observed_wait_ms": 0.0
+    },
+    "26": {
+      "through": true,
+      "expected": true,
+      "layered": true,
+      "observed_wait_ms": 15.0
+    },
+    "27": {
+      "through": false,
+      "expected": false,
+      "layered": true,
+      "observed_wait_ms": 15.0
+    },
+    "28": {
+      "through": true,
+      "expected": true,
+      "layered": true,
+      "observed_wait_ms": 16.0
+    },
+    "29": {
+      "through": false,
+      "expected": false,
+      "layered": true,
+      "observed_wait_ms": 0.0
+    },
+    "30": {
+      "through": true,
+      "expected": true,
+      "layered": true,
+      "observed_wait_ms": 0.0
+    },
+    "31": {
+      "through": false,
+      "expected": false,
+      "layered": true,
+      "observed_wait_ms": 0.0
+    },
+    "32": {
+      "through": true,
+      "expected": true,
+      "layered": true,
+      "observed_wait_ms": 0.0
+    },
+    "33": {
+      "through": false,
+      "expected": false,
+      "layered": true,
+      "observed_wait_ms": 0.0
+    },
+    "34": {
+      "through": true,
+      "expected": true,
+      "layered": true,
+      "observed_wait_ms": 16.0
+    },
+    "35": {
+      "through": false,
+      "expected": false,
+      "layered": true,
+      "observed_wait_ms": 31.0
+    },
+    "36": {
+      "through": true,
+      "expected": true,
+      "layered": true,
+      "observed_wait_ms": 0.0
+    },
+    "37": {
+      "through": false,
+      "expected": false,
+      "layered": true,
+      "observed_wait_ms": 16.0
+    },
+    "38": {
+      "through": true,
+      "expected": true,
+      "layered": true,
+      "observed_wait_ms": 0.0
+    },
+    "39": {
+      "through": false,
+      "expected": false,
+      "layered": true,
+      "observed_wait_ms": 0.0
+    }
+  },
+  "verification": "Actual WS_EX_TRANSPARENT changes correctly without native canvas move/resize or SWP_FRAMECHANGED in input helper"
+}

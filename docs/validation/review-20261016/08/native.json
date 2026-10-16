@@ -1,0 +1,486 @@
+{
+	"checks": [
+		{
+			"check": "walking never moves/resizes native surface 0",
+			"passed": true
+		},
+		{
+			"check": "native input acknowledgement 0",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame steady-00",
+			"passed": true
+		},
+		{
+			"check": "walking never moves/resizes native surface 1",
+			"passed": true
+		},
+		{
+			"check": "native input acknowledgement 1",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame steady-01",
+			"passed": true
+		},
+		{
+			"check": "walking never moves/resizes native surface 2",
+			"passed": true
+		},
+		{
+			"check": "native input acknowledgement 2",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame steady-02",
+			"passed": true
+		},
+		{
+			"check": "walking never moves/resizes native surface 3",
+			"passed": true
+		},
+		{
+			"check": "native input acknowledgement 3",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame steady-03",
+			"passed": true
+		},
+		{
+			"check": "walking never moves/resizes native surface 4",
+			"passed": true
+		},
+		{
+			"check": "native input acknowledgement 4",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame steady-04",
+			"passed": true
+		},
+		{
+			"check": "walking never moves/resizes native surface 5",
+			"passed": true
+		},
+		{
+			"check": "native input acknowledgement 5",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame steady-05",
+			"passed": true
+		},
+		{
+			"check": "walking never moves/resizes native surface 6",
+			"passed": true
+		},
+		{
+			"check": "native input acknowledgement 6",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame steady-06",
+			"passed": true
+		},
+		{
+			"check": "walking never moves/resizes native surface 7",
+			"passed": true
+		},
+		{
+			"check": "native input acknowledgement 7",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame steady-07",
+			"passed": true
+		},
+		{
+			"check": "walking never moves/resizes native surface 8",
+			"passed": true
+		},
+		{
+			"check": "native input acknowledgement 8",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame steady-08",
+			"passed": true
+		},
+		{
+			"check": "walking never moves/resizes native surface 9",
+			"passed": true
+		},
+		{
+			"check": "native input acknowledgement 9",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame steady-09",
+			"passed": true
+		},
+		{
+			"check": "walking never moves/resizes native surface 10",
+			"passed": true
+		},
+		{
+			"check": "native input acknowledgement 10",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame steady-10",
+			"passed": true
+		},
+		{
+			"check": "walking never moves/resizes native surface 11",
+			"passed": true
+		},
+		{
+			"check": "native input acknowledgement 11",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame steady-11",
+			"passed": true
+		},
+		{
+			"check": "walking never moves/resizes native surface 12",
+			"passed": true
+		},
+		{
+			"check": "native input acknowledgement 12",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame steady-12",
+			"passed": true
+		},
+		{
+			"check": "walking never moves/resizes native surface 13",
+			"passed": true
+		},
+		{
+			"check": "native input acknowledgement 13",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame steady-13",
+			"passed": true
+		},
+		{
+			"check": "walking never moves/resizes native surface 14",
+			"passed": true
+		},
+		{
+			"check": "native input acknowledgement 14",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame steady-14",
+			"passed": true
+		},
+		{
+			"check": "walking never moves/resizes native surface 15",
+			"passed": true
+		},
+		{
+			"check": "native input acknowledgement 15",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame steady-15",
+			"passed": true
+		},
+		{
+			"check": "walking never moves/resizes native surface 16",
+			"passed": true
+		},
+		{
+			"check": "native input acknowledgement 16",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame steady-16",
+			"passed": true
+		},
+		{
+			"check": "walking never moves/resizes native surface 17",
+			"passed": true
+		},
+		{
+			"check": "native input acknowledgement 17",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame steady-17",
+			"passed": true
+		},
+		{
+			"check": "walking never moves/resizes native surface 18",
+			"passed": true
+		},
+		{
+			"check": "native input acknowledgement 18",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame steady-18",
+			"passed": true
+		},
+		{
+			"check": "walking never moves/resizes native surface 19",
+			"passed": true
+		},
+		{
+			"check": "native input acknowledgement 19",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame steady-19",
+			"passed": true
+		},
+		{
+			"check": "walking never moves/resizes native surface 20",
+			"passed": true
+		},
+		{
+			"check": "native input acknowledgement 20",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame steady-20",
+			"passed": true
+		},
+		{
+			"check": "walking never moves/resizes native surface 21",
+			"passed": true
+		},
+		{
+			"check": "native input acknowledgement 21",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame steady-21",
+			"passed": true
+		},
+		{
+			"check": "walking never moves/resizes native surface 22",
+			"passed": true
+		},
+		{
+			"check": "native input acknowledgement 22",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame steady-22",
+			"passed": true
+		},
+		{
+			"check": "walking never moves/resizes native surface 23",
+			"passed": true
+		},
+		{
+			"check": "native input acknowledgement 23",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame steady-23",
+			"passed": true
+		},
+		{
+			"check": "walking never moves/resizes native surface 24",
+			"passed": true
+		},
+		{
+			"check": "native input acknowledgement 24",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame steady-24",
+			"passed": true
+		},
+		{
+			"check": "walking never moves/resizes native surface 25",
+			"passed": true
+		},
+		{
+			"check": "native input acknowledgement 25",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame steady-25",
+			"passed": true
+		},
+		{
+			"check": "walking never moves/resizes native surface 26",
+			"passed": true
+		},
+		{
+			"check": "native input acknowledgement 26",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame steady-26",
+			"passed": true
+		},
+		{
+			"check": "walking never moves/resizes native surface 27",
+			"passed": true
+		},
+		{
+			"check": "native input acknowledgement 27",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame steady-27",
+			"passed": true
+		},
+		{
+			"check": "walking never moves/resizes native surface 28",
+			"passed": true
+		},
+		{
+			"check": "native input acknowledgement 28",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame steady-28",
+			"passed": true
+		},
+		{
+			"check": "walking never moves/resizes native surface 29",
+			"passed": true
+		},
+		{
+			"check": "native input acknowledgement 29",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame steady-29",
+			"passed": true
+		},
+		{
+			"check": "walking never moves/resizes native surface 30",
+			"passed": true
+		},
+		{
+			"check": "native input acknowledgement 30",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame steady-30",
+			"passed": true
+		},
+		{
+			"check": "walking never moves/resizes native surface 31",
+			"passed": true
+		},
+		{
+			"check": "native input acknowledgement 31",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame steady-31",
+			"passed": true
+		},
+		{
+			"check": "walking never moves/resizes native surface 32",
+			"passed": true
+		},
+		{
+			"check": "native input acknowledgement 32",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame steady-32",
+			"passed": true
+		},
+		{
+			"check": "walking never moves/resizes native surface 33",
+			"passed": true
+		},
+		{
+			"check": "native input acknowledgement 33",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame steady-33",
+			"passed": true
+		},
+		{
+			"check": "walking never moves/resizes native surface 34",
+			"passed": true
+		},
+		{
+			"check": "native input acknowledgement 34",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame steady-34",
+			"passed": true
+		},
+		{
+			"check": "walking never moves/resizes native surface 35",
+			"passed": true
+		},
+		{
+			"check": "native input acknowledgement 35",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame steady-35",
+			"passed": true
+		},
+		{
+			"check": "walking never moves/resizes native surface 36",
+			"passed": true
+		},
+		{
+			"check": "native input acknowledgement 36",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame steady-36",
+			"passed": true
+		},
+		{
+			"check": "walking never moves/resizes native surface 37",
+			"passed": true
+		},
+		{
+			"check": "native input acknowledgement 37",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame steady-37",
+			"passed": true
+		},
+		{
+			"check": "walking never moves/resizes native surface 38",
+			"passed": true
+		},
+		{
+			"check": "native input acknowledgement 38",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame steady-38",
+			"passed": true
+		},
+		{
+			"check": "walking never moves/resizes native surface 39",
+			"passed": true
+		},
+		{
+			"check": "native input acknowledgement 39",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame steady-39",
+			"passed": true
+		}
+	],
+	"item": 8,
+	"passed": true
+}

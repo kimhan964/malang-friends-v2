@@ -1,0 +1,5 @@
+{
+  "mode": "built-in image_gen",
+  "prompt": "Use case stylized-concept. Game furniture raster asset, one wooden library ladder only, matching image1 exact pastel watercolor illustration, thick soft dark brown outlines and warm honey wood colors. Slender straight ladder with two rails and NINE evenly spaced horizontal rungs; no shelf, no books, no animal. Gentle 3/4 perspective, viewed nearly front-on with right side thickness visible, rails slant only slightly right, rounded ends and tiny foot caps. Entire ladder isolated, tall portrait composition, aspect approx1:4, consistent rail width. No ground shadow, no surrounding environment, no text. Truly transparent background, preserve crisp outlined silhouette and transparent gaps between rungs.",
+  "asset": "output/v2-interaction-detail/patch/assets/v2-shared/library-ladder.png"
+}

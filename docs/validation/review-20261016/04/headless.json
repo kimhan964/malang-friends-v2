@@ -1,0 +1,838 @@
+{
+	"checks": [
+		{
+			"check": "reacts on first released frame 0/5.0",
+			"passed": true
+		},
+		{
+			"check": "lands without overshoot 0/5.0",
+			"passed": true
+		},
+		{
+			"check": "impact responds within .23 seconds 0/5.0",
+			"passed": true
+		},
+		{
+			"check": "small release has no long air pause 0",
+			"passed": true
+		},
+		{
+			"check": "reacts on first released frame 0/40.0",
+			"passed": true
+		},
+		{
+			"check": "lands without overshoot 0/40.0",
+			"passed": true
+		},
+		{
+			"check": "impact responds within .23 seconds 0/40.0",
+			"passed": true
+		},
+		{
+			"check": "reacts on first released frame 0/180.0",
+			"passed": true
+		},
+		{
+			"check": "lands without overshoot 0/180.0",
+			"passed": true
+		},
+		{
+			"check": "impact responds within .23 seconds 0/180.0",
+			"passed": true
+		},
+		{
+			"check": "reacts on first released frame 0/400.0",
+			"passed": true
+		},
+		{
+			"check": "lands without overshoot 0/400.0",
+			"passed": true
+		},
+		{
+			"check": "impact responds within .23 seconds 0/400.0",
+			"passed": true
+		},
+		{
+			"check": "reacts on first released frame 1/5.0",
+			"passed": true
+		},
+		{
+			"check": "lands without overshoot 1/5.0",
+			"passed": true
+		},
+		{
+			"check": "impact responds within .23 seconds 1/5.0",
+			"passed": true
+		},
+		{
+			"check": "small release has no long air pause 1",
+			"passed": true
+		},
+		{
+			"check": "reacts on first released frame 1/40.0",
+			"passed": true
+		},
+		{
+			"check": "lands without overshoot 1/40.0",
+			"passed": true
+		},
+		{
+			"check": "impact responds within .23 seconds 1/40.0",
+			"passed": true
+		},
+		{
+			"check": "reacts on first released frame 1/180.0",
+			"passed": true
+		},
+		{
+			"check": "lands without overshoot 1/180.0",
+			"passed": true
+		},
+		{
+			"check": "impact responds within .23 seconds 1/180.0",
+			"passed": true
+		},
+		{
+			"check": "reacts on first released frame 1/400.0",
+			"passed": true
+		},
+		{
+			"check": "lands without overshoot 1/400.0",
+			"passed": true
+		},
+		{
+			"check": "impact responds within .23 seconds 1/400.0",
+			"passed": true
+		},
+		{
+			"check": "reacts on first released frame 2/5.0",
+			"passed": true
+		},
+		{
+			"check": "lands without overshoot 2/5.0",
+			"passed": true
+		},
+		{
+			"check": "impact responds within .23 seconds 2/5.0",
+			"passed": true
+		},
+		{
+			"check": "small release has no long air pause 2",
+			"passed": true
+		},
+		{
+			"check": "reacts on first released frame 2/40.0",
+			"passed": true
+		},
+		{
+			"check": "lands without overshoot 2/40.0",
+			"passed": true
+		},
+		{
+			"check": "impact responds within .23 seconds 2/40.0",
+			"passed": true
+		},
+		{
+			"check": "reacts on first released frame 2/180.0",
+			"passed": true
+		},
+		{
+			"check": "lands without overshoot 2/180.0",
+			"passed": true
+		},
+		{
+			"check": "impact responds within .23 seconds 2/180.0",
+			"passed": true
+		},
+		{
+			"check": "reacts on first released frame 2/400.0",
+			"passed": true
+		},
+		{
+			"check": "lands without overshoot 2/400.0",
+			"passed": true
+		},
+		{
+			"check": "impact responds within .23 seconds 2/400.0",
+			"passed": true
+		},
+		{
+			"check": "reacts on first released frame 3/5.0",
+			"passed": true
+		},
+		{
+			"check": "lands without overshoot 3/5.0",
+			"passed": true
+		},
+		{
+			"check": "impact responds within .23 seconds 3/5.0",
+			"passed": true
+		},
+		{
+			"check": "small release has no long air pause 3",
+			"passed": true
+		},
+		{
+			"check": "reacts on first released frame 3/40.0",
+			"passed": true
+		},
+		{
+			"check": "lands without overshoot 3/40.0",
+			"passed": true
+		},
+		{
+			"check": "impact responds within .23 seconds 3/40.0",
+			"passed": true
+		},
+		{
+			"check": "reacts on first released frame 3/180.0",
+			"passed": true
+		},
+		{
+			"check": "lands without overshoot 3/180.0",
+			"passed": true
+		},
+		{
+			"check": "impact responds within .23 seconds 3/180.0",
+			"passed": true
+		},
+		{
+			"check": "reacts on first released frame 3/400.0",
+			"passed": true
+		},
+		{
+			"check": "lands without overshoot 3/400.0",
+			"passed": true
+		},
+		{
+			"check": "impact responds within .23 seconds 3/400.0",
+			"passed": true
+		},
+		{
+			"check": "reacts on first released frame 4/5.0",
+			"passed": true
+		},
+		{
+			"check": "lands without overshoot 4/5.0",
+			"passed": true
+		},
+		{
+			"check": "impact responds within .23 seconds 4/5.0",
+			"passed": true
+		},
+		{
+			"check": "small release has no long air pause 4",
+			"passed": true
+		},
+		{
+			"check": "reacts on first released frame 4/40.0",
+			"passed": true
+		},
+		{
+			"check": "lands without overshoot 4/40.0",
+			"passed": true
+		},
+		{
+			"check": "impact responds within .23 seconds 4/40.0",
+			"passed": true
+		},
+		{
+			"check": "reacts on first released frame 4/180.0",
+			"passed": true
+		},
+		{
+			"check": "lands without overshoot 4/180.0",
+			"passed": true
+		},
+		{
+			"check": "impact responds within .23 seconds 4/180.0",
+			"passed": true
+		},
+		{
+			"check": "reacts on first released frame 4/400.0",
+			"passed": true
+		},
+		{
+			"check": "lands without overshoot 4/400.0",
+			"passed": true
+		},
+		{
+			"check": "impact responds within .23 seconds 4/400.0",
+			"passed": true
+		},
+		{
+			"check": "reacts on first released frame 5/5.0",
+			"passed": true
+		},
+		{
+			"check": "lands without overshoot 5/5.0",
+			"passed": true
+		},
+		{
+			"check": "impact responds within .23 seconds 5/5.0",
+			"passed": true
+		},
+		{
+			"check": "small release has no long air pause 5",
+			"passed": true
+		},
+		{
+			"check": "reacts on first released frame 5/40.0",
+			"passed": true
+		},
+		{
+			"check": "lands without overshoot 5/40.0",
+			"passed": true
+		},
+		{
+			"check": "impact responds within .23 seconds 5/40.0",
+			"passed": true
+		},
+		{
+			"check": "reacts on first released frame 5/180.0",
+			"passed": true
+		},
+		{
+			"check": "lands without overshoot 5/180.0",
+			"passed": true
+		},
+		{
+			"check": "impact responds within .23 seconds 5/180.0",
+			"passed": true
+		},
+		{
+			"check": "reacts on first released frame 5/400.0",
+			"passed": true
+		},
+		{
+			"check": "lands without overshoot 5/400.0",
+			"passed": true
+		},
+		{
+			"check": "impact responds within .23 seconds 5/400.0",
+			"passed": true
+		},
+		{
+			"check": "reacts on first released frame 6/5.0",
+			"passed": true
+		},
+		{
+			"check": "lands without overshoot 6/5.0",
+			"passed": true
+		},
+		{
+			"check": "impact responds within .23 seconds 6/5.0",
+			"passed": true
+		},
+		{
+			"check": "small release has no long air pause 6",
+			"passed": true
+		},
+		{
+			"check": "reacts on first released frame 6/40.0",
+			"passed": true
+		},
+		{
+			"check": "lands without overshoot 6/40.0",
+			"passed": true
+		},
+		{
+			"check": "impact responds within .23 seconds 6/40.0",
+			"passed": true
+		},
+		{
+			"check": "reacts on first released frame 6/180.0",
+			"passed": true
+		},
+		{
+			"check": "lands without overshoot 6/180.0",
+			"passed": true
+		},
+		{
+			"check": "impact responds within .23 seconds 6/180.0",
+			"passed": true
+		},
+		{
+			"check": "reacts on first released frame 6/400.0",
+			"passed": true
+		},
+		{
+			"check": "lands without overshoot 6/400.0",
+			"passed": true
+		},
+		{
+			"check": "impact responds within .23 seconds 6/400.0",
+			"passed": true
+		},
+		{
+			"check": "reacts on first released frame 7/5.0",
+			"passed": true
+		},
+		{
+			"check": "lands without overshoot 7/5.0",
+			"passed": true
+		},
+		{
+			"check": "impact responds within .23 seconds 7/5.0",
+			"passed": true
+		},
+		{
+			"check": "small release has no long air pause 7",
+			"passed": true
+		},
+		{
+			"check": "reacts on first released frame 7/40.0",
+			"passed": true
+		},
+		{
+			"check": "lands without overshoot 7/40.0",
+			"passed": true
+		},
+		{
+			"check": "impact responds within .23 seconds 7/40.0",
+			"passed": true
+		},
+		{
+			"check": "reacts on first released frame 7/180.0",
+			"passed": true
+		},
+		{
+			"check": "lands without overshoot 7/180.0",
+			"passed": true
+		},
+		{
+			"check": "impact responds within .23 seconds 7/180.0",
+			"passed": true
+		},
+		{
+			"check": "reacts on first released frame 7/400.0",
+			"passed": true
+		},
+		{
+			"check": "lands without overshoot 7/400.0",
+			"passed": true
+		},
+		{
+			"check": "impact responds within .23 seconds 7/400.0",
+			"passed": true
+		},
+		{
+			"check": "reacts on first released frame 8/5.0",
+			"passed": true
+		},
+		{
+			"check": "lands without overshoot 8/5.0",
+			"passed": true
+		},
+		{
+			"check": "impact responds within .23 seconds 8/5.0",
+			"passed": true
+		},
+		{
+			"check": "small release has no long air pause 8",
+			"passed": true
+		},
+		{
+			"check": "reacts on first released frame 8/40.0",
+			"passed": true
+		},
+		{
+			"check": "lands without overshoot 8/40.0",
+			"passed": true
+		},
+		{
+			"check": "impact responds within .23 seconds 8/40.0",
+			"passed": true
+		},
+		{
+			"check": "reacts on first released frame 8/180.0",
+			"passed": true
+		},
+		{
+			"check": "lands without overshoot 8/180.0",
+			"passed": true
+		},
+		{
+			"check": "impact responds within .23 seconds 8/180.0",
+			"passed": true
+		},
+		{
+			"check": "reacts on first released frame 8/400.0",
+			"passed": true
+		},
+		{
+			"check": "lands without overshoot 8/400.0",
+			"passed": true
+		},
+		{
+			"check": "impact responds within .23 seconds 8/400.0",
+			"passed": true
+		},
+		{
+			"check": "reacts on first released frame 9/5.0",
+			"passed": true
+		},
+		{
+			"check": "lands without overshoot 9/5.0",
+			"passed": true
+		},
+		{
+			"check": "impact responds within .23 seconds 9/5.0",
+			"passed": true
+		},
+		{
+			"check": "small release has no long air pause 9",
+			"passed": true
+		},
+		{
+			"check": "reacts on first released frame 9/40.0",
+			"passed": true
+		},
+		{
+			"check": "lands without overshoot 9/40.0",
+			"passed": true
+		},
+		{
+			"check": "impact responds within .23 seconds 9/40.0",
+			"passed": true
+		},
+		{
+			"check": "reacts on first released frame 9/180.0",
+			"passed": true
+		},
+		{
+			"check": "lands without overshoot 9/180.0",
+			"passed": true
+		},
+		{
+			"check": "impact responds within .23 seconds 9/180.0",
+			"passed": true
+		},
+		{
+			"check": "reacts on first released frame 9/400.0",
+			"passed": true
+		},
+		{
+			"check": "lands without overshoot 9/400.0",
+			"passed": true
+		},
+		{
+			"check": "impact responds within .23 seconds 9/400.0",
+			"passed": true
+		},
+		{
+			"check": "reacts on first released frame 10/5.0",
+			"passed": true
+		},
+		{
+			"check": "lands without overshoot 10/5.0",
+			"passed": true
+		},
+		{
+			"check": "impact responds within .23 seconds 10/5.0",
+			"passed": true
+		},
+		{
+			"check": "small release has no long air pause 10",
+			"passed": true
+		},
+		{
+			"check": "reacts on first released frame 10/40.0",
+			"passed": true
+		},
+		{
+			"check": "lands without overshoot 10/40.0",
+			"passed": true
+		},
+		{
+			"check": "impact responds within .23 seconds 10/40.0",
+			"passed": true
+		},
+		{
+			"check": "reacts on first released frame 10/180.0",
+			"passed": true
+		},
+		{
+			"check": "lands without overshoot 10/180.0",
+			"passed": true
+		},
+		{
+			"check": "impact responds within .23 seconds 10/180.0",
+			"passed": true
+		},
+		{
+			"check": "reacts on first released frame 10/400.0",
+			"passed": true
+		},
+		{
+			"check": "lands without overshoot 10/400.0",
+			"passed": true
+		},
+		{
+			"check": "impact responds within .23 seconds 10/400.0",
+			"passed": true
+		},
+		{
+			"check": "reacts on first released frame 11/5.0",
+			"passed": true
+		},
+		{
+			"check": "lands without overshoot 11/5.0",
+			"passed": true
+		},
+		{
+			"check": "impact responds within .23 seconds 11/5.0",
+			"passed": true
+		},
+		{
+			"check": "small release has no long air pause 11",
+			"passed": true
+		},
+		{
+			"check": "reacts on first released frame 11/40.0",
+			"passed": true
+		},
+		{
+			"check": "lands without overshoot 11/40.0",
+			"passed": true
+		},
+		{
+			"check": "impact responds within .23 seconds 11/40.0",
+			"passed": true
+		},
+		{
+			"check": "reacts on first released frame 11/180.0",
+			"passed": true
+		},
+		{
+			"check": "lands without overshoot 11/180.0",
+			"passed": true
+		},
+		{
+			"check": "impact responds within .23 seconds 11/180.0",
+			"passed": true
+		},
+		{
+			"check": "reacts on first released frame 11/400.0",
+			"passed": true
+		},
+		{
+			"check": "lands without overshoot 11/400.0",
+			"passed": true
+		},
+		{
+			"check": "impact responds within .23 seconds 11/400.0",
+			"passed": true
+		},
+		{
+			"check": "reacts on first released frame 12/5.0",
+			"passed": true
+		},
+		{
+			"check": "lands without overshoot 12/5.0",
+			"passed": true
+		},
+		{
+			"check": "impact responds within .23 seconds 12/5.0",
+			"passed": true
+		},
+		{
+			"check": "small release has no long air pause 12",
+			"passed": true
+		},
+		{
+			"check": "reacts on first released frame 12/40.0",
+			"passed": true
+		},
+		{
+			"check": "lands without overshoot 12/40.0",
+			"passed": true
+		},
+		{
+			"check": "impact responds within .23 seconds 12/40.0",
+			"passed": true
+		},
+		{
+			"check": "reacts on first released frame 12/180.0",
+			"passed": true
+		},
+		{
+			"check": "lands without overshoot 12/180.0",
+			"passed": true
+		},
+		{
+			"check": "impact responds within .23 seconds 12/180.0",
+			"passed": true
+		},
+		{
+			"check": "reacts on first released frame 12/400.0",
+			"passed": true
+		},
+		{
+			"check": "lands without overshoot 12/400.0",
+			"passed": true
+		},
+		{
+			"check": "impact responds within .23 seconds 12/400.0",
+			"passed": true
+		},
+		{
+			"check": "reacts on first released frame 13/5.0",
+			"passed": true
+		},
+		{
+			"check": "lands without overshoot 13/5.0",
+			"passed": true
+		},
+		{
+			"check": "impact responds within .23 seconds 13/5.0",
+			"passed": true
+		},
+		{
+			"check": "small release has no long air pause 13",
+			"passed": true
+		},
+		{
+			"check": "reacts on first released frame 13/40.0",
+			"passed": true
+		},
+		{
+			"check": "lands without overshoot 13/40.0",
+			"passed": true
+		},
+		{
+			"check": "impact responds within .23 seconds 13/40.0",
+			"passed": true
+		},
+		{
+			"check": "reacts on first released frame 13/180.0",
+			"passed": true
+		},
+		{
+			"check": "lands without overshoot 13/180.0",
+			"passed": true
+		},
+		{
+			"check": "impact responds within .23 seconds 13/180.0",
+			"passed": true
+		},
+		{
+			"check": "reacts on first released frame 13/400.0",
+			"passed": true
+		},
+		{
+			"check": "lands without overshoot 13/400.0",
+			"passed": true
+		},
+		{
+			"check": "impact responds within .23 seconds 13/400.0",
+			"passed": true
+		},
+		{
+			"check": "reacts on first released frame 14/5.0",
+			"passed": true
+		},
+		{
+			"check": "lands without overshoot 14/5.0",
+			"passed": true
+		},
+		{
+			"check": "impact responds within .23 seconds 14/5.0",
+			"passed": true
+		},
+		{
+			"check": "small release has no long air pause 14",
+			"passed": true
+		},
+		{
+			"check": "reacts on first released frame 14/40.0",
+			"passed": true
+		},
+		{
+			"check": "lands without overshoot 14/40.0",
+			"passed": true
+		},
+		{
+			"check": "impact responds within .23 seconds 14/40.0",
+			"passed": true
+		},
+		{
+			"check": "reacts on first released frame 14/180.0",
+			"passed": true
+		},
+		{
+			"check": "lands without overshoot 14/180.0",
+			"passed": true
+		},
+		{
+			"check": "impact responds within .23 seconds 14/180.0",
+			"passed": true
+		},
+		{
+			"check": "reacts on first released frame 14/400.0",
+			"passed": true
+		},
+		{
+			"check": "lands without overshoot 14/400.0",
+			"passed": true
+		},
+		{
+			"check": "impact responds within .23 seconds 14/400.0",
+			"passed": true
+		},
+		{
+			"check": "reacts on first released frame 15/5.0",
+			"passed": true
+		},
+		{
+			"check": "lands without overshoot 15/5.0",
+			"passed": true
+		},
+		{
+			"check": "impact responds within .23 seconds 15/5.0",
+			"passed": true
+		},
+		{
+			"check": "small release has no long air pause 15",
+			"passed": true
+		},
+		{
+			"check": "reacts on first released frame 15/40.0",
+			"passed": true
+		},
+		{
+			"check": "lands without overshoot 15/40.0",
+			"passed": true
+		},
+		{
+			"check": "impact responds within .23 seconds 15/40.0",
+			"passed": true
+		},
+		{
+			"check": "reacts on first released frame 15/180.0",
+			"passed": true
+		},
+		{
+			"check": "lands without overshoot 15/180.0",
+			"passed": true
+		},
+		{
+			"check": "impact responds within .23 seconds 15/180.0",
+			"passed": true
+		},
+		{
+			"check": "reacts on first released frame 15/400.0",
+			"passed": true
+		},
+		{
+			"check": "lands without overshoot 15/400.0",
+			"passed": true
+		},
+		{
+			"check": "impact responds within .23 seconds 15/400.0",
+			"passed": true
+		}
+	],
+	"item": 4,
+	"passed": true
+}

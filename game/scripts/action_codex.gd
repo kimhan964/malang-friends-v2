@@ -8,7 +8,6 @@ var scroll: ScrollContainer
 var preview: TextureRect
 var heading: Label
 var condition: Label
-var counter: Label
 var summary: Label
 var play: Button
 var species=0
@@ -84,7 +83,6 @@ func build() -> void:
 	unlock_progress=ProgressBar.new();unlock_progress.max_value=1;unlock_progress.show_percentage=false;unlock_progress.custom_minimum_size.y=9;info.add_child(unlock_progress)
 	progress_hint=label("",12);info.add_child(progress_hint)
 	condition=label("",13);info.add_child(condition)
-	counter=label("",12);info.add_child(counter)
 	var controls=HBoxContainer.new();controls.add_theme_constant_override("separation",8);info.add_child(controls)
 	play=Button.new();play.text="일시 정지";play.custom_minimum_size=Vector2(100,34)
 	play.pressed.connect(func(): paused=not paused;play.text="재생" if paused else "일시 정지");controls.add_child(play)
@@ -118,7 +116,7 @@ func rebuild() -> void:
 			var stamp_count=3 if row[2].size()==1 else 1
 			var button=Button.new();button.custom_minimum_size=Vector2(224 if stamp_count==3 else 132,112)
 			button.add_theme_stylebox_override("normal",paper("faf8f3"))
-			button.tooltip_text=item[2]+" · "+str(spec.count)+"프레임"
+			button.tooltip_text=item[2]
 			var inside=VBoxContainer.new();inside.mouse_filter=Control.MOUSE_FILTER_IGNORE;inside.set_anchors_and_offsets_preset(Control.PRESET_FULL_RECT);button.add_child(inside)
 			var strip=HBoxContainer.new();strip.alignment=BoxContainer.ALIGNMENT_CENTER;strip.mouse_filter=Control.MOUSE_FILTER_IGNORE;inside.add_child(strip)
 			for stamp in range(stamp_count):
@@ -148,13 +146,19 @@ func select_action(spec: Dictionary,title: String,hint: String,button: Button=nu
 	update_frame()
 func update_frame() -> void:
 	if selected.is_empty() or atlas==null: return
+	preview.rotation=0;preview.position=Vector2.ZERO
+	if selected.bank=="trip":
+		var pose=preload("res://scripts/trip_art.gd").at(species,fposmod(clock,2.8))
+		preview.texture=pose.texture;preview.pivot_offset=preview.size*.5;preview.rotation=pose.trip_angle
+		return
+	preview.texture=atlas
 	var phase=fposmod(clock/maxf(.01,selected.seconds),1.0)
+	if selected.get("hop_twice",false):phase=fposmod(phase*2,1)
 	var air=clampf(inverse_lerp(float(selected.get("launch",0)),float(selected.get("land",1)),phase),0,1)
 	preview.position.y=-sin(air*PI)*float(selected.get("lift",0))*minf(preview.size.x,preview.size.y)/256.0
 	var index=Data.index_at(selected,clock)
 	var cell=int(selected.get("cell",256))
 	atlas.region=Rect2((index%selected.columns)*cell,int(index/selected.columns)*cell,cell,cell)
-	counter.text="%d프레임 · 한 주기 %.2f초  |  %d / %d"%[selected.count,selected.seconds,index+1,selected.count]
 func _process(delta: float) -> void:
 	if not is_instance_valid(panel) or not panel.visible or paused or selected.is_empty(): return
 	clock+=delta;update_frame()

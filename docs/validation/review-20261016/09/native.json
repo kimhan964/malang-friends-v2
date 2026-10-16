@@ -1,0 +1,66 @@
+{
+	"checks": [
+		{
+			"check": "world plush hidden while held",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame plush-00",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame plush-05",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame plush-10",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame plush-15",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame plush-20",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame plush-25",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame plush-30",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame plush-35",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame plush-40",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame plush-45",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame plush-50",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame plush-55",
+			"passed": true
+		},
+		{
+			"check": "plush includes small throw and catch",
+			"passed": true
+		},
+		{
+			"check": "cancel restores one world plush",
+			"passed": true
+		}
+	],
+	"item": 9,
+	"passed": true
+}

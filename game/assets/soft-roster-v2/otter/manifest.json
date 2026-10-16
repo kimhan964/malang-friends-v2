@@ -1,54 +1,63 @@
 {
-  "version": 2,
   "species": "otter",
   "stages": {
     "adult": {
-      "id": "otter",
       "file": "walk.png",
-      "count": 96,
-      "columns": 12,
-      "cell": 256,
-      "ground": 232,
-      "cycle_seconds": 1.6,
-      "stride": 40,
-      "source_key_count": 8,
-      "interpolated_frames": 88,
-      "method": "VARCO MCP generated whole-body poses; RIFE whole-frame inbetweens",
-      "source_hash": "995627040e4b2d9c45895cb45a1587d48901c273460bbfcfa8b720ff02188b70",
-      "unique_frames": 96,
-      "status": "preview_requires_visual_review",
       "idle_file": "idle.png",
+      "count": 84,
+      "columns": 8,
       "reference_height": 205,
-      "playback_seconds": 1.6,
+      "cycle_seconds": 2.0,
+      "playback_seconds": 2.0,
+      "stride": 50.0,
       "root": [
         128,
         232
-      ]
+      ],
+      "source_key_count": 7,
+      "view": "fixed_three_quarter_right",
+      "gait": "grounded_weight_transfer",
+      "registration_offsets": [
+        0,
+        0,
+        6,
+        10,
+        0,
+        9,
+        3,
+        5
+      ],
+      "sampling": "curated low-clearance full-body poses with whole-image inbetweens",
+      "targeted_review": true
     },
     "baby": {
-      "id": "otter",
       "file": "walk.png",
-      "count": 96,
-      "columns": 12,
-      "cell": 256,
-      "ground": 232,
-      "cycle_seconds": 1.6,
-      "stride": 40,
-      "source_key_count": 8,
-      "interpolated_frames": 88,
-      "method": "VARCO MCP generated whole-body poses; RIFE whole-frame inbetweens",
-      "source_hash": "995627040e4b2d9c45895cb45a1587d48901c273460bbfcfa8b720ff02188b70",
-      "unique_frames": 96,
-      "status": "preview_requires_visual_review",
       "idle_file": "idle.png",
+      "count": 84,
+      "columns": 8,
       "reference_height": 205,
-      "playback_seconds": 1.6,
+      "cycle_seconds": 2.0,
+      "playback_seconds": 2.0,
+      "stride": 50.0,
       "root": [
         128,
         232
-      ]
+      ],
+      "source_key_count": 7,
+      "view": "fixed_three_quarter_right",
+      "gait": "grounded_weight_transfer",
+      "registration_offsets": [
+        0,
+        0,
+        6,
+        10,
+        0,
+        9,
+        3,
+        5
+      ],
+      "sampling": "curated low-clearance full-body poses with whole-image inbetweens",
+      "targeted_review": true
     }
-  },
-  "source": "C:\\Users\\rlagk\\Documents\\복슬복슬펫\\output\\varco-animals-walk-v1\\otter\\walk.png",
-  "method": "Unchanged approved full-body walk sprites"
+  }
 }

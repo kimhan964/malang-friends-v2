@@ -1,0 +1,102 @@
+{
+  "items": [
+    {
+      "number": 1,
+      "item": "놀이바구니 뒤로 가림",
+      "status": "complete"
+    },
+    {
+      "number": 2,
+      "item": "넘어지기 행동",
+      "status": "complete"
+    },
+    {
+      "number": 3,
+      "item": "고슴도치 손 네 개",
+      "status": "complete"
+    },
+    {
+      "number": 4,
+      "item": "떨어질 때 반응 지연",
+      "status": "complete"
+    },
+    {
+      "number": 5,
+      "item": "걷기와 뛰기 구분 및 좁은 보폭",
+      "status": "complete"
+    },
+    {
+      "number": 6,
+      "item": "쥐 장난감 자체 동작",
+      "status": "complete"
+    },
+    {
+      "number": 7,
+      "item": "토끼 크기",
+      "status": "complete"
+    },
+    {
+      "number": 8,
+      "item": "이동 중 화면 깜빡임",
+      "status": "complete"
+    },
+    {
+      "number": 9,
+      "item": "인형 놀이",
+      "status": "complete"
+    },
+    {
+      "number": 10,
+      "item": "자명종 임팩트",
+      "status": "complete"
+    },
+    {
+      "number": 11,
+      "item": "부엉이·수달·여우 걷기",
+      "status": "complete"
+    },
+    {
+      "number": 12,
+      "item": "벽 책장 사다리 상호작용",
+      "status": "complete"
+    },
+    {
+      "number": 13,
+      "item": "걷기 속도 1.5배",
+      "status": "complete"
+    },
+    {
+      "number": 14,
+      "item": "화분대 기본 70%",
+      "status": "complete"
+    },
+    {
+      "number": 15,
+      "item": "도토리 함께 흔들기",
+      "status": "complete"
+    },
+    {
+      "number": 16,
+      "item": "여우 귀여움 및 동작",
+      "status": "complete"
+    },
+    {
+      "number": 17,
+      "item": "화면 깜빡임 재확인",
+      "status": "complete"
+    },
+    {
+      "number": 18,
+      "item": "프레임 표시 제거",
+      "status": "complete"
+    },
+    {
+      "number": 19,
+      "item": "놀이기구 치우기",
+      "status": "complete"
+    }
+  ],
+  "next_item": null,
+  "distribution": "Local runtime complete; preparing v2-2026.10.16.1 release",
+  "pack_sha256": "7ff1a422bf05785d37f16f554a9c61831cc777556d438dd3e7c9c584567c8241"
+}

@@ -1,0 +1,582 @@
+{
+	"checks": [
+		{
+			"check": "fox keeps correct complete-body state idle",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame fox-idle-00",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state idle",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state idle",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state idle",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state idle",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state idle",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state idle",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state idle",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state idle",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame fox-idle-08",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state idle",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state idle",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state idle",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state idle",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state idle",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state idle",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state idle",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state idle",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame fox-idle-16",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state idle",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state idle",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state idle",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state idle",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state idle",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state idle",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state idle",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state idle",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame fox-idle-24",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state idle",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state idle",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state idle",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state idle",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state idle",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state idle",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state idle",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state pet",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame fox-pet-00",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state pet",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state pet",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state pet",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state pet",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state pet",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state pet",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state pet",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state pet",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame fox-pet-08",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state pet",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state pet",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state pet",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state pet",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state pet",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state pet",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state pet",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state pet",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame fox-pet-16",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state pet",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state pet",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state pet",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state pet",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state pet",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state pet",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state pet",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state pet",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame fox-pet-24",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state pet",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state pet",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state pet",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state pet",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state pet",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state pet",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state pet",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state sleep",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame fox-sleep-00",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state sleep",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state sleep",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state sleep",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state sleep",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state sleep",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state sleep",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state sleep",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state sleep",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame fox-sleep-08",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state sleep",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state sleep",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state sleep",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state sleep",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state sleep",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state sleep",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state sleep",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state sleep",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame fox-sleep-16",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state sleep",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state sleep",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state sleep",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state sleep",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state sleep",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state sleep",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state sleep",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state sleep",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame fox-sleep-24",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state sleep",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state sleep",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state sleep",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state sleep",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state sleep",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state sleep",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state sleep",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state eat",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame fox-eat-00",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state eat",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state eat",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state eat",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state eat",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state eat",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state eat",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state eat",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state eat",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame fox-eat-08",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state eat",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state eat",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state eat",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state eat",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state eat",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state eat",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state eat",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state eat",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame fox-eat-16",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state eat",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state eat",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state eat",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state eat",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state eat",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state eat",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state eat",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state eat",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame fox-eat-24",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state eat",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state eat",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state eat",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state eat",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state eat",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state eat",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state eat",
+			"passed": true
+		}
+	],
+	"item": 16,
+	"passed": true
+}

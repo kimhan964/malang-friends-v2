@@ -1,0 +1,266 @@
+{
+	"checks": [
+		{
+			"check": "mouse canvas/input region stays stable 0",
+			"passed": true
+		},
+		{
+			"check": "mouse canvas/input region stays stable 1",
+			"passed": true
+		},
+		{
+			"check": "mouse canvas/input region stays stable 2",
+			"passed": true
+		},
+		{
+			"check": "mouse canvas/input region stays stable 3",
+			"passed": true
+		},
+		{
+			"check": "mouse canvas/input region stays stable 4",
+			"passed": true
+		},
+		{
+			"check": "mouse canvas/input region stays stable 5",
+			"passed": true
+		},
+		{
+			"check": "mouse canvas/input region stays stable 6",
+			"passed": true
+		},
+		{
+			"check": "mouse canvas/input region stays stable 7",
+			"passed": true
+		},
+		{
+			"check": "mouse canvas/input region stays stable 8",
+			"passed": true
+		},
+		{
+			"check": "mouse canvas/input region stays stable 9",
+			"passed": true
+		},
+		{
+			"check": "mouse canvas/input region stays stable 10",
+			"passed": true
+		},
+		{
+			"check": "mouse canvas/input region stays stable 11",
+			"passed": true
+		},
+		{
+			"check": "mouse canvas/input region stays stable 12",
+			"passed": true
+		},
+		{
+			"check": "mouse canvas/input region stays stable 13",
+			"passed": true
+		},
+		{
+			"check": "mouse canvas/input region stays stable 14",
+			"passed": true
+		},
+		{
+			"check": "mouse canvas/input region stays stable 15",
+			"passed": true
+		},
+		{
+			"check": "mouse canvas/input region stays stable 16",
+			"passed": true
+		},
+		{
+			"check": "mouse canvas/input region stays stable 17",
+			"passed": true
+		},
+		{
+			"check": "mouse canvas/input region stays stable 18",
+			"passed": true
+		},
+		{
+			"check": "mouse canvas/input region stays stable 19",
+			"passed": true
+		},
+		{
+			"check": "mouse canvas/input region stays stable 20",
+			"passed": true
+		},
+		{
+			"check": "mouse canvas/input region stays stable 21",
+			"passed": true
+		},
+		{
+			"check": "mouse canvas/input region stays stable 22",
+			"passed": true
+		},
+		{
+			"check": "mouse canvas/input region stays stable 23",
+			"passed": true
+		},
+		{
+			"check": "mouse canvas/input region stays stable 24",
+			"passed": true
+		},
+		{
+			"check": "mouse canvas/input region stays stable 25",
+			"passed": true
+		},
+		{
+			"check": "mouse canvas/input region stays stable 26",
+			"passed": true
+		},
+		{
+			"check": "mouse canvas/input region stays stable 27",
+			"passed": true
+		},
+		{
+			"check": "mouse canvas/input region stays stable 28",
+			"passed": true
+		},
+		{
+			"check": "mouse canvas/input region stays stable 29",
+			"passed": true
+		},
+		{
+			"check": "mouse canvas/input region stays stable 30",
+			"passed": true
+		},
+		{
+			"check": "mouse canvas/input region stays stable 31",
+			"passed": true
+		},
+		{
+			"check": "mouse canvas/input region stays stable 32",
+			"passed": true
+		},
+		{
+			"check": "mouse canvas/input region stays stable 33",
+			"passed": true
+		},
+		{
+			"check": "mouse canvas/input region stays stable 34",
+			"passed": true
+		},
+		{
+			"check": "mouse canvas/input region stays stable 35",
+			"passed": true
+		},
+		{
+			"check": "mouse canvas/input region stays stable 36",
+			"passed": true
+		},
+		{
+			"check": "mouse canvas/input region stays stable 37",
+			"passed": true
+		},
+		{
+			"check": "mouse canvas/input region stays stable 38",
+			"passed": true
+		},
+		{
+			"check": "mouse canvas/input region stays stable 39",
+			"passed": true
+		},
+		{
+			"check": "mouse canvas/input region stays stable 40",
+			"passed": true
+		},
+		{
+			"check": "mouse canvas/input region stays stable 41",
+			"passed": true
+		},
+		{
+			"check": "mouse canvas/input region stays stable 42",
+			"passed": true
+		},
+		{
+			"check": "mouse canvas/input region stays stable 43",
+			"passed": true
+		},
+		{
+			"check": "mouse canvas/input region stays stable 44",
+			"passed": true
+		},
+		{
+			"check": "mouse canvas/input region stays stable 45",
+			"passed": true
+		},
+		{
+			"check": "mouse canvas/input region stays stable 46",
+			"passed": true
+		},
+		{
+			"check": "mouse canvas/input region stays stable 47",
+			"passed": true
+		},
+		{
+			"check": "mouse canvas/input region stays stable 48",
+			"passed": true
+		},
+		{
+			"check": "mouse canvas/input region stays stable 49",
+			"passed": true
+		},
+		{
+			"check": "mouse canvas/input region stays stable 50",
+			"passed": true
+		},
+		{
+			"check": "mouse canvas/input region stays stable 51",
+			"passed": true
+		},
+		{
+			"check": "mouse canvas/input region stays stable 52",
+			"passed": true
+		},
+		{
+			"check": "mouse canvas/input region stays stable 53",
+			"passed": true
+		},
+		{
+			"check": "mouse canvas/input region stays stable 54",
+			"passed": true
+		},
+		{
+			"check": "mouse canvas/input region stays stable 55",
+			"passed": true
+		},
+		{
+			"check": "mouse canvas/input region stays stable 56",
+			"passed": true
+		},
+		{
+			"check": "mouse canvas/input region stays stable 57",
+			"passed": true
+		},
+		{
+			"check": "mouse canvas/input region stays stable 58",
+			"passed": true
+		},
+		{
+			"check": "mouse canvas/input region stays stable 59",
+			"passed": true
+		},
+		{
+			"check": "mouse canvas/input region stays stable 60",
+			"passed": true
+		},
+		{
+			"check": "mouse canvas/input region stays stable 61",
+			"passed": true
+		},
+		{
+			"check": "mouse canvas/input region stays stable 62",
+			"passed": true
+		},
+		{
+			"check": "mouse canvas/input region stays stable 63",
+			"passed": true
+		},
+		{
+			"check": "mouse uses 64 real motion cels",
+			"passed": false
+		}
+	],
+	"item": 6,
+	"passed": false
+}

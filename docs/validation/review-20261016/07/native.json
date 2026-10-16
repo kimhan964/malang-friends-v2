@@ -1,0 +1,22 @@
+{
+	"checks": [
+		{
+			"check": "rabbit is 24 percent larger across all actions",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame rabbit-idle",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame rabbit-wander",
+			"passed": true
+		},
+		{
+			"check": "nonempty rendered frame rabbit-home_use",
+			"passed": true
+		}
+	],
+	"item": 7,
+	"passed": true
+}
