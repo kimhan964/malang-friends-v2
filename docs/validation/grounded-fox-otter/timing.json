@@ -1,0 +1,66 @@
+{
+  "fox": {
+    "old_cycle_seconds": 0.6837606837606838,
+    "cycle_seconds": 1.7946763973332918,
+    "step_interval_seconds": 0.8973381986666459,
+    "world_speed": 26.158536466463413,
+    "stride_source_pixels": 131.23571155499695,
+    "contact_centers": [
+      [
+        104.38462854873897,
+        161.2939047829667
+      ],
+      [
+        133.5
+      ],
+      [
+        99.98506251058187,
+        174.3114978313511
+      ],
+      [
+        129.99999999999997,
+        154.9847446667191
+      ]
+    ],
+    "root_knots": [
+      0,
+      0.21178614001966312,
+      0.4671658464448691,
+      0.804814016339399,
+      1
+    ],
+    "note": "Contact identity and foot clearance still require visual review; numeric checks do not establish naturalness."
+  },
+  "otter": {
+    "old_cycle_seconds": 0.6837606837606838,
+    "cycle_seconds": 2.0926642675068083,
+    "step_interval_seconds": 1.0463321337534042,
+    "world_speed": 26.158536466463413,
+    "stride_source_pixels": 153.02607456143537,
+    "contact_centers": [
+      [
+        102.99453730004066,
+        175.95295822826728
+      ],
+      [
+        133.34469803227637
+      ],
+      [
+        94.47291021515912,
+        174.54056384836787
+      ],
+      [
+        123.99999999999999,
+        148.11669522932422
+      ]
+    ],
+    "root_knots": [
+      0,
+      0.27843790882112035,
+      0.5324585907769357,
+      0.8627327874667119,
+      1
+    ],
+    "note": "Contact identity and foot clearance still require visual review; numeric checks do not establish naturalness."
+  }
+}

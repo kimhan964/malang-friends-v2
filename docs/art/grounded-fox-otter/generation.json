@@ -1,0 +1,69 @@
+{
+  "mode": "built-in image_gen",
+  "notes": "Rejected multi-pose sheets that repeated one forward leg; accepted independent whole-character poses guided by leg placement.",
+  "fox": {
+    "opposite-contact": "Precise-object-edit / animation pose. Draw ONE single whole-body fox, not a sheet. Image1 is the character identity and exact drawing style. Image2 is a leg-placement engineering diagram only. Keep head, face, body proportions, ears, tail, colors and linework of image1. Pose the TWO hind legs exactly along image2: the NEAR leg at picture LEFT goes BACK and down LEFT, with its bigger paw at back-left; the FAR leg at picture RIGHT goes FORWARD and down RIGHT, with smaller paw at front-right. Both soles planted at same floor baseline. The near left hip must NOT send a diagonal leg across the belly to the right. No leg crossing in this single pose: the left hip leg goes LEFT, right hip leg goes RIGHT, leaving a small clear inverted V gap under belly. This is the opposite contact of the usual stride. Arms make a tiny opposing walk swing. Very gentle weight on the FAR front foot, subtle body forward lean. Face remains three-quarter RIGHT, not a side or back view. Keep very short cute legs and low feet. Use animal's original fur colors on both legs, no blue/orange diagram colors, no socks or black feet. Exactly two arms, two hind feet, one tail. Complete character centered on genuine transparent background with clear margin, no diagram, groundline, labels or shadow.",
+    "contact": "Precise-object-edit, production animation key. Draw ONE single complete character. Image1 is the exact animal identity, face, colors and drawing style to preserve. Image2 is an engineering LEG PLACEMENT guide only, not a style reference. Copy the guide's leg placement precisely while keeping the animal's very short cute legs: BLUE guide leg is the near leg attached at picture-left hip; OCHRE guide leg is far leg attached at picture-right hip. Keep same three-quarter RIGHT camera, same ears, body proportions and tail as image1. NO diagram colors in the animal, feet retain original fur colors with only subtle far-side shade. Exactly two arms, two hind feet and one tail. Gentle opposite arm swing and slight whole-body weight transfer, soft tail following. Genuine transparent background, complete silhouette with margins. No sheet, no text, no groundline, no floor shadow, no extra limbs.The NEAR leg crosses diagonally from the picture-left hip to the picture-RIGHT front paw, big near paw flat planted at front-right. FAR leg goes behind it to small paw BACK-LEFT. This is the opposite step to image1. Both feet low on the same baseline.",
+    "far-passing": "Precise-object-edit, production animation key. Draw ONE single complete character. Image1 is the exact animal identity, face, colors and drawing style to preserve. Image2 is an engineering LEG PLACEMENT guide only, not a style reference. Copy the guide's leg placement precisely while keeping the animal's very short cute legs: BLUE guide leg is the near leg attached at picture-left hip; OCHRE guide leg is far leg attached at picture-right hip. Keep same three-quarter RIGHT camera, same ears, body proportions and tail as image1. NO diagram colors in the animal, feet retain original fur colors with only subtle far-side shade. Exactly two arms, two hind feet and one tail. Gentle opposite arm swing and slight whole-body weight transfer, soft tail following. Genuine transparent background, complete silhouette with margins. No sheet, no text, no groundline, no floor shadow, no extra limbs.NEAR foot flat under the body's center carrying weight. FAR foot is swinging forward BEHIND the near shin, almost touching ground, sole raised only 2 percent of total body height. Legs pass each other close to the ground, no knee-high lift.",
+    "near-passing": "Precise pose edit, ONE whole-body fox. Preserve this exact fox, camera, face, head/body proportions, colors, tail and linework from image1. Image2 shows ONLY leg placement. Make a LOW NEAR-LEG PASSING pose: the BIG NEAR paw must be on the PICTURE RIGHT, in front of the other leg, slightly lifted 2 percent of character height off the floor. The SMALL FAR support paw must be on the PICTURE LEFT, directly under belly, sole flat on the floor. This is essential: BIG PAW RIGHT, SMALL PAW LEFT. Bring the two feet close together under the belly so the near leg is crossing forward over the planted far shin; do not keep a wide split stance. Near hip at picture-left still connects diagonally to the big paw on picture-right as in image1, but shorten the stride towards the center. Far paw at picture-left carries weight. Gentle opposing forearm swing, exactly two arms, two feet, one tail. Fur-colored paws, no colored diagram legs, no socks, no black feet. Complete character on genuine transparent background, ample margins, no line, shadow, labels or other objects."
+  },
+  "otter": {
+    "opposite-contact": "Precise-object-edit / animation pose. Draw ONE single whole-body otter, not a sheet. Image1 is the character identity and exact drawing style. Image2 is a leg-placement engineering diagram only. Keep head, face, body proportions, ears, tail, colors and linework of image1. Pose the TWO hind legs exactly along image2: the NEAR leg at picture LEFT goes BACK and down LEFT, with its bigger paw at back-left; the FAR leg at picture RIGHT goes FORWARD and down RIGHT, with smaller paw at front-right. Both soles planted at same floor baseline. The near left hip must NOT send a diagonal leg across the belly to the right. No leg crossing in this single pose: the left hip leg goes LEFT, right hip leg goes RIGHT, leaving a small clear inverted V gap under belly. This is the opposite contact of the usual stride. Arms make a tiny opposing walk swing. Very gentle weight on the FAR front foot, subtle body forward lean. Face remains three-quarter RIGHT, not a side or back view. Keep very short cute legs and low feet. Use animal's original fur colors on both legs, no blue/orange diagram colors, no socks or black feet. Exactly two arms, two hind feet, one tail. Complete character centered on genuine transparent background with clear margin, no diagram, groundline, labels or shadow.",
+    "contact": "Precise-object-edit, production animation key. Draw ONE single complete character. Image1 is the exact animal identity, face, colors and drawing style to preserve. Image2 is an engineering LEG PLACEMENT guide only, not a style reference. Copy the guide's leg placement precisely while keeping the animal's very short cute legs: BLUE guide leg is the near leg attached at picture-left hip; OCHRE guide leg is far leg attached at picture-right hip. Keep same three-quarter RIGHT camera, same ears, body proportions and tail as image1. NO diagram colors in the animal, feet retain original fur colors with only subtle far-side shade. Exactly two arms, two hind feet and one tail. Gentle opposite arm swing and slight whole-body weight transfer, soft tail following. Genuine transparent background, complete silhouette with margins. No sheet, no text, no groundline, no floor shadow, no extra limbs.The NEAR leg crosses diagonally from the picture-left hip to the picture-RIGHT front paw, big near paw flat planted at front-right. FAR leg goes behind it to small paw BACK-LEFT. This is the opposite step to image1. Both feet low on the same baseline.",
+    "far-passing": "Precise-object-edit, production animation key. Draw ONE single complete character. Image1 is the exact animal identity, face, colors and drawing style to preserve. Image2 is an engineering LEG PLACEMENT guide only, not a style reference. Copy the guide's leg placement precisely while keeping the animal's very short cute legs: BLUE guide leg is the near leg attached at picture-left hip; OCHRE guide leg is far leg attached at picture-right hip. Keep same three-quarter RIGHT camera, same ears, body proportions and tail as image1. NO diagram colors in the animal, feet retain original fur colors with only subtle far-side shade. Exactly two arms, two hind feet and one tail. Gentle opposite arm swing and slight whole-body weight transfer, soft tail following. Genuine transparent background, complete silhouette with margins. No sheet, no text, no groundline, no floor shadow, no extra limbs.NEAR foot flat under the body's center carrying weight. FAR foot is swinging forward BEHIND the near shin, almost touching ground, sole raised only 2 percent of total body height. Legs pass each other close to the ground, no knee-high lift.",
+    "near-passing": "Precise-object-edit, production animation key. Draw ONE single complete character. Image1 is the exact animal identity, face, colors and drawing style to preserve. Image2 is an engineering LEG PLACEMENT guide only, not a style reference. Copy the guide's leg placement precisely while keeping the animal's very short cute legs: BLUE guide leg is the near leg attached at picture-left hip; OCHRE guide leg is far leg attached at picture-right hip. Keep same three-quarter RIGHT camera, same ears, body proportions and tail as image1. NO diagram colors in the animal, feet retain original fur colors with only subtle far-side shade. Exactly two arms, two hind feet and one tail. Gentle opposite arm swing and slight whole-body weight transfer, soft tail following. Genuine transparent background, complete silhouette with margins. No sheet, no text, no groundline, no floor shadow, no extra limbs.FAR foot flat under the body's center carrying weight. NEAR foot is swinging forward IN FRONT of the far shin, almost touching ground, sole raised only 2 percent of total body height. Legs pass each other low, no knee-high lift."
+  },
+  "selected_sources": {
+    "fox": {
+      "opposite-contact": "fox-opposite-contact.png",
+      "contact": "fox-contact.png",
+      "far-passing": "fox-far-passing.png",
+      "near-passing": "fox-near-passing.png"
+    },
+    "otter": {
+      "opposite-contact": "otter-opposite-contact.png",
+      "contact": "otter-contact.png",
+      "far-passing": "otter-far-passing.png",
+      "near-passing": "otter-near-passing.png"
+    }
+  },
+  "postprocessing": "Complete-character crop/registration, whole-image optical-flow intermediates, chroma-matte transparency cleanup, contact easing and atlas packing. No detached limb rigs.",
+  "reference_inputs": {
+    "fox": {
+      "opposite-contact": [
+        "fox-neutral.png",
+        "guide-opposite-contact.png"
+      ],
+      "contact": [
+        "fox-opposite-contact.png",
+        "guide-contact.png"
+      ],
+      "far-passing": [
+        "fox-opposite-contact.png",
+        "guide-far-passing.png"
+      ],
+      "near-passing": [
+        "fox-contact.png",
+        "guide-near-passing.png"
+      ]
+    },
+    "otter": {
+      "opposite-contact": [
+        "otter-neutral.png",
+        "guide-opposite-contact.png"
+      ],
+      "contact": [
+        "otter-opposite-contact.png",
+        "guide-contact.png"
+      ],
+      "far-passing": [
+        "otter-opposite-contact.png",
+        "guide-far-passing.png"
+      ],
+      "near-passing": [
+        "otter-opposite-contact.png",
+        "guide-near-passing.png"
+      ]
+    }
+  }
+}

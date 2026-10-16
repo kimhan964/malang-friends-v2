@@ -4,7 +4,7 @@
 
 ## 다운로드와 실행
 
-1. [최신 Windows 다운로드](https://github.com/kimhan964/malang-friends-v2/releases/latest)에서 `MalangFriends-v2-Windows-2026-10-16-fix1.zip`을 받습니다.
+1. [최신 Windows 다운로드](https://github.com/kimhan964/malang-friends-v2/releases/latest)에서 `MalangFriends-v2-Windows-2026-10-16-fix2.zip`을 받습니다.
 2. 압축을 전부 풉니다.
 3. `MalangFriends-v2/DesktopFriends.exe`를 실행합니다.
 
@@ -13,6 +13,8 @@
 자세한 조작은 [사용법](사용법.md)을 확인하세요. 기본 행동, 가구 이용, 장난감 놀이, 마우스로 들기, 행동 도감과 해금 조건을 제공합니다.
 
 ## 이번 수정판
+
+여우·수달의 양발 교차와 디딤 시간을 다시 조정했습니다. [변경 내용과 실제 게임 영상](docs/validation/grounded-fox-otter/수정기록.md)을 확인하세요.
 
 요청한 19개 항목의 [수정·검수 기록](docs/validation/v2-review-20261016.md)을 제공합니다.
 

@@ -83,6 +83,7 @@ func run() -> void:
 		19: await put_away()
 		20:
 			await hands();release_response();await gaits();await mouse_toy();await rabbit_size();await plush_play();await alarm_clock();await targeted_walks();await ladder();await plant_scale();await acorn_play();await fox_actions();await put_away()
+		21: await grounded_contacts()
 		_: check(false,"unknown item "+str(item))
 	FileAccess.open(folder().path_join("headless.json" if DisplayServer.get_name()=="headless" else "native.json"),FileAccess.WRITE).store_string(JSON.stringify({"item":item,"passed":not failed,"checks":checks},"\t"))
 	print("REVIEW_VALIDATED item=",item," checks=",checks.size()," passed=",not failed)
@@ -231,12 +232,46 @@ func targeted_walks() -> void:
 		for i in range(12):
 			m.phase="wander";m.walk_phase=(float(i)+.5)/12;await capture("%d-walk-%02d"%[species,i])
 		if is_instance_valid(viewport):viewport.queue_free();await get_tree().process_frame
+func grounded_contacts() -> void:
+	var traces=[]
+	app.pet.set_process(false)
+	for species in [1,5]:
+		for direction in [1,-1]:
+			var m=preload("res://scripts/desktop_pet_motion.gd").new()
+			m.species=species;m.autonomy=false;m.daily.enabled=false;m.floor_space=true;m.growth_scale=1;m.growth_stage=2;m.voice_left=0
+			m.bounds=Rect2(-2000,-20,4000,40);m.feet=Vector2.ZERO;m.target=Vector2(direction*1000,0);m.phase="wander";m.facing=direction
+			var spec=preload("res://scripts/smooth_species_art.gd").spec(m)
+			check(spec.get("review_revision",0)==2,"new grounded bank "+str(species))
+			check(spec.cycle_seconds>1.5 and spec.cycle_seconds<2.2,"deliberate step contact timing "+str(species))
+			var stride=m.smooth_walk_cycle.stride_length(m,spec)
+			check(is_equal_approx(stride/float(spec.cycle_seconds),26.1585365),"world speed preserved "+str(species))
+			var cels=preload("res://scripts/smooth_species_art.gd").frames(species,"adult")
+			for cel in cels:
+				var box: Rect2i=cel.get_image().get_used_rect()
+				check(box.has_area() and box.position.x>0 and box.end.x<256,"complete uncut cel "+str(species))
+			render_setup(m)
+			if is_instance_valid(viewport):viewport.size=Vector2i(420,180)
+			var ticks=int(ceil(float(spec.cycle_seconds)*120))
+			var previous=m.feet.x
+			for tick in range(ticks):
+				m.advance_travel(1.0/60,1.0)
+				check((m.feet.x-previous)*direction>0,"continuous forward travel %d/%d/%d"%[species,direction,tick])
+				previous=m.feet.x
+				traces.append({"species":species,"direction":direction,"tick":tick,"phase":m.walk_phase,"x":m.feet.x})
+				if tick%2==0 and is_instance_valid(viewport):
+					preview.position=Vector2((75 if direction==1 else 345)+m.feet.x,150)-preview.FEET
+					await capture("%d-%s-%03d"%[species,"right" if direction==1 else "left",tick/2])
+			check(absf(m.feet.x)>stride*1.95,"two complete strides "+str(species))
+			if is_instance_valid(viewport):viewport.queue_free();await get_tree().process_frame
+	FileAccess.open(folder().path_join("motion-traces.json"),FileAccess.WRITE).store_string(JSON.stringify(traces))
+	await gaits()
+
 func gaits() -> void:
 	for species in range(16):
 		var m=preload("res://scripts/desktop_pet_motion.gd").new()
 		m.species=species;m.autonomy=false;m.daily.enabled=false;m.floor_space=true;m.bounds=Rect2(100,480,1000,40);m.feet=Vector2(400,500);m.target=m.feet;m.growth_scale=1;m.growth_stage=2
 		var metadata=preload("res://scripts/smooth_species_art.gd").spec(m)
-		check(metadata.count>=72 and metadata.source_key_count>=6,"authored walk poses with complete intermediates "+str(species))
+		check(metadata.count>=72 and metadata.source_key_count>=4,"authored walk contact/passing poses with complete intermediates "+str(species))
 		var stride=m.smooth_walk_cycle.stride_length(m,metadata)
 		var walk_speed=stride/float(metadata.cycle_seconds)
 		m.daily.start(m,"run")
