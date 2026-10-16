@@ -10,7 +10,8 @@ static func frames(species: int,kind: String) -> Array:
 	if not banks.has(key):
 		for old in banks.keys():
 			if not str(old).begins_with(str(species)+"/"): banks.erase(old)
-		var image=Image.new();image.load_png_from_buffer(FileAccess.get_file_as_bytes("res://assets/v2-adventure/"+Catalog.IDS[species]+"/"+kind+".png"))
+		var entry: Dictionary=data(species).sequences[kind]
+		var image=Image.new();image.load_png_from_buffer(FileAccess.get_file_as_bytes("res://assets/v2-adventure/"+Catalog.IDS[species]+"/"+str(entry.get("file",kind+".png"))))
 		var result=[]
 		for i in range(32): result.append(ImageTexture.create_from_image(image.get_region(Rect2i(i%8*320,int(i/8)*320,320,320))))
 		banks[key]=result

@@ -1,0 +1,80 @@
+{
+  "mode": "built-in image_gen",
+  "asset": "Fennec fox redesign and complete-character walk/action sprites",
+  "master": {
+    "prompt": "Use case: precise-object-edit. Asset: production master design for an existing cute desktop-pet game. Image 1 is the fox edit target and exact drawing style. Image 2 is only a reference for softly connected head/body, tiny limbs and friendly proportions. Redesign ONLY this fox into a slightly fennec-like fox, keeping it unmistakably in the same animal roster. Enlarge the ears about 30 percent, broad at the base with gently rounded tips, warm pale peach inside rather than black triangular marks. Make the forehead and cheek outline rounder, shorten the snout, slightly smaller simple black eyes with tiny crisp white highlights, a tiny closed smiling mouth and small peach-pink cheeks. Soft light sand-apricot fur, ivory muzzle/chest/tail tip. Short compact pear-shaped body seamlessly joining the large head with a subtle shoulder, no long neck or legs. Keep its fluffy curved single tail but slightly rounder. Same thick hand-drawn dark warm outline, low-saturation fills and extremely subtle broad shading. No glossy 3D rendering, no realistic fur, no garments. ONE complete character, standing in a relaxed neutral pose, fixed three-quarter RIGHT view nearer side than front, exactly two arms and two feet, feet close beneath the belly. Entire character including ears and tail within generous margins. Genuinely transparent background, no text, no frame, no ground line, no shadow.",
+    "inputs": [
+      "reference-original-fox.png",
+      "reference-hedgehog.png"
+    ],
+    "output": "design-master.png"
+  },
+  "banks": {
+    "basics": {
+      "prompt": "Use case: precise-object-edit. Production sprite-sheet RESKIN, not a new scene. Image1 is the EXACT new fennec fox design and art style that EVERY cell must use. Image2 is the edit target: a 4-row by 4-column sheet of COMPLETE original fox poses. Replace the animal in EVERY cell with image1's cute fennec identity, rounded cheeks, small black eyes and tiny muzzle, LARGE rounded triangular ears with pale peach inner ear and ivory fur edge, light sand-apricot coat, ivory chest and rounded fluffy tail tip. Use the SAME head/body/ear proportions and same palette consistently. Preserve the exact pose, expression intent, whole-body silhouette direction and anatomy placement of each original cell, but use the new fennec identity. Keep the original thick hand-drawn dark warm outline and soft low-saturation fills, no glossy 3D or photorealism. Rows top to bottom: idle/breath and blink; happy being petted; curled sleeping with CLOSED eyes; eating with only its own two paws near mouth, no extra food or cup. EXACTLY 4 rows and FOUR columns, same ordered grid, one complete character in each cell, generous empty transparent gaps and margins so large ears/tails never touch neighbors or sheet edges. Same apparent body/face scale in every cell; reclining poses keep body scale, do not enlarge to fill cell. No added actions or objects, no text, labels, guide lines, floor shadows, sparkles or backgrounds. Every animal always has exactly TWO forepaws and TWO hind feet, never ghost arms left from old pose. GENUINELY transparent background.",
+      "inputs": [
+        "design-master.png",
+        "basics-target.png"
+      ],
+      "output": "basics-source.png"
+    },
+    "interactions": {
+      "prompt": "Use case: precise-object-edit. Production sprite-sheet RESKIN, not a new scene. Image1 is the EXACT new fennec fox design and art style that EVERY cell must use. Image2 is the edit target: a 5-row by 4-column sheet of COMPLETE original fox poses. Replace the animal in EVERY cell with image1's cute fennec identity, rounded cheeks, small black eyes and tiny muzzle, LARGE rounded triangular ears with pale peach inner ear and ivory fur edge, light sand-apricot coat, ivory chest and rounded fluffy tail tip. Use the SAME head/body/ear proportions and same palette consistently. Preserve the exact pose, expression intent, whole-body silhouette direction and anatomy placement of each original cell, but use the new fennec identity. Keep the original thick hand-drawn dark warm outline and soft low-saturation fills, no glossy 3D or photorealism. Rows: carried upright with dangling feet; mild squirm; gentle landing crouch; dizzy soft lean with simple spiral eyes; recovery to upright. Keep row3's changing foot crouch and row5 gradual recovery. EXACTLY 5 rows and FOUR columns, same ordered grid, one complete character in each cell, generous empty transparent gaps and margins so large ears/tails never touch neighbors or sheet edges. Same apparent body/face scale in every cell; reclining poses keep body scale, do not enlarge to fill cell. No added actions or objects, no text, labels, guide lines, floor shadows, sparkles or backgrounds. Every animal always has exactly TWO forepaws and TWO hind feet, never ghost arms left from old pose. GENUINELY transparent background.",
+      "inputs": [
+        "design-master.png",
+        "interactions-target.png"
+      ],
+      "output": "interactions-source.png"
+    },
+    "life": {
+      "prompt": "Use case: precise-object-edit. Production sprite-sheet RESKIN, not a new scene. Image1 is the EXACT new fennec fox design and art style that EVERY cell must use. Image2 is the edit target: a 4-row by 4-column sheet of COMPLETE original fox poses. Replace the animal in EVERY cell with image1's cute fennec identity, rounded cheeks, small black eyes and tiny muzzle, LARGE rounded triangular ears with pale peach inner ear and ivory fur edge, light sand-apricot coat, ivory chest and rounded fluffy tail tip. Use the SAME head/body/ear proportions and same palette consistently. Preserve the exact pose, expression intent, whole-body silhouette direction and anatomy placement of each original cell, but use the new fennec identity. Keep the original thick hand-drawn dark warm outline and soft low-saturation fills, no glossy 3D or photorealism. Rows: sitting relaxed on sofa (no sofa drawn); curled sleeping in bed (no bed drawn); reaching forward to play or hug toy (no toy drawn); seated bathing and gently washing face (no bathtub drawn). No floating hands. Sleep eyes fully closed. EXACTLY 4 rows and FOUR columns, same ordered grid, one complete character in each cell, generous empty transparent gaps and margins so large ears/tails never touch neighbors or sheet edges. Same apparent body/face scale in every cell; reclining poses keep body scale, do not enlarge to fill cell. No added actions or objects, no text, labels, guide lines, floor shadows, sparkles or backgrounds. Every animal always has exactly TWO forepaws and TWO hind feet, never ghost arms left from old pose. GENUINELY transparent background.",
+      "inputs": [
+        "design-master.png",
+        "life-target.png"
+      ],
+      "output": "life-source.png"
+    },
+    "daily-a": {
+      "prompt": "Use case: precise-object-edit. Production sprite-sheet RESKIN, not a new scene. Image1 is the EXACT new fennec fox design and art style that EVERY cell must use. Image2 is the edit target: a 4-row by 4-column sheet of COMPLETE original fox poses. Replace the animal in EVERY cell with image1's cute fennec identity, rounded cheeks, small black eyes and tiny muzzle, LARGE rounded triangular ears with pale peach inner ear and ivory fur edge, light sand-apricot coat, ivory chest and rounded fluffy tail tip. Use the SAME head/body/ear proportions and same palette consistently. Preserve the exact pose, expression intent, whole-body silhouette direction and anatomy placement of each original cell, but use the new fennec identity. Keep the original thick hand-drawn dark warm outline and soft low-saturation fills, no glossy 3D or photorealism. Rows: sad; shy peeking/body leaning; drinking from exactly ONE small ivory cup held by the two paws; singing with ONE green leaf in one paw. Retain all existing accessory counts, poses and expressions. EXACTLY 4 rows and FOUR columns, same ordered grid, one complete character in each cell, generous empty transparent gaps and margins so large ears/tails never touch neighbors or sheet edges. Same apparent body/face scale in every cell; reclining poses keep body scale, do not enlarge to fill cell. No added actions or objects, no text, labels, guide lines, floor shadows, sparkles or backgrounds. Every animal always has exactly TWO forepaws and TWO hind feet, never ghost arms left from old pose. GENUINELY transparent background.",
+      "inputs": [
+        "design-master.png",
+        "daily-a-target.png"
+      ],
+      "output": "daily-a-source.png"
+    },
+    "daily-b": {
+      "prompt": "Use case: precise-object-edit. Production sprite-sheet RESKIN, not a new scene. Image1 is the EXACT new fennec fox design and art style that EVERY cell must use. Image2 is the edit target: a 4-row by 4-column sheet of COMPLETE original fox poses. Replace the animal in EVERY cell with image1's cute fennec identity, rounded cheeks, small black eyes and tiny muzzle, LARGE rounded triangular ears with pale peach inner ear and ivory fur edge, light sand-apricot coat, ivory chest and rounded fluffy tail tip. Use the SAME head/body/ear proportions and same palette consistently. Preserve the exact pose, expression intent, whole-body silhouette direction and anatomy placement of each original cell, but use the new fennec identity. Keep the original thick hand-drawn dark warm outline and soft low-saturation fills, no glossy 3D or photorealism. Rows: seated reading ONE green book; tending ONE tiny seedling; pajamas with sleepy cap; playful ONE leaf shield. Retain exact accessory counts and row order. Adapt cap to large fox ears without clipping. EXACTLY 4 rows and FOUR columns, same ordered grid, one complete character in each cell, generous empty transparent gaps and margins so large ears/tails never touch neighbors or sheet edges. Same apparent body/face scale in every cell; reclining poses keep body scale, do not enlarge to fill cell. No added actions or objects, no text, labels, guide lines, floor shadows, sparkles or backgrounds. Every animal always has exactly TWO forepaws and TWO hind feet, never ghost arms left from old pose. GENUINELY transparent background.",
+      "inputs": [
+        "design-master.png",
+        "daily-b-target.png"
+      ],
+      "output": "daily-b-source.png"
+    },
+    "adventure": {
+      "prompt": "Use case: precise-object-edit. Production sprite-sheet RESKIN, not a new scene. Image1 is the EXACT new fennec fox design and art style that EVERY cell must use. Image2 is the edit target: a 2-row by 4-column sheet of COMPLETE original fox poses. Replace the animal in EVERY cell with image1's cute fennec identity, rounded cheeks, small black eyes and tiny muzzle, LARGE rounded triangular ears with pale peach inner ear and ivory fur edge, light sand-apricot coat, ivory chest and rounded fluffy tail tip. Use the SAME head/body/ear proportions and same palette consistently. Preserve the exact pose, expression intent, whole-body silhouette direction and anatomy placement of each original cell, but use the new fennec identity. Keep the original thick hand-drawn dark warm outline and soft low-saturation fills, no glossy 3D or photorealism. Rows: curled forward roll, preserving the four successive full-body curled orientations; flying with ONE small bamboo propeller on the head, exactly two arms and two feet. Keep the propeller's angle changes and its stem, no duplicate rotor. EXACTLY 2 rows and FOUR columns, same ordered grid, one complete character in each cell, generous empty transparent gaps and margins so large ears/tails never touch neighbors or sheet edges. Same apparent body/face scale in every cell; reclining poses keep body scale, do not enlarge to fill cell. No added actions or objects, no text, labels, guide lines, floor shadows, sparkles or backgrounds. Every animal always has exactly TWO forepaws and TWO hind feet, never ghost arms left from old pose. GENUINELY transparent background.",
+      "inputs": [
+        "design-master.png",
+        "adventure-target.png"
+      ],
+      "output": "adventure-source.png"
+    }
+  },
+  "walk_consistency": {
+    "prompt": "Use case: precise-object-edit. Production WALK animation model-consistency correction. Image1 is the FINAL canonical fennec fox for this game: copy its EXACT ear-to-head-to-short-body proportions, head/cheek shape, small eyes, face placement, sand-apricot and ivory palette, thick warm outline and overall cute squat silhouette. Image2 is an ordered 2 ROW by 4 COLUMN sheet of EIGHT complete walking poses. Redraw those same eight successive full-body poses with image1's proportions. In particular shorten the overly long torso and moderately reduce the overlarge ears of image2 to match image1, so walking and idle look like the SAME animal, same face size above the floor. Preserve each cell's NEAR versus FAR hind-leg position and low foot contact sequence from image2, do not repeat one leading leg: row1 progresses near foot contact, near weight, far foot passing, far foot reaching; row2 progresses FAR foot contact, far weight, NEAR foot passing, near foot reaching. Maintain modest stride and very low foot clearance. One near forearm on picture-left, one small far forearm on picture-right; both make tiny opposing pendulum motion beside the torso, never an extra hand over the belly. A little whole-torso compression/rise and tiny head nod following weight; same fixed three-quarter RIGHT camera for every cell. No head/body volume changes, no stretching neck, no big leg kicks, no frame with extra appendages. Exactly TWO arms, TWO hind feet and ONE tail in EVERY cell. All eight characters at exactly the same physical head/body scale and same level floor baseline within their own cells, roomy even grid and generous transparent gaps, no ears or tails clipped or touching. Genuine transparent background, no ground, shadows, labels or accessories. Keep image1's design and rendering, not a 3D restyle.",
+    "inputs": [
+      "design-canonical.png",
+      "walk-proportion-target.png"
+    ],
+    "output": "walk-final-source.png"
+  },
+  "walk_clearance": {
+    "prompt": "Use case: precise-object-edit. Image1 is a complete tiny fennec fox animation drawing to correct; preserve its exact cute design, compact head/body/ear proportions, fixed three-quarter RIGHT camera, eyes and happy mouth, arm positions, tail, soft sand-apricot/ivory colors and thick warm hand-drawn lines. Image2 is ONLY a hind-leg placement/ground-clearance engineering guide. Correct ONLY the hind legs into a NEAR-leg passing walk: the SMALL FAR LEFT PAW stands LOWER and FLAT on the floor directly beneath the body, taking all weight. The BIG NEAR RIGHT PAW swings FORWARD a little in front of the far shin, and its entire sole must be visibly HIGHER than the small left paw's sole, with a small gap below the right paw. Crucial: LEFT SMALL PAW IS LOWEST; RIGHT BIG PAW IS RAISED a little. The near leg crosses over the front of far shin, but no raised knee or kick. Keep paws close beneath the belly and feet short. Follow image2's overlap and lower-left / higher-right foot levels, do NOT copy diagram colors or lines. Do not leave the right paw as the lowest planted paw. Exactly two existing forearms unchanged, exactly two hind feet, one tail. No extra hand on belly. Whole complete character on genuine transparency, no ground line, shadow, text, or props.",
+    "inputs": [
+      "clearance-edit-target.png",
+      "passing-clearance-guide.png"
+    ],
+    "output": "walk-clearance-source.png"
+  },
+  "postprocessing": "Complete-character crop, uniform scale, transparent-fringe cleanup, whole-image root registration and optical-flow inbetweens, atlas packing. No limb, head or torso cutout rigs.",
+  "runtime_assets": "output/v2-interaction-detail/patch/assets/**/fox/*-fennec-v3.png"
+}

@@ -1,0 +1,8650 @@
+{
+	"checks": [
+		{
+			"check": "eight authored fennec walk keys",
+			"passed": true
+		},
+		{
+			"check": "constant world travel across loop boundaries",
+			"passed": true
+		},
+		{
+			"check": "compact low-step walking period",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/0",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/1",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/2",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/3",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/4",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/5",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/6",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/7",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/8",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/9",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/10",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/11",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/12",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/13",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/14",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/15",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/16",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/17",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/18",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/19",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/20",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/21",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/22",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/23",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/24",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/25",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/26",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/27",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/28",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/29",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/30",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/31",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/32",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/33",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/34",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/35",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/36",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/37",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/38",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/39",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/40",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/41",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/42",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/43",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/44",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/45",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/46",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/47",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/48",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/49",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/50",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/51",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/52",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/53",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/54",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/55",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/56",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/57",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/58",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/59",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/60",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/61",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/62",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/63",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/64",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/65",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/66",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/67",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/68",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/69",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/70",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/71",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/72",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/73",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/74",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/75",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/76",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/77",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/78",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/79",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/80",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/81",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/82",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/83",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/84",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/85",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/86",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/87",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/88",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/89",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/90",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/91",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/92",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/93",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/94",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/95",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/96",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/97",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/98",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/99",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/100",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/101",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/102",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/103",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/104",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/105",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/106",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/107",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/108",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/109",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/110",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/111",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/112",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/113",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/114",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/115",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/116",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/117",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/118",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/119",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/120",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/121",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/122",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/123",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/124",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/125",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/126",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/127",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/128",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/129",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/130",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/131",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/132",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/133",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/134",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/135",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/136",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/137",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/138",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/139",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/140",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/141",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/142",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/143",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/144",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/145",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/146",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/147",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/148",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 30/149",
+			"passed": true
+		},
+		{
+			"check": "eight authored fennec walk keys",
+			"passed": true
+		},
+		{
+			"check": "constant world travel across loop boundaries",
+			"passed": true
+		},
+		{
+			"check": "compact low-step walking period",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/0",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/1",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/2",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/3",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/4",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/5",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/6",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/7",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/8",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/9",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/10",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/11",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/12",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/13",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/14",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/15",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/16",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/17",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/18",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/19",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/20",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/21",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/22",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/23",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/24",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/25",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/26",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/27",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/28",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/29",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/30",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/31",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/32",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/33",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/34",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/35",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/36",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/37",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/38",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/39",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/40",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/41",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/42",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/43",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/44",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/45",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/46",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/47",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/48",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/49",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/50",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/51",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/52",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/53",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/54",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/55",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/56",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/57",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/58",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/59",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/60",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/61",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/62",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/63",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/64",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/65",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/66",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/67",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/68",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/69",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/70",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/71",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/72",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/73",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/74",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/75",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/76",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/77",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/78",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/79",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/80",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/81",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/82",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/83",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/84",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/85",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/86",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/87",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/88",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/89",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/90",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/91",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/92",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/93",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/94",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/95",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/96",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/97",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/98",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/99",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/100",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/101",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/102",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/103",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/104",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/105",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/106",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/107",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/108",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/109",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/110",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/111",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/112",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/113",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/114",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/115",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/116",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/117",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/118",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/119",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/120",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/121",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/122",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/123",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/124",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/125",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/126",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/127",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/128",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/129",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/130",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/131",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/132",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/133",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/134",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/135",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/136",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/137",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/138",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/139",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/140",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/141",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/142",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/143",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/144",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/145",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/146",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/147",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/148",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/149",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/150",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/151",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/152",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/153",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/154",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/155",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/156",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/157",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/158",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/159",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/160",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/161",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/162",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/163",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/164",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/165",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/166",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/167",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/168",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/169",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/170",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/171",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/172",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/173",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/174",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/175",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/176",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/177",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/178",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/179",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/180",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/181",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/182",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/183",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/184",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/185",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/186",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/187",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/188",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/189",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/190",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/191",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/192",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/193",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/194",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/195",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/196",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/197",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/198",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/199",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/200",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/201",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/202",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/203",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/204",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/205",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/206",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/207",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/208",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/209",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/210",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/211",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/212",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/213",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/214",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/215",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/216",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/217",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/218",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/219",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/220",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/221",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/222",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/223",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/224",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/225",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/226",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/227",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/228",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/229",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/230",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/231",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/232",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/233",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/234",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/235",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/236",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/237",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/238",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/239",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/240",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/241",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/242",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/243",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/244",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/245",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/246",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/247",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/248",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/249",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/250",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/251",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/252",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/253",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/254",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/255",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/256",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/257",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/258",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/259",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/260",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/261",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/262",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/263",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/264",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/265",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/266",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/267",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/268",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/269",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/270",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/271",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/272",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/273",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/274",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/275",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/276",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/277",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/278",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/279",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/280",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/281",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/282",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/283",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/284",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/285",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/286",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/287",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/288",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/289",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/290",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/291",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/292",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/293",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/294",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/295",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/296",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/297",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/298",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 60/299",
+			"passed": true
+		},
+		{
+			"check": "eight authored fennec walk keys",
+			"passed": true
+		},
+		{
+			"check": "constant world travel across loop boundaries",
+			"passed": true
+		},
+		{
+			"check": "compact low-step walking period",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/0",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/1",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/2",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/3",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/4",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/5",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/6",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/7",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/8",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/9",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/10",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/11",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/12",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/13",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/14",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/15",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/16",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/17",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/18",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/19",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/20",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/21",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/22",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/23",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/24",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/25",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/26",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/27",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/28",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/29",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/30",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/31",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/32",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/33",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/34",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/35",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/36",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/37",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/38",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/39",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/40",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/41",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/42",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/43",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/44",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/45",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/46",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/47",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/48",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/49",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/50",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/51",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/52",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/53",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/54",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/55",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/56",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/57",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/58",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/59",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/60",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/61",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/62",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/63",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/64",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/65",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/66",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/67",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/68",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/69",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/70",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/71",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/72",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/73",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/74",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/75",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/76",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/77",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/78",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/79",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/80",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/81",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/82",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/83",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/84",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/85",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/86",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/87",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/88",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/89",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/90",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/91",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/92",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/93",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/94",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/95",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/96",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/97",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/98",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/99",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/100",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/101",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/102",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/103",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/104",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/105",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/106",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/107",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/108",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/109",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/110",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/111",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/112",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/113",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/114",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/115",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/116",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/117",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/118",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/119",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/120",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/121",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/122",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/123",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/124",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/125",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/126",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/127",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/128",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/129",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/130",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/131",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/132",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/133",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/134",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/135",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/136",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/137",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/138",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/139",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/140",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/141",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/142",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/143",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/144",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/145",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/146",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/147",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/148",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/149",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/150",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/151",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/152",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/153",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/154",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/155",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/156",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/157",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/158",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/159",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/160",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/161",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/162",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/163",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/164",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/165",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/166",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/167",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/168",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/169",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/170",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/171",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/172",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/173",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/174",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/175",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/176",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/177",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/178",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/179",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/180",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/181",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/182",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/183",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/184",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/185",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/186",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/187",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/188",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/189",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/190",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/191",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/192",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/193",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/194",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/195",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/196",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/197",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/198",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/199",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/200",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/201",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/202",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/203",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/204",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/205",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/206",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/207",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/208",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/209",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/210",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/211",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/212",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/213",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/214",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/215",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/216",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/217",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/218",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/219",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/220",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/221",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/222",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/223",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/224",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/225",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/226",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/227",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/228",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/229",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/230",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/231",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/232",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/233",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/234",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/235",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/236",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/237",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/238",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/239",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/240",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/241",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/242",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/243",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/244",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/245",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/246",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/247",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/248",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/249",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/250",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/251",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/252",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/253",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/254",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/255",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/256",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/257",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/258",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/259",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/260",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/261",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/262",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/263",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/264",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/265",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/266",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/267",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/268",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/269",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/270",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/271",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/272",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/273",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/274",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/275",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/276",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/277",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/278",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/279",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/280",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/281",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/282",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/283",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/284",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/285",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/286",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/287",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/288",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/289",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/290",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/291",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/292",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/293",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/294",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/295",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/296",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/297",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/298",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/299",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/300",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/301",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/302",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/303",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/304",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/305",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/306",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/307",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/308",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/309",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/310",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/311",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/312",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/313",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/314",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/315",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/316",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/317",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/318",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/319",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/320",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/321",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/322",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/323",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/324",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/325",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/326",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/327",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/328",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/329",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/330",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/331",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/332",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/333",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/334",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/335",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/336",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/337",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/338",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/339",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/340",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/341",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/342",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/343",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/344",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/345",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/346",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/347",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/348",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/349",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/350",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/351",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/352",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/353",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/354",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/355",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/356",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/357",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/358",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/359",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/360",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/361",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/362",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/363",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/364",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/365",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/366",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/367",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/368",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/369",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/370",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/371",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/372",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/373",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/374",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/375",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/376",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/377",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/378",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/379",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/380",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/381",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/382",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/383",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/384",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/385",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/386",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/387",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/388",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/389",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/390",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/391",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/392",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/393",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/394",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/395",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/396",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/397",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/398",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/399",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/400",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/401",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/402",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/403",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/404",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/405",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/406",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/407",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/408",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/409",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/410",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/411",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/412",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/413",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/414",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/415",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/416",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/417",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/418",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/419",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/420",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/421",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/422",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/423",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/424",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/425",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/426",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/427",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/428",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/429",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/430",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/431",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/432",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/433",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/434",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/435",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/436",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/437",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/438",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/439",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/440",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/441",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/442",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/443",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/444",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/445",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/446",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/447",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/448",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/449",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/450",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/451",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/452",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/453",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/454",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/455",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/456",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/457",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/458",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/459",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/460",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/461",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/462",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/463",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/464",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/465",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/466",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/467",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/468",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/469",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/470",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/471",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/472",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/473",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/474",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/475",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/476",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/477",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/478",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/479",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/480",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/481",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/482",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/483",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/484",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/485",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/486",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/487",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/488",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/489",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/490",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/491",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/492",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/493",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/494",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/495",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/496",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/497",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/498",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/499",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/500",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/501",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/502",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/503",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/504",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/505",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/506",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/507",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/508",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/509",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/510",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/511",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/512",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/513",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/514",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/515",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/516",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/517",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/518",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/519",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/520",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/521",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/522",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/523",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/524",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/525",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/526",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/527",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/528",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/529",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/530",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/531",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/532",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/533",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/534",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/535",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/536",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/537",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/538",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/539",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/540",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/541",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/542",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/543",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/544",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/545",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/546",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/547",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/548",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/549",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/550",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/551",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/552",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/553",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/554",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/555",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/556",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/557",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/558",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/559",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/560",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/561",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/562",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/563",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/564",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/565",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/566",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/567",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/568",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/569",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/570",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/571",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/572",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/573",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/574",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/575",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/576",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/577",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/578",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/579",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/580",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/581",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/582",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/583",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/584",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/585",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/586",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/587",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/588",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/589",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/590",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/591",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/592",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/593",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/594",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/595",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/596",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/597",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/598",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/599",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/600",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/601",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/602",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/603",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/604",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/605",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/606",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/607",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/608",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/609",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/610",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/611",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/612",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/613",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/614",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/615",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/616",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/617",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/618",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/619",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/620",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/621",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/622",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/623",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/624",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/625",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/626",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/627",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/628",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/629",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/630",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/631",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/632",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/633",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/634",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/635",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/636",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/637",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/638",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/639",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/640",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/641",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/642",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/643",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/644",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/645",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/646",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/647",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/648",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/649",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/650",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/651",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/652",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/653",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/654",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/655",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/656",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/657",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/658",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/659",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/660",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/661",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/662",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/663",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/664",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/665",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/666",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/667",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/668",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/669",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/670",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/671",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/672",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/673",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/674",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/675",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/676",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/677",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/678",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/679",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/680",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/681",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/682",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/683",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/684",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/685",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/686",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/687",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/688",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/689",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/690",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/691",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/692",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/693",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/694",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/695",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/696",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/697",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/698",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/699",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/700",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/701",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/702",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/703",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/704",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/705",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/706",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/707",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/708",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/709",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/710",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/711",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/712",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/713",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/714",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/715",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/716",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/717",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/718",
+			"passed": true
+		},
+		{
+			"check": "no elapsed-time loss or loop hitch 144/719",
+			"passed": true
+		},
+		{
+			"check": "same fennec identity in basic/idle",
+			"passed": true
+		},
+		{
+			"check": "new atlas decodes basic/idle",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame basic/idle/0",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame basic/idle/1",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame basic/idle/2",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame basic/idle/3",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame basic/idle/4",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame basic/idle/5",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame basic/idle/6",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame basic/idle/7",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame basic/idle/8",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame basic/idle/9",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame basic/idle/10",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame basic/idle/11",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame basic/idle/12",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame basic/idle/13",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame basic/idle/14",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame basic/idle/15",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame basic/idle/16",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame basic/idle/17",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame basic/idle/18",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame basic/idle/19",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame basic/idle/20",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame basic/idle/21",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame basic/idle/22",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame basic/idle/23",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame basic/idle/24",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame basic/idle/25",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame basic/idle/26",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame basic/idle/27",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame basic/idle/28",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame basic/idle/29",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame basic/idle/30",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame basic/idle/31",
+			"passed": true
+		},
+		{
+			"check": "same fennec identity in basic/pet",
+			"passed": true
+		},
+		{
+			"check": "new atlas decodes basic/pet",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame basic/pet/0",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame basic/pet/1",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame basic/pet/2",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame basic/pet/3",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame basic/pet/4",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame basic/pet/5",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame basic/pet/6",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame basic/pet/7",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame basic/pet/8",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame basic/pet/9",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame basic/pet/10",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame basic/pet/11",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame basic/pet/12",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame basic/pet/13",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame basic/pet/14",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame basic/pet/15",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame basic/pet/16",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame basic/pet/17",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame basic/pet/18",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame basic/pet/19",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame basic/pet/20",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame basic/pet/21",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame basic/pet/22",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame basic/pet/23",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame basic/pet/24",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame basic/pet/25",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame basic/pet/26",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame basic/pet/27",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame basic/pet/28",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame basic/pet/29",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame basic/pet/30",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame basic/pet/31",
+			"passed": true
+		},
+		{
+			"check": "same fennec identity in basic/sleep",
+			"passed": true
+		},
+		{
+			"check": "new atlas decodes basic/sleep",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame basic/sleep/0",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame basic/sleep/1",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame basic/sleep/2",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame basic/sleep/3",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame basic/sleep/4",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame basic/sleep/5",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame basic/sleep/6",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame basic/sleep/7",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame basic/sleep/8",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame basic/sleep/9",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame basic/sleep/10",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame basic/sleep/11",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame basic/sleep/12",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame basic/sleep/13",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame basic/sleep/14",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame basic/sleep/15",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame basic/sleep/16",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame basic/sleep/17",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame basic/sleep/18",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame basic/sleep/19",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame basic/sleep/20",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame basic/sleep/21",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame basic/sleep/22",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame basic/sleep/23",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame basic/sleep/24",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame basic/sleep/25",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame basic/sleep/26",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame basic/sleep/27",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame basic/sleep/28",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame basic/sleep/29",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame basic/sleep/30",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame basic/sleep/31",
+			"passed": true
+		},
+		{
+			"check": "same fennec identity in basic/eat",
+			"passed": true
+		},
+		{
+			"check": "new atlas decodes basic/eat",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame basic/eat/0",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame basic/eat/1",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame basic/eat/2",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame basic/eat/3",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame basic/eat/4",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame basic/eat/5",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame basic/eat/6",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame basic/eat/7",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame basic/eat/8",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame basic/eat/9",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame basic/eat/10",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame basic/eat/11",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame basic/eat/12",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame basic/eat/13",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame basic/eat/14",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame basic/eat/15",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame basic/eat/16",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame basic/eat/17",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame basic/eat/18",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame basic/eat/19",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame basic/eat/20",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame basic/eat/21",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame basic/eat/22",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame basic/eat/23",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame basic/eat/24",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame basic/eat/25",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame basic/eat/26",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame basic/eat/27",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame basic/eat/28",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame basic/eat/29",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame basic/eat/30",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame basic/eat/31",
+			"passed": true
+		},
+		{
+			"check": "same fennec identity in interaction/carry",
+			"passed": true
+		},
+		{
+			"check": "new atlas decodes interaction/carry",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/carry/0",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/carry/1",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/carry/2",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/carry/3",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/carry/4",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/carry/5",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/carry/6",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/carry/7",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/carry/8",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/carry/9",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/carry/10",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/carry/11",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/carry/12",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/carry/13",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/carry/14",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/carry/15",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/carry/16",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/carry/17",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/carry/18",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/carry/19",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/carry/20",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/carry/21",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/carry/22",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/carry/23",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/carry/24",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/carry/25",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/carry/26",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/carry/27",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/carry/28",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/carry/29",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/carry/30",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/carry/31",
+			"passed": true
+		},
+		{
+			"check": "same fennec identity in interaction/struggle",
+			"passed": true
+		},
+		{
+			"check": "new atlas decodes interaction/struggle",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/struggle/0",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/struggle/1",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/struggle/2",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/struggle/3",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/struggle/4",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/struggle/5",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/struggle/6",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/struggle/7",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/struggle/8",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/struggle/9",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/struggle/10",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/struggle/11",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/struggle/12",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/struggle/13",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/struggle/14",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/struggle/15",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/struggle/16",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/struggle/17",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/struggle/18",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/struggle/19",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/struggle/20",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/struggle/21",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/struggle/22",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/struggle/23",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/struggle/24",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/struggle/25",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/struggle/26",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/struggle/27",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/struggle/28",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/struggle/29",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/struggle/30",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/struggle/31",
+			"passed": true
+		},
+		{
+			"check": "same fennec identity in interaction/landing",
+			"passed": true
+		},
+		{
+			"check": "new atlas decodes interaction/landing",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/landing/0",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/landing/1",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/landing/2",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/landing/3",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/landing/4",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/landing/5",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/landing/6",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/landing/7",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/landing/8",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/landing/9",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/landing/10",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/landing/11",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/landing/12",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/landing/13",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/landing/14",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/landing/15",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/landing/16",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/landing/17",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/landing/18",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/landing/19",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/landing/20",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/landing/21",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/landing/22",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/landing/23",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/landing/24",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/landing/25",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/landing/26",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/landing/27",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/landing/28",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/landing/29",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/landing/30",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/landing/31",
+			"passed": true
+		},
+		{
+			"check": "same fennec identity in interaction/dizzy",
+			"passed": true
+		},
+		{
+			"check": "new atlas decodes interaction/dizzy",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/dizzy/0",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/dizzy/1",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/dizzy/2",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/dizzy/3",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/dizzy/4",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/dizzy/5",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/dizzy/6",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/dizzy/7",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/dizzy/8",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/dizzy/9",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/dizzy/10",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/dizzy/11",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/dizzy/12",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/dizzy/13",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/dizzy/14",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/dizzy/15",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/dizzy/16",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/dizzy/17",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/dizzy/18",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/dizzy/19",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/dizzy/20",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/dizzy/21",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/dizzy/22",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/dizzy/23",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/dizzy/24",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/dizzy/25",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/dizzy/26",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/dizzy/27",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/dizzy/28",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/dizzy/29",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/dizzy/30",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/dizzy/31",
+			"passed": true
+		},
+		{
+			"check": "same fennec identity in interaction/recover",
+			"passed": true
+		},
+		{
+			"check": "new atlas decodes interaction/recover",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/recover/0",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/recover/1",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/recover/2",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/recover/3",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/recover/4",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/recover/5",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/recover/6",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/recover/7",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/recover/8",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/recover/9",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/recover/10",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/recover/11",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/recover/12",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/recover/13",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/recover/14",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/recover/15",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/recover/16",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/recover/17",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/recover/18",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/recover/19",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/recover/20",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/recover/21",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/recover/22",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/recover/23",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/recover/24",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/recover/25",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/recover/26",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/recover/27",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/recover/28",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/recover/29",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/recover/30",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame interaction/recover/31",
+			"passed": true
+		},
+		{
+			"check": "same fennec identity in life/sofa",
+			"passed": true
+		},
+		{
+			"check": "new atlas decodes life/sofa",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame life/sofa/0",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame life/sofa/1",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame life/sofa/2",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame life/sofa/3",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame life/sofa/4",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame life/sofa/5",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame life/sofa/6",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame life/sofa/7",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame life/sofa/8",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame life/sofa/9",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame life/sofa/10",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame life/sofa/11",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame life/sofa/12",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame life/sofa/13",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame life/sofa/14",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame life/sofa/15",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame life/sofa/16",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame life/sofa/17",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame life/sofa/18",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame life/sofa/19",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame life/sofa/20",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame life/sofa/21",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame life/sofa/22",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame life/sofa/23",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame life/sofa/24",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame life/sofa/25",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame life/sofa/26",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame life/sofa/27",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame life/sofa/28",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame life/sofa/29",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame life/sofa/30",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame life/sofa/31",
+			"passed": true
+		},
+		{
+			"check": "same fennec identity in life/bed",
+			"passed": true
+		},
+		{
+			"check": "new atlas decodes life/bed",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame life/bed/0",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame life/bed/1",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame life/bed/2",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame life/bed/3",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame life/bed/4",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame life/bed/5",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame life/bed/6",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame life/bed/7",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame life/bed/8",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame life/bed/9",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame life/bed/10",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame life/bed/11",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame life/bed/12",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame life/bed/13",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame life/bed/14",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame life/bed/15",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame life/bed/16",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame life/bed/17",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame life/bed/18",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame life/bed/19",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame life/bed/20",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame life/bed/21",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame life/bed/22",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame life/bed/23",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame life/bed/24",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame life/bed/25",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame life/bed/26",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame life/bed/27",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame life/bed/28",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame life/bed/29",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame life/bed/30",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame life/bed/31",
+			"passed": true
+		},
+		{
+			"check": "same fennec identity in life/play",
+			"passed": true
+		},
+		{
+			"check": "new atlas decodes life/play",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame life/play/0",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame life/play/1",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame life/play/2",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame life/play/3",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame life/play/4",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame life/play/5",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame life/play/6",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame life/play/7",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame life/play/8",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame life/play/9",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame life/play/10",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame life/play/11",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame life/play/12",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame life/play/13",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame life/play/14",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame life/play/15",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame life/play/16",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame life/play/17",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame life/play/18",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame life/play/19",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame life/play/20",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame life/play/21",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame life/play/22",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame life/play/23",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame life/play/24",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame life/play/25",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame life/play/26",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame life/play/27",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame life/play/28",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame life/play/29",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame life/play/30",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame life/play/31",
+			"passed": true
+		},
+		{
+			"check": "same fennec identity in life/bath",
+			"passed": true
+		},
+		{
+			"check": "new atlas decodes life/bath",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame life/bath/0",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame life/bath/1",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame life/bath/2",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame life/bath/3",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame life/bath/4",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame life/bath/5",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame life/bath/6",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame life/bath/7",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame life/bath/8",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame life/bath/9",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame life/bath/10",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame life/bath/11",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame life/bath/12",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame life/bath/13",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame life/bath/14",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame life/bath/15",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame life/bath/16",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame life/bath/17",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame life/bath/18",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame life/bath/19",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame life/bath/20",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame life/bath/21",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame life/bath/22",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame life/bath/23",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame life/bath/24",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame life/bath/25",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame life/bath/26",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame life/bath/27",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame life/bath/28",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame life/bath/29",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame life/bath/30",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame life/bath/31",
+			"passed": true
+		},
+		{
+			"check": "same fennec identity in daily/sad",
+			"passed": true
+		},
+		{
+			"check": "new atlas decodes daily/sad",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/sad/0",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/sad/1",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/sad/2",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/sad/3",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/sad/4",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/sad/5",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/sad/6",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/sad/7",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/sad/8",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/sad/9",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/sad/10",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/sad/11",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/sad/12",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/sad/13",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/sad/14",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/sad/15",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/sad/16",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/sad/17",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/sad/18",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/sad/19",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/sad/20",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/sad/21",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/sad/22",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/sad/23",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/sad/24",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/sad/25",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/sad/26",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/sad/27",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/sad/28",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/sad/29",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/sad/30",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/sad/31",
+			"passed": true
+		},
+		{
+			"check": "same fennec identity in daily/peek",
+			"passed": true
+		},
+		{
+			"check": "new atlas decodes daily/peek",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/peek/0",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/peek/1",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/peek/2",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/peek/3",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/peek/4",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/peek/5",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/peek/6",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/peek/7",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/peek/8",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/peek/9",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/peek/10",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/peek/11",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/peek/12",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/peek/13",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/peek/14",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/peek/15",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/peek/16",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/peek/17",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/peek/18",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/peek/19",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/peek/20",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/peek/21",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/peek/22",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/peek/23",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/peek/24",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/peek/25",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/peek/26",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/peek/27",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/peek/28",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/peek/29",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/peek/30",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/peek/31",
+			"passed": true
+		},
+		{
+			"check": "same fennec identity in daily/drink",
+			"passed": true
+		},
+		{
+			"check": "new atlas decodes daily/drink",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/drink/0",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/drink/1",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/drink/2",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/drink/3",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/drink/4",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/drink/5",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/drink/6",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/drink/7",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/drink/8",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/drink/9",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/drink/10",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/drink/11",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/drink/12",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/drink/13",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/drink/14",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/drink/15",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/drink/16",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/drink/17",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/drink/18",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/drink/19",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/drink/20",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/drink/21",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/drink/22",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/drink/23",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/drink/24",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/drink/25",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/drink/26",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/drink/27",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/drink/28",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/drink/29",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/drink/30",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/drink/31",
+			"passed": true
+		},
+		{
+			"check": "same fennec identity in daily/sing",
+			"passed": true
+		},
+		{
+			"check": "new atlas decodes daily/sing",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/sing/0",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/sing/1",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/sing/2",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/sing/3",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/sing/4",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/sing/5",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/sing/6",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/sing/7",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/sing/8",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/sing/9",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/sing/10",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/sing/11",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/sing/12",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/sing/13",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/sing/14",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/sing/15",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/sing/16",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/sing/17",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/sing/18",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/sing/19",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/sing/20",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/sing/21",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/sing/22",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/sing/23",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/sing/24",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/sing/25",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/sing/26",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/sing/27",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/sing/28",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/sing/29",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/sing/30",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/sing/31",
+			"passed": true
+		},
+		{
+			"check": "same fennec identity in daily/study",
+			"passed": true
+		},
+		{
+			"check": "new atlas decodes daily/study",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/study/0",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/study/1",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/study/2",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/study/3",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/study/4",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/study/5",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/study/6",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/study/7",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/study/8",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/study/9",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/study/10",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/study/11",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/study/12",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/study/13",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/study/14",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/study/15",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/study/16",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/study/17",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/study/18",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/study/19",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/study/20",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/study/21",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/study/22",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/study/23",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/study/24",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/study/25",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/study/26",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/study/27",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/study/28",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/study/29",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/study/30",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/study/31",
+			"passed": true
+		},
+		{
+			"check": "same fennec identity in daily/work",
+			"passed": true
+		},
+		{
+			"check": "new atlas decodes daily/work",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/work/0",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/work/1",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/work/2",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/work/3",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/work/4",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/work/5",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/work/6",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/work/7",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/work/8",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/work/9",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/work/10",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/work/11",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/work/12",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/work/13",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/work/14",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/work/15",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/work/16",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/work/17",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/work/18",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/work/19",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/work/20",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/work/21",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/work/22",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/work/23",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/work/24",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/work/25",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/work/26",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/work/27",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/work/28",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/work/29",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/work/30",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/work/31",
+			"passed": true
+		},
+		{
+			"check": "same fennec identity in daily/pajama",
+			"passed": true
+		},
+		{
+			"check": "new atlas decodes daily/pajama",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/pajama/0",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/pajama/1",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/pajama/2",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/pajama/3",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/pajama/4",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/pajama/5",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/pajama/6",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/pajama/7",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/pajama/8",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/pajama/9",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/pajama/10",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/pajama/11",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/pajama/12",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/pajama/13",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/pajama/14",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/pajama/15",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/pajama/16",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/pajama/17",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/pajama/18",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/pajama/19",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/pajama/20",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/pajama/21",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/pajama/22",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/pajama/23",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/pajama/24",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/pajama/25",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/pajama/26",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/pajama/27",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/pajama/28",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/pajama/29",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/pajama/30",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/pajama/31",
+			"passed": true
+		},
+		{
+			"check": "same fennec identity in daily/fight",
+			"passed": true
+		},
+		{
+			"check": "new atlas decodes daily/fight",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/fight/0",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/fight/1",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/fight/2",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/fight/3",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/fight/4",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/fight/5",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/fight/6",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/fight/7",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/fight/8",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/fight/9",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/fight/10",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/fight/11",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/fight/12",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/fight/13",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/fight/14",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/fight/15",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/fight/16",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/fight/17",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/fight/18",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/fight/19",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/fight/20",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/fight/21",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/fight/22",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/fight/23",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/fight/24",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/fight/25",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/fight/26",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/fight/27",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/fight/28",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/fight/29",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/fight/30",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame daily/fight/31",
+			"passed": true
+		},
+		{
+			"check": "same fennec identity in adventure/roll",
+			"passed": true
+		},
+		{
+			"check": "new atlas decodes adventure/roll",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame adventure/roll/0",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame adventure/roll/1",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame adventure/roll/2",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame adventure/roll/3",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame adventure/roll/4",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame adventure/roll/5",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame adventure/roll/6",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame adventure/roll/7",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame adventure/roll/8",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame adventure/roll/9",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame adventure/roll/10",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame adventure/roll/11",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame adventure/roll/12",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame adventure/roll/13",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame adventure/roll/14",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame adventure/roll/15",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame adventure/roll/16",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame adventure/roll/17",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame adventure/roll/18",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame adventure/roll/19",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame adventure/roll/20",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame adventure/roll/21",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame adventure/roll/22",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame adventure/roll/23",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame adventure/roll/24",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame adventure/roll/25",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame adventure/roll/26",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame adventure/roll/27",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame adventure/roll/28",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame adventure/roll/29",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame adventure/roll/30",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame adventure/roll/31",
+			"passed": true
+		},
+		{
+			"check": "same fennec identity in adventure/fly",
+			"passed": true
+		},
+		{
+			"check": "new atlas decodes adventure/fly",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame adventure/fly/0",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame adventure/fly/1",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame adventure/fly/2",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame adventure/fly/3",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame adventure/fly/4",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame adventure/fly/5",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame adventure/fly/6",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame adventure/fly/7",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame adventure/fly/8",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame adventure/fly/9",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame adventure/fly/10",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame adventure/fly/11",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame adventure/fly/12",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame adventure/fly/13",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame adventure/fly/14",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame adventure/fly/15",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame adventure/fly/16",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame adventure/fly/17",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame adventure/fly/18",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame adventure/fly/19",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame adventure/fly/20",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame adventure/fly/21",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame adventure/fly/22",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame adventure/fly/23",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame adventure/fly/24",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame adventure/fly/25",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame adventure/fly/26",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame adventure/fly/27",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame adventure/fly/28",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame adventure/fly/29",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame adventure/fly/30",
+			"passed": true
+		},
+		{
+			"check": "whole uncut frame adventure/fly/31",
+			"passed": true
+		},
+		{
+			"check": "complete fennec furniture entry sofa",
+			"passed": true
+		},
+		{
+			"check": "furniture entry starts with canonical idle proportions sofa",
+			"passed": true
+		},
+		{
+			"check": "complete fennec furniture entry bed",
+			"passed": true
+		},
+		{
+			"check": "furniture entry starts with canonical idle proportions bed",
+			"passed": true
+		},
+		{
+			"check": "complete fennec furniture entry play",
+			"passed": true
+		},
+		{
+			"check": "furniture entry starts with canonical idle proportions play",
+			"passed": true
+		},
+		{
+			"check": "complete fennec furniture entry bath",
+			"passed": true
+		},
+		{
+			"check": "furniture entry starts with canonical idle proportions bath",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state idle",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state idle",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state idle",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state idle",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state idle",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state idle",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state idle",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state idle",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state idle",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state idle",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state idle",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state idle",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state idle",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state idle",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state idle",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state idle",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state idle",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state idle",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state idle",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state idle",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state idle",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state idle",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state idle",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state idle",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state idle",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state idle",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state idle",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state idle",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state idle",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state idle",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state idle",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state idle",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state pet",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state pet",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state pet",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state pet",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state pet",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state pet",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state pet",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state pet",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state pet",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state pet",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state pet",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state pet",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state pet",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state pet",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state pet",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state pet",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state pet",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state pet",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state pet",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state pet",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state pet",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state pet",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state pet",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state pet",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state pet",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state pet",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state pet",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state pet",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state pet",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state pet",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state pet",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state pet",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state sleep",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state sleep",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state sleep",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state sleep",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state sleep",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state sleep",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state sleep",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state sleep",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state sleep",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state sleep",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state sleep",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state sleep",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state sleep",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state sleep",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state sleep",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state sleep",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state sleep",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state sleep",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state sleep",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state sleep",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state sleep",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state sleep",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state sleep",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state sleep",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state sleep",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state sleep",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state sleep",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state sleep",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state sleep",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state sleep",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state sleep",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state sleep",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state eat",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state eat",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state eat",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state eat",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state eat",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state eat",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state eat",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state eat",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state eat",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state eat",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state eat",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state eat",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state eat",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state eat",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state eat",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state eat",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state eat",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state eat",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state eat",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state eat",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state eat",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state eat",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state eat",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state eat",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state eat",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state eat",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state eat",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state eat",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state eat",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state eat",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state eat",
+			"passed": true
+		},
+		{
+			"check": "fox keeps correct complete-body state eat",
+			"passed": true
+		},
+		{
+			"check": "authored walk contact/passing poses with complete intermediates 0",
+			"passed": true
+		},
+		{
+			"check": "run has airborne motion 0",
+			"passed": true
+		},
+		{
+			"check": "running travels faster than walking 0",
+			"passed": true
+		},
+		{
+			"check": "run stays inside activity space 0",
+			"passed": true
+		},
+		{
+			"check": "authored walk contact/passing poses with complete intermediates 1",
+			"passed": true
+		},
+		{
+			"check": "run has airborne motion 1",
+			"passed": true
+		},
+		{
+			"check": "running travels faster than walking 1",
+			"passed": true
+		},
+		{
+			"check": "run stays inside activity space 1",
+			"passed": true
+		},
+		{
+			"check": "authored walk contact/passing poses with complete intermediates 2",
+			"passed": true
+		},
+		{
+			"check": "run has airborne motion 2",
+			"passed": true
+		},
+		{
+			"check": "running travels faster than walking 2",
+			"passed": true
+		},
+		{
+			"check": "run stays inside activity space 2",
+			"passed": true
+		},
+		{
+			"check": "authored walk contact/passing poses with complete intermediates 3",
+			"passed": true
+		},
+		{
+			"check": "run has airborne motion 3",
+			"passed": true
+		},
+		{
+			"check": "running travels faster than walking 3",
+			"passed": true
+		},
+		{
+			"check": "run stays inside activity space 3",
+			"passed": true
+		},
+		{
+			"check": "authored walk contact/passing poses with complete intermediates 4",
+			"passed": true
+		},
+		{
+			"check": "run has airborne motion 4",
+			"passed": true
+		},
+		{
+			"check": "running travels faster than walking 4",
+			"passed": true
+		},
+		{
+			"check": "run stays inside activity space 4",
+			"passed": true
+		},
+		{
+			"check": "authored walk contact/passing poses with complete intermediates 5",
+			"passed": true
+		},
+		{
+			"check": "run has airborne motion 5",
+			"passed": true
+		},
+		{
+			"check": "running travels faster than walking 5",
+			"passed": true
+		},
+		{
+			"check": "run stays inside activity space 5",
+			"passed": true
+		},
+		{
+			"check": "authored walk contact/passing poses with complete intermediates 6",
+			"passed": true
+		},
+		{
+			"check": "run has airborne motion 6",
+			"passed": true
+		},
+		{
+			"check": "running travels faster than walking 6",
+			"passed": true
+		},
+		{
+			"check": "run stays inside activity space 6",
+			"passed": true
+		},
+		{
+			"check": "authored walk contact/passing poses with complete intermediates 7",
+			"passed": true
+		},
+		{
+			"check": "run has airborne motion 7",
+			"passed": true
+		},
+		{
+			"check": "running travels faster than walking 7",
+			"passed": true
+		},
+		{
+			"check": "run stays inside activity space 7",
+			"passed": true
+		},
+		{
+			"check": "authored walk contact/passing poses with complete intermediates 8",
+			"passed": true
+		},
+		{
+			"check": "run has airborne motion 8",
+			"passed": true
+		},
+		{
+			"check": "running travels faster than walking 8",
+			"passed": true
+		},
+		{
+			"check": "run stays inside activity space 8",
+			"passed": true
+		},
+		{
+			"check": "authored walk contact/passing poses with complete intermediates 9",
+			"passed": true
+		},
+		{
+			"check": "run has airborne motion 9",
+			"passed": true
+		},
+		{
+			"check": "running travels faster than walking 9",
+			"passed": true
+		},
+		{
+			"check": "run stays inside activity space 9",
+			"passed": true
+		},
+		{
+			"check": "authored walk contact/passing poses with complete intermediates 10",
+			"passed": true
+		},
+		{
+			"check": "run has airborne motion 10",
+			"passed": true
+		},
+		{
+			"check": "running travels faster than walking 10",
+			"passed": true
+		},
+		{
+			"check": "run stays inside activity space 10",
+			"passed": true
+		},
+		{
+			"check": "authored walk contact/passing poses with complete intermediates 11",
+			"passed": true
+		},
+		{
+			"check": "run has airborne motion 11",
+			"passed": true
+		},
+		{
+			"check": "running travels faster than walking 11",
+			"passed": true
+		},
+		{
+			"check": "run stays inside activity space 11",
+			"passed": true
+		},
+		{
+			"check": "authored walk contact/passing poses with complete intermediates 12",
+			"passed": true
+		},
+		{
+			"check": "run has airborne motion 12",
+			"passed": true
+		},
+		{
+			"check": "running travels faster than walking 12",
+			"passed": true
+		},
+		{
+			"check": "run stays inside activity space 12",
+			"passed": true
+		},
+		{
+			"check": "authored walk contact/passing poses with complete intermediates 13",
+			"passed": true
+		},
+		{
+			"check": "run has airborne motion 13",
+			"passed": true
+		},
+		{
+			"check": "running travels faster than walking 13",
+			"passed": true
+		},
+		{
+			"check": "run stays inside activity space 13",
+			"passed": true
+		},
+		{
+			"check": "authored walk contact/passing poses with complete intermediates 14",
+			"passed": true
+		},
+		{
+			"check": "run has airborne motion 14",
+			"passed": true
+		},
+		{
+			"check": "running travels faster than walking 14",
+			"passed": true
+		},
+		{
+			"check": "run stays inside activity space 14",
+			"passed": true
+		},
+		{
+			"check": "authored walk contact/passing poses with complete intermediates 15",
+			"passed": true
+		},
+		{
+			"check": "run has airborne motion 15",
+			"passed": true
+		},
+		{
+			"check": "running travels faster than walking 15",
+			"passed": true
+		},
+		{
+			"check": "run stays inside activity space 15",
+			"passed": true
+		}
+	],
+	"item": 22,
+	"passed": true
+}

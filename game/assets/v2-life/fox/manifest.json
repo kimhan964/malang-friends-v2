@@ -7,37 +7,46 @@
   ],
   "sequences": {
     "sofa": {
-      "file": "sofa.png",
+      "file": "sofa-fennec-v3.png",
       "count": 32,
       "columns": 8,
       "duration": 3.2,
-      "enter_file": "sofa-enter.png",
-      "enter_count": 17
+      "enter_file": "sofa-enter-fennec-v3.png",
+      "enter_count": 17,
+      "generated_keys": 4,
+      "skin_revision": 3
     },
     "bed": {
-      "file": "bed.png",
+      "file": "bed-fennec-v3.png",
       "count": 32,
       "columns": 8,
       "duration": 4.8,
-      "enter_file": "bed-enter.png",
-      "enter_count": 17
+      "enter_file": "bed-enter-fennec-v3.png",
+      "enter_count": 17,
+      "generated_keys": 4,
+      "skin_revision": 3
     },
     "play": {
-      "file": "play.png",
+      "file": "play-fennec-v3.png",
       "count": 32,
       "columns": 8,
       "duration": 2.4,
-      "enter_file": "play-enter.png",
-      "enter_count": 17
+      "enter_file": "play-enter-fennec-v3.png",
+      "enter_count": 17,
+      "generated_keys": 4,
+      "skin_revision": 3
     },
     "bath": {
-      "file": "bath.png",
+      "file": "bath-fennec-v3.png",
       "count": 32,
       "columns": 8,
       "duration": 2.4,
-      "enter_file": "bath-enter.png",
-      "enter_count": 17
+      "enter_file": "bath-enter-fennec-v3.png",
+      "enter_count": 17,
+      "generated_keys": 4,
+      "skin_revision": 3
     }
   },
-  "method": "16 generated full-body keys, whole-image inbetweens plus whole-body enter/leave"
+  "method": "Fennec redesign; all poses are complete generated characters, whole-image intermediates; no limb recomposition",
+  "skin_revision": 3
 }

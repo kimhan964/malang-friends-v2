@@ -26,6 +26,9 @@ func arrived(motion,metadata: Dictionary) -> bool:
 	return offset.length()<stride and not next_contact.is_equal_approx(next_contact.clamp(motion.bounds.position,motion.bounds.end))
 
 func advance(motion,delta: float,metadata: Dictionary,multiplier: float) -> void:
+	if metadata.get("continuous_stride",false):
+		advance_continuous(motion,delta,metadata,multiplier)
+		return
 	if not active:
 		var offset=motion.target-motion.feet
 		if arrived(motion,metadata):
@@ -58,3 +61,30 @@ func advance(motion,delta: float,metadata: Dictionary,multiplier: float) -> void
 		motion.feet=destination
 		motion.walk_phase=0
 		active=false
+
+func advance_continuous(motion,delta: float,metadata: Dictionary,multiplier: float) -> void:
+	# Preserve elapsed time across authored loops. Clamping at each contact
+	# discarded part of a display frame and produced a repeated small hitch.
+	var previous=motion.feet
+	var remaining=maxf(0,delta)
+	var iterations=0
+	while remaining>0.000001 and iterations<16:
+		iterations+=1
+		if not active:
+			if arrived(motion,metadata):break
+			var offset=motion.target-motion.feet
+			origin=motion.feet
+			destination=origin+offset.normalized()*stride_length(motion,metadata)
+			motion.travel_direction=offset.normalized()
+			if absf(offset.x)>.5:motion.facing=signf(offset.x)
+			var pace=clampf(multiplier,.01,preload("res://scripts/gait_profile.gd").MAX_WALK_MULTIPLIER)
+			cycle_seconds=float(metadata.cycle_seconds)/pace
+			age=0;active=true
+		var consumed=minf(remaining,cycle_seconds-age)
+		age+=consumed;remaining-=consumed
+		var phase=clampf(age/cycle_seconds,0,1)
+		motion.feet=origin.lerp(destination,phase)
+		motion.walk_phase=minf(phase,.999999)
+		if age>=cycle_seconds-.000001:
+			motion.feet=destination;motion.walk_phase=0;active=false
+	motion.travel_speed=motion.feet.distance_to(previous)/maxf(delta,.00001)

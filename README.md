@@ -4,7 +4,7 @@
 
 ## 다운로드와 실행
 
-1. [최신 Windows 다운로드](https://github.com/kimhan964/malang-friends-v2/releases/latest)에서 `MalangFriends-v2-Windows-2026-10-16-fix2.zip`을 받습니다.
+1. [최신 Windows 다운로드](https://github.com/kimhan964/malang-friends-v2/releases/latest)에서 `MalangFriends-v2-Windows-2026-10-17-fennec.zip`을 받습니다.
 2. 압축을 전부 풉니다.
 3. `MalangFriends-v2/DesktopFriends.exe`를 실행합니다.
 
@@ -14,7 +14,7 @@
 
 ## 이번 수정판
 
-여우·수달의 양발 교차와 디딤 시간을 다시 조정했습니다. [변경 내용과 실제 게임 영상](docs/validation/grounded-fox-otter/수정기록.md)을 확인하세요.
+여우를 사막여우 느낌으로 바꾸고, 보폭·양발 교차와 반복 경계의 멈칫거림을 수정했습니다. [최신 여우 검수와 실제 게임 영상](docs/validation/fennec-fox-20261017/수정기록.md)을 확인하세요.
 
 요청한 19개 항목의 [수정·검수 기록](docs/validation/v2-review-20261016.md)을 제공합니다.
 

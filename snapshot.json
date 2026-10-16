@@ -1,13 +1,13 @@
 {
   "name": "말랑친구 v2",
-  "snapshot_date": "2026-10-16",
-  "revision": "v2-2026.10.16.2",
-  "resources": 1622,
-  "resource_bytes": 864080250,
+  "snapshot_date": "2026-10-17",
+  "revision": "v2-2026.10.17",
+  "resources": 1675,
+  "resource_bytes": 903161325,
   "engine": "Godot 4.7.2",
   "runtime_sha256": {
     "DesktopFriends.exe": "50d6f4a44c96284e94e249b78cbb17a0368f706881d68eb87da243ee4bdc8431",
-    "DesktopFriends.pck": "5a7486603f0d9ad5619d4d1a4dabf47938a4aa79a4da1516d0282fa3332de9a3",
+    "DesktopFriends.pck": "d09d47291c84b15fb87b2093754a3a15c05daf813933465c4fe0a4b33ac3c90c",
     "animal-packs/pet-bear.pck": "26a64fea8269e3c577f4c873c30a295607f8a54423c0aa6c81d009221939058e",
     "animal-packs/pet-cat.pck": "2ab22f6dce8a79f9d04ae058c8282faa20dd040dd4aaa5c20018c6ac156327ad",
     "animal-packs/pet-fox.pck": "f87f0f1223866eecaaf924e1ba86075f4f0f7fdc8c2697ad51e387d03af47c67",

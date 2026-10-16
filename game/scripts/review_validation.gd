@@ -84,6 +84,7 @@ func run() -> void:
 		20:
 			await hands();release_response();await gaits();await mouse_toy();await rabbit_size();await plush_play();await alarm_clock();await targeted_walks();await ladder();await plant_scale();await acorn_play();await fox_actions();await put_away()
 		21: await grounded_contacts()
+		22: await fennec_redesign()
 		_: check(false,"unknown item "+str(item))
 	FileAccess.open(folder().path_join("headless.json" if DisplayServer.get_name()=="headless" else "native.json"),FileAccess.WRITE).store_string(JSON.stringify({"item":item,"passed":not failed,"checks":checks},"\t"))
 	print("REVIEW_VALIDATED item=",item," checks=",checks.size()," passed=",not failed)
@@ -238,11 +239,11 @@ func grounded_contacts() -> void:
 	for species in [1,5]:
 		for direction in [1,-1]:
 			var m=preload("res://scripts/desktop_pet_motion.gd").new()
-			m.species=species;m.autonomy=false;m.daily.enabled=false;m.floor_space=true;m.growth_scale=1;m.growth_stage=2;m.voice_left=0
+			m.species=species;m.smooth_walk_enabled=true;m.autonomy=false;m.daily.enabled=false;m.floor_space=true;m.growth_scale=1;m.growth_stage=2;m.voice_left=0
 			m.bounds=Rect2(-2000,-20,4000,40);m.feet=Vector2.ZERO;m.target=Vector2(direction*1000,0);m.phase="wander";m.facing=direction
 			var spec=preload("res://scripts/smooth_species_art.gd").spec(m)
-			check(spec.get("review_revision",0)==2,"new grounded bank "+str(species))
-			check(spec.cycle_seconds>1.5 and spec.cycle_seconds<2.2,"deliberate step contact timing "+str(species))
+			check(spec.get("review_revision",0)>=2,"new grounded bank "+str(species))
+			check(spec.cycle_seconds>(.8 if spec.get("review_revision",0)>=3 else 1.5) and spec.cycle_seconds<2.2,"reviewed step contact timing "+str(species))
 			var stride=m.smooth_walk_cycle.stride_length(m,spec)
 			check(is_equal_approx(stride/float(spec.cycle_seconds),26.1585365),"world speed preserved "+str(species))
 			var cels=preload("res://scripts/smooth_species_art.gd").frames(species,"adult")
@@ -264,6 +265,68 @@ func grounded_contacts() -> void:
 			check(absf(m.feet.x)>stride*1.95,"two complete strides "+str(species))
 			if is_instance_valid(viewport):viewport.queue_free();await get_tree().process_frame
 	FileAccess.open(folder().path_join("motion-traces.json"),FileAccess.WRITE).store_string(JSON.stringify(traces))
+	await gaits()
+
+func fennec_redesign() -> void:
+	app.pet.set_process(false)
+	var traces=[]
+	for fps in [30,60,144]:
+		var m=preload("res://scripts/desktop_pet_motion.gd").new()
+		m.species=5;m.smooth_walk_enabled=true;m.growth_scale=1;m.growth_stage=2;m.autonomy=false;m.daily.enabled=false;m.phase="wander";m.voice_left=0
+		m.feet=Vector2.ZERO;m.target=Vector2(10000,0);m.bounds=Rect2(-20000,-100,40000,200)
+		var meta=preload("res://scripts/smooth_species_art.gd").spec(m)
+		check(meta.get("skin_revision",0)==3 and meta.source_key_count==8,"eight authored fennec walk keys")
+		check(meta.get("continuous_stride",false) and meta.travel_curve.is_empty(),"constant world travel across loop boundaries")
+		check(meta.cycle_seconds>.8 and meta.cycle_seconds<1.4,"compact low-step walking period")
+		var seconds=0.0
+		for tick in range(fps*5):
+			var dt=1.0/fps
+			if tick%97==31:dt=float(meta.cycle_seconds)+.037
+			m.advance_travel(dt,1);seconds+=dt
+			if tick in [0,31,32,fps*5-1]:traces.append({"fps":fps,"tick":tick,"x":m.feet.x,"expected":seconds*26.1585365,"stride":m.smooth_walk_cycle.stride_length(m,meta),"period":meta.cycle_seconds,"growth":m.growth_scale,"cycle_age":m.smooth_walk_cycle.age})
+			check(absf(m.feet.x-seconds*26.1585365)<.012,"no elapsed-time loss or loop hitch %d/%d"%[fps,tick])
+	for bank in ["basic","interaction","life","daily","adventure"]:
+		var kinds={"basic":["idle","pet","sleep","eat"],"interaction":["carry","struggle","landing","dizzy","recover"],"life":["sofa","bed","play","bath"],"daily":["sad","peek","drink","sing","study","work","pajama","fight"],"adventure":["roll","fly"]}[bank]
+		for kind in kinds:
+			var sp=preload("res://scripts/action_codex_data.gd").descriptor(5,bank,kind)
+			check(sp.path.contains("fennec-v3") and FileAccess.file_exists(sp.path),"same fennec identity in "+bank+"/"+kind)
+			var image=Image.new();check(image.load_png_from_buffer(FileAccess.get_file_as_bytes(sp.path))==OK,"new atlas decodes "+bank+"/"+kind)
+			for i in range(sp.count):
+				var rect=image.get_region(Rect2i(i%sp.columns*sp.cell,int(i/sp.columns)*sp.cell,sp.cell,sp.cell)).get_used_rect()
+				check(rect.has_area() and rect.position.x>0 and rect.end.x<sp.cell and rect.position.y>0,"whole uncut frame %s/%s/%d"%[bank,kind,i])
+	for direction in [1,-1]:
+		var m=preload("res://scripts/desktop_pet_motion.gd").new()
+		m.species=5;m.smooth_walk_enabled=true;m.growth_scale=1;m.growth_stage=2;m.autonomy=false;m.daily.enabled=false;m.voice_left=0;m.phase="wander";m.facing=direction
+		m.feet=Vector2.ZERO;m.target=Vector2(direction*1000,0);m.bounds=Rect2(-2000,-100,4000,200)
+		var meta=preload("res://scripts/smooth_species_art.gd").spec(m)
+		render_setup(m)
+		if is_instance_valid(viewport):viewport.size=Vector2i(320,224)
+		for tick in range(int(ceil(float(meta.cycle_seconds)*180))):
+			m.advance_travel(1.0/60,1)
+			traces.append({"tick":tick,"direction":direction,"phase":m.walk_phase,"x":m.feet.x})
+			if is_instance_valid(viewport):
+				preview.position=Vector2((65 if direction==1 else 255)+m.feet.x,180)-preview.FEET
+				await capture("fox-%s-%03d"%["right" if direction==1 else "left",tick])
+		if is_instance_valid(viewport):viewport.queue_free();await get_tree().process_frame
+	FileAccess.open(folder().path_join("motion-traces.json"),FileAccess.WRITE).store_string(JSON.stringify(traces))
+	var idle_image=Image.new()
+	idle_image.load_png_from_buffer(FileAccess.get_file_as_bytes("res://assets/soft-roster-v2/fox/idle-fennec-v3.png"))
+	for kind in ["sofa","bed","play","bath"]:
+		var entry=preload("res://scripts/v2_life_art.gd").frames(5,kind,true)
+		check(entry.size()==17,"complete fennec furniture entry "+kind)
+		check(abs(entry[0].get_image().get_used_rect().size.y-idle_image.get_used_rect().size.y)<=1,"furniture entry starts with canonical idle proportions "+kind)
+	if DisplayServer.get_name()!="headless":
+		var m=preload("res://scripts/desktop_pet_motion.gd").new()
+		m.species=5;m.smooth_walk_enabled=true;m.growth_scale=1;m.growth_stage=2;m.autonomy=false;m.daily.enabled=false;m.voice_left=0;m.phase="home_use";m.action_left=20
+		render_setup(m)
+		for kind in ["sofa","bed","play","bath"]:
+			m.visit_id={"sofa":"home_sofa","bed":"home_daybed","play":"home_toy_plush","bath":"home_bathtub"}[kind]
+			for i in range(5):
+				m.elapsed=.64*float(i)/4
+				check(preload("res://scripts/v2_life_art.gd").sample(m).life_transition,"fennec furniture entry sampled "+kind)
+				await capture("fox-entry-%s-%02d"%[kind,i])
+		viewport.queue_free();await get_tree().process_frame
+	await fox_actions()
 	await gaits()
 
 func gaits() -> void:

@@ -6,72 +6,81 @@
     232
   ],
   "reference_height": 205,
-  "method": "AI whole-body drawings and whole-frame optical inbetweens; no limb cutting",
+  "method": "Fennec redesign; all poses are complete generated characters, whole-image intermediates; no limb recomposition",
   "source": "C:\\Users\\rlagk\\Documents\\복슬복슬펫\\output\\v2-behavior-library\\sources\\fox.png",
   "sequences": {
     "sad": {
-      "file": "sad.png",
+      "file": "sad-fennec-v3.png",
       "count": 32,
       "columns": 8,
       "duration": 3.5,
       "generated_keys": 4,
-      "loop": true
+      "loop": true,
+      "skin_revision": 3
     },
     "peek": {
-      "file": "peek.png",
+      "file": "peek-fennec-v3.png",
       "count": 32,
       "columns": 8,
       "duration": 3.2,
       "generated_keys": 4,
-      "loop": true
+      "loop": true,
+      "skin_revision": 3
     },
     "drink": {
-      "file": "drink.png",
+      "file": "drink-fennec-v3.png",
       "count": 32,
       "columns": 8,
       "duration": 3.2,
       "generated_keys": 4,
-      "loop": true
+      "loop": true,
+      "skin_revision": 3
     },
     "sing": {
-      "file": "sing.png",
+      "file": "sing-fennec-v3.png",
       "count": 32,
       "columns": 8,
       "duration": 3.2,
       "generated_keys": 4,
-      "loop": true
+      "loop": true,
+      "skin_revision": 3
     },
     "study": {
-      "file": "study.png",
+      "file": "study-fennec-v3.png",
       "count": 32,
       "columns": 8,
       "duration": 4.8,
       "generated_keys": 4,
-      "loop": true
+      "loop": true,
+      "skin_revision": 3
     },
     "work": {
-      "file": "work.png",
+      "file": "work-fennec-v3.png",
       "count": 32,
       "columns": 8,
       "duration": 3.8,
       "generated_keys": 4,
-      "loop": true
+      "loop": true,
+      "skin_revision": 3
     },
     "pajama": {
-      "file": "pajama.png",
+      "file": "pajama-fennec-v3.png",
       "count": 32,
       "columns": 8,
       "duration": 4.8,
       "generated_keys": 4,
-      "loop": true
+      "loop": true,
+      "skin_revision": 3
     },
     "fight": {
-      "file": "fight.png",
+      "file": "fight-fennec-v3.png",
       "count": 32,
       "columns": 8,
       "duration": 3.2,
       "generated_keys": 4,
-      "loop": true
+      "loop": true,
+      "skin_revision": 3
     }
-  }
+  },
+  "skin_revision": 3
 }

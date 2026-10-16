@@ -8,47 +8,53 @@
     128,
     232
   ],
-  "method": "20 generated whole-body keys, full-frame RIFE inbetweens; no chopped limb rig",
+  "method": "Fennec redesign; all poses are complete generated characters, whole-image intermediates; no limb recomposition",
   "sequences": {
     "carry": {
-      "file": "carry.png",
+      "file": "carry-fennec-v3.png",
       "count": 32,
       "columns": 8,
       "duration": 2.8,
       "loop": true,
-      "generated_keys": 4
+      "generated_keys": 4,
+      "skin_revision": 3
     },
     "struggle": {
-      "file": "struggle.png",
+      "file": "struggle-fennec-v3.png",
       "count": 32,
       "columns": 8,
       "duration": 1.4,
       "loop": true,
-      "generated_keys": 4
+      "generated_keys": 4,
+      "skin_revision": 3
     },
     "landing": {
-      "file": "landing.png",
+      "file": "landing-fennec-v3.png",
       "count": 32,
       "columns": 8,
       "duration": 0.45,
       "loop": false,
-      "generated_keys": 4
+      "generated_keys": 4,
+      "skin_revision": 3
     },
     "dizzy": {
-      "file": "dizzy.png",
+      "file": "dizzy-fennec-v3.png",
       "count": 32,
       "columns": 8,
       "duration": 1.4,
       "loop": true,
-      "generated_keys": 4
+      "generated_keys": 4,
+      "skin_revision": 3
     },
     "recover": {
-      "file": "recover.png",
+      "file": "recover-fennec-v3.png",
       "count": 32,
       "columns": 8,
       "duration": 0.65,
       "loop": false,
-      "generated_keys": 4
+      "generated_keys": 4,
+      "skin_revision": 3
     }
-  }
+  },
+  "skin_revision": 3
 }

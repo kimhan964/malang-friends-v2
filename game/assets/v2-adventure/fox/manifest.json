@@ -12,18 +12,24 @@
   ],
   "sequences": {
     "roll": {
-      "file": "roll.png",
+      "file": "roll-fennec-v3.png",
       "count": 32,
       "columns": 8,
       "cell": 320,
-      "duration": 2.4
+      "duration": 2.4,
+      "generated_keys": 4,
+      "skin_revision": 3
     },
     "fly": {
-      "file": "fly.png",
+      "file": "fly-fennec-v3.png",
       "count": 32,
       "columns": 8,
       "cell": 320,
-      "duration": 1.4
+      "duration": 1.4,
+      "generated_keys": 4,
+      "skin_revision": 3
     }
-  }
+  },
+  "skin_revision": 3,
+  "method": "Fennec redesign; all poses are complete generated characters, whole-image intermediates; no limb recomposition"
 }
