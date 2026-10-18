@@ -20,7 +20,7 @@ func capture(label: String,expected: String) -> void:
 	app.pet.view.refresh()
 	var sample: Dictionary=app.pet.view.generated_sample
 	check(sample.get("soft_roster",false) and sample.bank==expected,"route "+label)
-	check(is_equal_approx(absf(app.pet.view.sprite.scale.y),Catalog.DISPLAY_HEIGHT*app.pet.motion.growth_scale/float(sample.height)),"render size "+label)
+	check(is_equal_approx(absf(app.pet.view.sprite.scale.y),Catalog.DISPLAY_HEIGHT*Catalog.HEIGHTS[app.pet.motion.species]*app.pet.motion.growth_scale/float(sample.height)),"render size "+label)
 	if DisplayServer.get_name()=="headless": return
 	await RenderingServer.frame_post_draw
 	var image: Image=app.pet.get_texture().get_image()
@@ -72,8 +72,8 @@ func run() -> void:
 				m.smooth_walk_cycle.reset()
 				for i in range(96): m.advance_travel(float(metadata.cycle_seconds)/96,1.0)
 				var new_speed: float=absf(m.feet.x-start.x)/float(metadata.cycle_seconds)
-				var old_speed: float=float(metadata.stride)*110.0*m.growth_scale/float(metadata.reference_height)/1.6
-				check(absf(new_speed/old_speed-1.3)<.0001,"world speed 1.3x "+stem)
+				var old_speed: float=float(metadata.stride)*Catalog.DISPLAY_HEIGHT*Catalog.HEIGHTS[species]*m.growth_scale/float(metadata.reference_height)/float(metadata.cycle_seconds)
+				check(absf(new_speed/old_speed-1.0)<.0001,"complete authored stride at current pace "+stem)
 				movement.append({"species":Catalog.IDS[species],"stage":stage,"facing":facing,"previous_pixels_per_second":old_speed,"pixels_per_second":new_speed,"ratio":new_speed/old_speed,"cycle_seconds":metadata.cycle_seconds})
 				m.cancel_play()
 				m.feet=start
@@ -101,7 +101,7 @@ func run() -> void:
 				var old_y: float=m.feet.y
 				tick(.06)
 				check(m.feet.y>=old_y,"fall gravity "+stem)
-				await capture(stem+"-fall","carry")
+				await capture(stem+"-fall","landing")
 				for i in range(120):
 					pet.advance_frame(1.0/60)
 					if m.phase=="dizzy": break
@@ -136,7 +136,7 @@ func run() -> void:
 				m.cancel_play()
 		print("INTERACTION_NATIVE_CHECKED ",Catalog.IDS[species])
 	var file=FileAccess.open(output().path_join("interaction-validation.json"),FileAccess.WRITE)
-	file.store_string(JSON.stringify({"passed":not failed,"species":16,"display_scale":2.0/3,"world_speed_multiplier":1.3,"walk_seconds":1.6*(2.0/3)/1.3,"movement":movement,"checks":checks,"captures":captures,"mode":DisplayServer.get_name(),"save_scope":"in-memory validation state"},"\t"))
+	file.store_string(JSON.stringify({"passed":not failed,"species":16,"display_scale":2.0/3,"world_speed_multiplier":Catalog.WORLD_SPEED_MULTIPLIER,"movement":movement,"checks":checks,"captures":captures,"mode":DisplayServer.get_name(),"save_scope":"in-memory validation state"},"\t"))
 	print("INTERACTION_VALIDATED ",checks.size()," captures=",captures.size()," passed=",not failed)
 	get_tree().quit(3 if failed else 0)
 

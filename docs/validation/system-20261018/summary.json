@@ -1,0 +1,48 @@
+{
+  "date": "2026-10-18",
+  "suites": [
+    {
+      "suite": "system",
+      "result": "SYSTEM_AUDIT_VALIDATED checks=476 passed=true",
+      "passed": true
+    },
+    {
+      "suite": "migration",
+      "result": "MIGRATION_VALIDATED 294 passed=true",
+      "passed": true
+    },
+    {
+      "suite": "interaction",
+      "result": "INTERACTION_VALIDATED 1729 captures=0 passed=true",
+      "passed": true
+    },
+    {
+      "suite": "life",
+      "result": "LIFE_VALIDATED 1323 captures=0 passed=true",
+      "passed": true
+    },
+    {
+      "suite": "scene",
+      "result": "SCENE_VALIDATED 1938 passed=true",
+      "passed": true
+    },
+    {
+      "suite": "daily",
+      "result": "DAILY_VALIDATED 5154 captures=0 passed=true",
+      "passed": true
+    },
+    {
+      "suite": "discovery",
+      "result": "BATH_E2E_VALIDATED 2575 passed=true",
+      "passed": true
+    }
+  ],
+  "native": "SYSTEM_AUDIT_VALIDATED checks=1017 passed=true",
+  "player_save_unchanged": true,
+  "save_sha256": "0ff29401a22ec6db14ea62622e79f81868c929e500274e100a6212c7507ba1da",
+  "walking_cases": 192,
+  "walking_max_error_before": 3.37118670902407,
+  "walking_max_error_after": 1.135694549248e-05,
+  "scope": "Production motion flags; 16 species x 2 growth stages x 2 directions x 3 simulation frame rates. Native 60 Hz rendered movement: hedgehog, fennec fox, otter, penguin.",
+  "limits": "Automated checks and representative rendered loops do not prove every visual pose or every monitor/DPI/Windows compositor configuration."
+}

@@ -29,6 +29,11 @@ func _ready() -> void:
 	super._ready()
 	if validating:
 		if discovery:
+			if OS.get_cmdline_user_args().has("--system-audit"):
+				var system_checker=preload("res://scripts/system_audit_validation.gd").new()
+				system_checker.app=self
+				add_child(system_checker);system_checker.run.call_deferred()
+				return
 			for argument in OS.get_cmdline_user_args():
 				if argument.begins_with("--review="):
 					var review_checker=preload("res://scripts/review_validation.gd").new()

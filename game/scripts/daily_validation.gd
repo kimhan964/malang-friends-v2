@@ -55,7 +55,7 @@ func run() -> void:
 				check(app.pet.view.generated_sample.bank=="daily-"+kind,"renderer selects "+Catalog.IDS[species]+"/"+kind)
 				check(app.pet.view.generated_sample.frame_mix==0,"no double silhouette "+Catalog.IDS[species]+"/"+kind)
 				await capture(Catalog.IDS[species]+"-"+kind+"-"+str(facing))
-			for i in range(750):
+			for i in range(ceili(preload("res://scripts/daily_behaviors.gd").duration(kind)*60)+2):
 				m.advance(1.0/60)
 				if m.phase!="daily_action": break
 			check(m.phase=="idle" and m.daily.action.is_empty(),"action returns idle "+Catalog.IDS[species]+"/"+kind)

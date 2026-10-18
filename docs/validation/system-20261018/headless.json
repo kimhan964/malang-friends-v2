@@ -1,0 +1,3639 @@
+{
+	"checks": [
+		{
+			"check": "elapsed travel 0/0/-1/30 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 0/0/-1/30",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 0/0/-1/60 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 0/0/-1/60",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 0/0/-1/144 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 0/0/-1/144",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 0/0/1/30 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 0/0/1/30",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 0/0/1/60 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 0/0/1/60",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 0/0/1/144 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 0/0/1/144",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 0/2/-1/30 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 0/2/-1/30",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 0/2/-1/60 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 0/2/-1/60",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 0/2/-1/144 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 0/2/-1/144",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 0/2/1/30 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 0/2/1/30",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 0/2/1/60 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 0/2/1/60",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 0/2/1/144 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 0/2/1/144",
+			"passed": true
+		},
+		{
+			"check": "screen boundary 0",
+			"passed": true
+		},
+		{
+			"check": "edge visit completes 0",
+			"passed": true
+		},
+		{
+			"check": "delayed frame consumes two contacts 0",
+			"passed": true
+		},
+		{
+			"check": "interrupted walk reverses without stale destination 0",
+			"passed": true
+		},
+		{
+			"check": "follow timeout ends at contact 0",
+			"passed": true
+		},
+		{
+			"check": "queued run starts after contact 0",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 1/0/-1/30 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 1/0/-1/30",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 1/0/-1/60 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 1/0/-1/60",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 1/0/-1/144 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 1/0/-1/144",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 1/0/1/30 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 1/0/1/30",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 1/0/1/60 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 1/0/1/60",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 1/0/1/144 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 1/0/1/144",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 1/2/-1/30 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 1/2/-1/30",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 1/2/-1/60 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 1/2/-1/60",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 1/2/-1/144 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 1/2/-1/144",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 1/2/1/30 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 1/2/1/30",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 1/2/1/60 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 1/2/1/60",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 1/2/1/144 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 1/2/1/144",
+			"passed": true
+		},
+		{
+			"check": "screen boundary 1",
+			"passed": true
+		},
+		{
+			"check": "edge visit completes 1",
+			"passed": true
+		},
+		{
+			"check": "delayed frame consumes two contacts 1",
+			"passed": true
+		},
+		{
+			"check": "interrupted walk reverses without stale destination 1",
+			"passed": true
+		},
+		{
+			"check": "follow timeout ends at contact 1",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 2/0/-1/30 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 2/0/-1/30",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 2/0/-1/60 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 2/0/-1/60",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 2/0/-1/144 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 2/0/-1/144",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 2/0/1/30 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 2/0/1/30",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 2/0/1/60 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 2/0/1/60",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 2/0/1/144 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 2/0/1/144",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 2/2/-1/30 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 2/2/-1/30",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 2/2/-1/60 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 2/2/-1/60",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 2/2/-1/144 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 2/2/-1/144",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 2/2/1/30 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 2/2/1/30",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 2/2/1/60 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 2/2/1/60",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 2/2/1/144 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 2/2/1/144",
+			"passed": true
+		},
+		{
+			"check": "screen boundary 2",
+			"passed": true
+		},
+		{
+			"check": "edge visit completes 2",
+			"passed": true
+		},
+		{
+			"check": "delayed frame consumes two contacts 2",
+			"passed": true
+		},
+		{
+			"check": "interrupted walk reverses without stale destination 2",
+			"passed": true
+		},
+		{
+			"check": "follow timeout ends at contact 2",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 3/0/-1/30 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 3/0/-1/30",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 3/0/-1/60 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 3/0/-1/60",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 3/0/-1/144 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 3/0/-1/144",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 3/0/1/30 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 3/0/1/30",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 3/0/1/60 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 3/0/1/60",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 3/0/1/144 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 3/0/1/144",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 3/2/-1/30 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 3/2/-1/30",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 3/2/-1/60 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 3/2/-1/60",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 3/2/-1/144 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 3/2/-1/144",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 3/2/1/30 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 3/2/1/30",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 3/2/1/60 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 3/2/1/60",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 3/2/1/144 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 3/2/1/144",
+			"passed": true
+		},
+		{
+			"check": "screen boundary 3",
+			"passed": true
+		},
+		{
+			"check": "edge visit completes 3",
+			"passed": true
+		},
+		{
+			"check": "delayed frame consumes two contacts 3",
+			"passed": true
+		},
+		{
+			"check": "interrupted walk reverses without stale destination 3",
+			"passed": true
+		},
+		{
+			"check": "follow timeout ends at contact 3",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 4/0/-1/30 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 4/0/-1/30",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 4/0/-1/60 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 4/0/-1/60",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 4/0/-1/144 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 4/0/-1/144",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 4/0/1/30 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 4/0/1/30",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 4/0/1/60 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 4/0/1/60",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 4/0/1/144 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 4/0/1/144",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 4/2/-1/30 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 4/2/-1/30",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 4/2/-1/60 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 4/2/-1/60",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 4/2/-1/144 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 4/2/-1/144",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 4/2/1/30 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 4/2/1/30",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 4/2/1/60 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 4/2/1/60",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 4/2/1/144 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 4/2/1/144",
+			"passed": true
+		},
+		{
+			"check": "screen boundary 4",
+			"passed": true
+		},
+		{
+			"check": "edge visit completes 4",
+			"passed": true
+		},
+		{
+			"check": "delayed frame consumes two contacts 4",
+			"passed": true
+		},
+		{
+			"check": "interrupted walk reverses without stale destination 4",
+			"passed": true
+		},
+		{
+			"check": "follow timeout ends at contact 4",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 5/0/-1/30 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 5/0/-1/30",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 5/0/-1/60 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 5/0/-1/60",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 5/0/-1/144 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 5/0/-1/144",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 5/0/1/30 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 5/0/1/30",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 5/0/1/60 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 5/0/1/60",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 5/0/1/144 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 5/0/1/144",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 5/2/-1/30 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 5/2/-1/30",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 5/2/-1/60 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 5/2/-1/60",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 5/2/-1/144 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 5/2/-1/144",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 5/2/1/30 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 5/2/1/30",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 5/2/1/60 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 5/2/1/60",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 5/2/1/144 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 5/2/1/144",
+			"passed": true
+		},
+		{
+			"check": "screen boundary 5",
+			"passed": true
+		},
+		{
+			"check": "edge visit completes 5",
+			"passed": true
+		},
+		{
+			"check": "delayed frame consumes two contacts 5",
+			"passed": true
+		},
+		{
+			"check": "interrupted walk reverses without stale destination 5",
+			"passed": true
+		},
+		{
+			"check": "follow timeout ends at contact 5",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 6/0/-1/30 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 6/0/-1/30",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 6/0/-1/60 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 6/0/-1/60",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 6/0/-1/144 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 6/0/-1/144",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 6/0/1/30 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 6/0/1/30",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 6/0/1/60 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 6/0/1/60",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 6/0/1/144 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 6/0/1/144",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 6/2/-1/30 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 6/2/-1/30",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 6/2/-1/60 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 6/2/-1/60",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 6/2/-1/144 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 6/2/-1/144",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 6/2/1/30 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 6/2/1/30",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 6/2/1/60 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 6/2/1/60",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 6/2/1/144 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 6/2/1/144",
+			"passed": true
+		},
+		{
+			"check": "screen boundary 6",
+			"passed": true
+		},
+		{
+			"check": "edge visit completes 6",
+			"passed": true
+		},
+		{
+			"check": "delayed frame consumes two contacts 6",
+			"passed": true
+		},
+		{
+			"check": "interrupted walk reverses without stale destination 6",
+			"passed": true
+		},
+		{
+			"check": "follow timeout ends at contact 6",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 7/0/-1/30 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 7/0/-1/30",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 7/0/-1/60 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 7/0/-1/60",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 7/0/-1/144 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 7/0/-1/144",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 7/0/1/30 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 7/0/1/30",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 7/0/1/60 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 7/0/1/60",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 7/0/1/144 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 7/0/1/144",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 7/2/-1/30 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 7/2/-1/30",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 7/2/-1/60 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 7/2/-1/60",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 7/2/-1/144 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 7/2/-1/144",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 7/2/1/30 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 7/2/1/30",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 7/2/1/60 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 7/2/1/60",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 7/2/1/144 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 7/2/1/144",
+			"passed": true
+		},
+		{
+			"check": "screen boundary 7",
+			"passed": true
+		},
+		{
+			"check": "edge visit completes 7",
+			"passed": true
+		},
+		{
+			"check": "delayed frame consumes two contacts 7",
+			"passed": true
+		},
+		{
+			"check": "interrupted walk reverses without stale destination 7",
+			"passed": true
+		},
+		{
+			"check": "follow timeout ends at contact 7",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 8/0/-1/30 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 8/0/-1/30",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 8/0/-1/60 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 8/0/-1/60",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 8/0/-1/144 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 8/0/-1/144",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 8/0/1/30 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 8/0/1/30",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 8/0/1/60 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 8/0/1/60",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 8/0/1/144 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 8/0/1/144",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 8/2/-1/30 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 8/2/-1/30",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 8/2/-1/60 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 8/2/-1/60",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 8/2/-1/144 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 8/2/-1/144",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 8/2/1/30 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 8/2/1/30",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 8/2/1/60 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 8/2/1/60",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 8/2/1/144 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 8/2/1/144",
+			"passed": true
+		},
+		{
+			"check": "screen boundary 8",
+			"passed": true
+		},
+		{
+			"check": "edge visit completes 8",
+			"passed": true
+		},
+		{
+			"check": "delayed frame consumes two contacts 8",
+			"passed": true
+		},
+		{
+			"check": "interrupted walk reverses without stale destination 8",
+			"passed": true
+		},
+		{
+			"check": "follow timeout ends at contact 8",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 9/0/-1/30 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 9/0/-1/30",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 9/0/-1/60 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 9/0/-1/60",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 9/0/-1/144 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 9/0/-1/144",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 9/0/1/30 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 9/0/1/30",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 9/0/1/60 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 9/0/1/60",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 9/0/1/144 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 9/0/1/144",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 9/2/-1/30 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 9/2/-1/30",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 9/2/-1/60 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 9/2/-1/60",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 9/2/-1/144 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 9/2/-1/144",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 9/2/1/30 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 9/2/1/30",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 9/2/1/60 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 9/2/1/60",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 9/2/1/144 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 9/2/1/144",
+			"passed": true
+		},
+		{
+			"check": "screen boundary 9",
+			"passed": true
+		},
+		{
+			"check": "edge visit completes 9",
+			"passed": true
+		},
+		{
+			"check": "delayed frame consumes two contacts 9",
+			"passed": true
+		},
+		{
+			"check": "interrupted walk reverses without stale destination 9",
+			"passed": true
+		},
+		{
+			"check": "follow timeout ends at contact 9",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 10/0/-1/30 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 10/0/-1/30",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 10/0/-1/60 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 10/0/-1/60",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 10/0/-1/144 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 10/0/-1/144",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 10/0/1/30 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 10/0/1/30",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 10/0/1/60 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 10/0/1/60",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 10/0/1/144 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 10/0/1/144",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 10/2/-1/30 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 10/2/-1/30",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 10/2/-1/60 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 10/2/-1/60",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 10/2/-1/144 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 10/2/-1/144",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 10/2/1/30 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 10/2/1/30",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 10/2/1/60 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 10/2/1/60",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 10/2/1/144 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 10/2/1/144",
+			"passed": true
+		},
+		{
+			"check": "screen boundary 10",
+			"passed": true
+		},
+		{
+			"check": "edge visit completes 10",
+			"passed": true
+		},
+		{
+			"check": "delayed frame consumes two contacts 10",
+			"passed": true
+		},
+		{
+			"check": "interrupted walk reverses without stale destination 10",
+			"passed": true
+		},
+		{
+			"check": "follow timeout ends at contact 10",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 11/0/-1/30 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 11/0/-1/30",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 11/0/-1/60 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 11/0/-1/60",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 11/0/-1/144 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 11/0/-1/144",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 11/0/1/30 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 11/0/1/30",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 11/0/1/60 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 11/0/1/60",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 11/0/1/144 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 11/0/1/144",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 11/2/-1/30 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 11/2/-1/30",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 11/2/-1/60 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 11/2/-1/60",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 11/2/-1/144 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 11/2/-1/144",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 11/2/1/30 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 11/2/1/30",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 11/2/1/60 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 11/2/1/60",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 11/2/1/144 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 11/2/1/144",
+			"passed": true
+		},
+		{
+			"check": "screen boundary 11",
+			"passed": true
+		},
+		{
+			"check": "edge visit completes 11",
+			"passed": true
+		},
+		{
+			"check": "delayed frame consumes two contacts 11",
+			"passed": true
+		},
+		{
+			"check": "interrupted walk reverses without stale destination 11",
+			"passed": true
+		},
+		{
+			"check": "follow timeout ends at contact 11",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 12/0/-1/30 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 12/0/-1/30",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 12/0/-1/60 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 12/0/-1/60",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 12/0/-1/144 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 12/0/-1/144",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 12/0/1/30 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 12/0/1/30",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 12/0/1/60 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 12/0/1/60",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 12/0/1/144 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 12/0/1/144",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 12/2/-1/30 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 12/2/-1/30",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 12/2/-1/60 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 12/2/-1/60",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 12/2/-1/144 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 12/2/-1/144",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 12/2/1/30 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 12/2/1/30",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 12/2/1/60 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 12/2/1/60",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 12/2/1/144 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 12/2/1/144",
+			"passed": true
+		},
+		{
+			"check": "screen boundary 12",
+			"passed": true
+		},
+		{
+			"check": "edge visit completes 12",
+			"passed": true
+		},
+		{
+			"check": "delayed frame consumes two contacts 12",
+			"passed": true
+		},
+		{
+			"check": "interrupted walk reverses without stale destination 12",
+			"passed": true
+		},
+		{
+			"check": "follow timeout ends at contact 12",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 13/0/-1/30 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 13/0/-1/30",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 13/0/-1/60 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 13/0/-1/60",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 13/0/-1/144 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 13/0/-1/144",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 13/0/1/30 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 13/0/1/30",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 13/0/1/60 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 13/0/1/60",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 13/0/1/144 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 13/0/1/144",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 13/2/-1/30 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 13/2/-1/30",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 13/2/-1/60 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 13/2/-1/60",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 13/2/-1/144 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 13/2/-1/144",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 13/2/1/30 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 13/2/1/30",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 13/2/1/60 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 13/2/1/60",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 13/2/1/144 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 13/2/1/144",
+			"passed": true
+		},
+		{
+			"check": "screen boundary 13",
+			"passed": true
+		},
+		{
+			"check": "edge visit completes 13",
+			"passed": true
+		},
+		{
+			"check": "delayed frame consumes two contacts 13",
+			"passed": true
+		},
+		{
+			"check": "interrupted walk reverses without stale destination 13",
+			"passed": true
+		},
+		{
+			"check": "follow timeout ends at contact 13",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 14/0/-1/30 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 14/0/-1/30",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 14/0/-1/60 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 14/0/-1/60",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 14/0/-1/144 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 14/0/-1/144",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 14/0/1/30 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 14/0/1/30",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 14/0/1/60 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 14/0/1/60",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 14/0/1/144 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 14/0/1/144",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 14/2/-1/30 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 14/2/-1/30",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 14/2/-1/60 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 14/2/-1/60",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 14/2/-1/144 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 14/2/-1/144",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 14/2/1/30 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 14/2/1/30",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 14/2/1/60 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 14/2/1/60",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 14/2/1/144 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 14/2/1/144",
+			"passed": true
+		},
+		{
+			"check": "screen boundary 14",
+			"passed": true
+		},
+		{
+			"check": "edge visit completes 14",
+			"passed": true
+		},
+		{
+			"check": "delayed frame consumes two contacts 14",
+			"passed": true
+		},
+		{
+			"check": "interrupted walk reverses without stale destination 14",
+			"passed": true
+		},
+		{
+			"check": "follow timeout ends at contact 14",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 15/0/-1/30 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 15/0/-1/30",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 15/0/-1/60 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 15/0/-1/60",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 15/0/-1/144 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 15/0/-1/144",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 15/0/1/30 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 15/0/1/30",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 15/0/1/60 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 15/0/1/60",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 15/0/1/144 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 15/0/1/144",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 15/2/-1/30 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 15/2/-1/30",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 15/2/-1/60 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 15/2/-1/60",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 15/2/-1/144 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 15/2/-1/144",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 15/2/1/30 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 15/2/1/30",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 15/2/1/60 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 15/2/1/60",
+			"passed": true
+		},
+		{
+			"check": "elapsed travel 15/2/1/144 error=0.0000",
+			"passed": true
+		},
+		{
+			"check": "cycle remainder 15/2/1/144",
+			"passed": true
+		},
+		{
+			"check": "screen boundary 15",
+			"passed": true
+		},
+		{
+			"check": "edge visit completes 15",
+			"passed": true
+		},
+		{
+			"check": "delayed frame consumes two contacts 15",
+			"passed": true
+		},
+		{
+			"check": "interrupted walk reverses without stale destination 15",
+			"passed": true
+		},
+		{
+			"check": "follow timeout ends at contact 15",
+			"passed": true
+		},
+		{
+			"check": "completed care recorded home_wall_shelf",
+			"passed": true
+		},
+		{
+			"check": "completed care recorded home_fireplace",
+			"passed": true
+		},
+		{
+			"check": "toy pursuit crosses floor rug",
+			"passed": true
+		},
+		{
+			"check": "held plush hidden",
+			"passed": true
+		},
+		{
+			"check": "interrupted plush restored once",
+			"passed": true
+		},
+		{
+			"check": "bath arrival works",
+			"passed": true
+		},
+		{
+			"check": "removing active bath cancels action",
+			"passed": true
+		},
+		{
+			"check": "save round trip negative monitor and scale",
+			"passed": true
+		},
+		{
+			"check": "truncated save recovers last good backup",
+			"passed": true
+		},
+		{
+			"check": "malformed migration version keeps valid fields",
+			"passed": true
+		},
+		{
+			"check": "unwritable path reports save failure",
+			"passed": true
+		}
+	],
+	"passed": true,
+	"walking": [
+		{
+			"actual": 144.219390869141,
+			"direction": -1,
+			"error": 0.00001135694549248,
+			"expected": 144.219379512195,
+			"fps": 30,
+			"species": 0,
+			"stage": 0
+		},
+		{
+			"actual": 144.219390869141,
+			"direction": -1,
+			"error": 0.00001135694549248,
+			"expected": 144.219379512195,
+			"fps": 60,
+			"species": 0,
+			"stage": 0
+		},
+		{
+			"actual": 144.219390869141,
+			"direction": -1,
+			"error": 0.00001135694549248,
+			"expected": 144.219379512195,
+			"fps": 144,
+			"species": 0,
+			"stage": 0
+		},
+		{
+			"actual": 144.219390869141,
+			"direction": 1,
+			"error": 0.00001135694549248,
+			"expected": 144.219379512195,
+			"fps": 30,
+			"species": 0,
+			"stage": 0
+		},
+		{
+			"actual": 144.219390869141,
+			"direction": 1,
+			"error": 0.00001135694549248,
+			"expected": 144.219379512195,
+			"fps": 60,
+			"species": 0,
+			"stage": 0
+		},
+		{
+			"actual": 144.219390869141,
+			"direction": 1,
+			"error": 0.00001135694549248,
+			"expected": 144.219379512195,
+			"fps": 144,
+			"species": 0,
+			"stage": 0
+		},
+		{
+			"actual": 155.074600219727,
+			"direction": -1,
+			"error": 0.00000140628969802492,
+			"expected": 155.074601626016,
+			"fps": 30,
+			"species": 0,
+			"stage": 2
+		},
+		{
+			"actual": 155.074600219727,
+			"direction": -1,
+			"error": 0.00000140628969802492,
+			"expected": 155.074601626016,
+			"fps": 60,
+			"species": 0,
+			"stage": 2
+		},
+		{
+			"actual": 155.074600219727,
+			"direction": -1,
+			"error": 0.00000140628969802492,
+			"expected": 155.074601626016,
+			"fps": 144,
+			"species": 0,
+			"stage": 2
+		},
+		{
+			"actual": 155.074600219727,
+			"direction": 1,
+			"error": 0.00000140628969802492,
+			"expected": 155.074601626016,
+			"fps": 30,
+			"species": 0,
+			"stage": 2
+		},
+		{
+			"actual": 155.074600219727,
+			"direction": 1,
+			"error": 0.00000140628969802492,
+			"expected": 155.074601626016,
+			"fps": 60,
+			"species": 0,
+			"stage": 2
+		},
+		{
+			"actual": 155.074600219727,
+			"direction": 1,
+			"error": 0.00000140628969802492,
+			"expected": 155.074601626016,
+			"fps": 144,
+			"species": 0,
+			"stage": 2
+		},
+		{
+			"actual": 225.671661376953,
+			"direction": -1,
+			"error": 0.00000175563235416121,
+			"expected": 225.671659621321,
+			"fps": 30,
+			"species": 1,
+			"stage": 0
+		},
+		{
+			"actual": 225.671661376953,
+			"direction": -1,
+			"error": 0.00000175563235416121,
+			"expected": 225.671659621321,
+			"fps": 60,
+			"species": 1,
+			"stage": 0
+		},
+		{
+			"actual": 225.671661376953,
+			"direction": -1,
+			"error": 0.00000175563235416121,
+			"expected": 225.671659621321,
+			"fps": 144,
+			"species": 1,
+			"stage": 0
+		},
+		{
+			"actual": 225.671661376953,
+			"direction": 1,
+			"error": 0.00000175563235416121,
+			"expected": 225.671659621321,
+			"fps": 30,
+			"species": 1,
+			"stage": 0
+		},
+		{
+			"actual": 225.671661376953,
+			"direction": 1,
+			"error": 0.00000175563235416121,
+			"expected": 225.671659621321,
+			"fps": 60,
+			"species": 1,
+			"stage": 0
+		},
+		{
+			"actual": 225.671661376953,
+			"direction": 1,
+			"error": 0.00000175563235416121,
+			"expected": 225.671659621321,
+			"fps": 144,
+			"species": 1,
+			"stage": 0
+		},
+		{
+			"actual": 242.657699584961,
+			"direction": -1,
+			"error": 0.00000106741174477065,
+			"expected": 242.657698517549,
+			"fps": 30,
+			"species": 1,
+			"stage": 2
+		},
+		{
+			"actual": 242.657699584961,
+			"direction": -1,
+			"error": 0.00000106741174477065,
+			"expected": 242.657698517549,
+			"fps": 60,
+			"species": 1,
+			"stage": 2
+		},
+		{
+			"actual": 242.657699584961,
+			"direction": -1,
+			"error": 0.00000106741174477065,
+			"expected": 242.657698517549,
+			"fps": 144,
+			"species": 1,
+			"stage": 2
+		},
+		{
+			"actual": 242.657699584961,
+			"direction": 1,
+			"error": 0.00000106741174477065,
+			"expected": 242.657698517549,
+			"fps": 30,
+			"species": 1,
+			"stage": 2
+		},
+		{
+			"actual": 242.657699584961,
+			"direction": 1,
+			"error": 0.00000106741174477065,
+			"expected": 242.657698517549,
+			"fps": 60,
+			"species": 1,
+			"stage": 2
+		},
+		{
+			"actual": 242.657699584961,
+			"direction": 1,
+			"error": 0.00000106741174477065,
+			"expected": 242.657698517549,
+			"fps": 144,
+			"species": 1,
+			"stage": 2
+		},
+		{
+			"actual": 72.6912155151367,
+			"direction": -1,
+			"error": 0.0000039970584140292,
+			"expected": 72.6912195121951,
+			"fps": 30,
+			"species": 2,
+			"stage": 0
+		},
+		{
+			"actual": 72.6912155151367,
+			"direction": -1,
+			"error": 0.0000039970584140292,
+			"expected": 72.6912195121951,
+			"fps": 60,
+			"species": 2,
+			"stage": 0
+		},
+		{
+			"actual": 72.6912155151367,
+			"direction": -1,
+			"error": 0.0000039970584140292,
+			"expected": 72.6912195121951,
+			"fps": 144,
+			"species": 2,
+			"stage": 0
+		},
+		{
+			"actual": 72.6912155151367,
+			"direction": 1,
+			"error": 0.0000039970584140292,
+			"expected": 72.6912195121951,
+			"fps": 30,
+			"species": 2,
+			"stage": 0
+		},
+		{
+			"actual": 72.6912155151367,
+			"direction": 1,
+			"error": 0.0000039970584140292,
+			"expected": 72.6912195121951,
+			"fps": 60,
+			"species": 2,
+			"stage": 0
+		},
+		{
+			"actual": 72.6912155151367,
+			"direction": 1,
+			"error": 0.0000039970584140292,
+			"expected": 72.6912195121951,
+			"fps": 144,
+			"species": 2,
+			"stage": 0
+		},
+		{
+			"actual": 78.16259765625,
+			"direction": -1,
+			"error": 0.00000396976626859669,
+			"expected": 78.1626016260163,
+			"fps": 30,
+			"species": 2,
+			"stage": 2
+		},
+		{
+			"actual": 78.16259765625,
+			"direction": -1,
+			"error": 0.00000396976626859669,
+			"expected": 78.1626016260163,
+			"fps": 60,
+			"species": 2,
+			"stage": 2
+		},
+		{
+			"actual": 78.16259765625,
+			"direction": -1,
+			"error": 0.00000396976626859669,
+			"expected": 78.1626016260163,
+			"fps": 144,
+			"species": 2,
+			"stage": 2
+		},
+		{
+			"actual": 78.16259765625,
+			"direction": 1,
+			"error": 0.00000396976626859669,
+			"expected": 78.1626016260163,
+			"fps": 30,
+			"species": 2,
+			"stage": 2
+		},
+		{
+			"actual": 78.16259765625,
+			"direction": 1,
+			"error": 0.00000396976626859669,
+			"expected": 78.1626016260163,
+			"fps": 60,
+			"species": 2,
+			"stage": 2
+		},
+		{
+			"actual": 78.16259765625,
+			"direction": 1,
+			"error": 0.00000396976626859669,
+			"expected": 78.1626016260163,
+			"fps": 144,
+			"species": 2,
+			"stage": 2
+		},
+		{
+			"actual": 65.4220962524414,
+			"direction": -1,
+			"error": 0.00000130853420898802,
+			"expected": 65.4220975609756,
+			"fps": 30,
+			"species": 3,
+			"stage": 0
+		},
+		{
+			"actual": 65.4220962524414,
+			"direction": -1,
+			"error": 0.00000130853420898802,
+			"expected": 65.4220975609756,
+			"fps": 60,
+			"species": 3,
+			"stage": 0
+		},
+		{
+			"actual": 65.4220962524414,
+			"direction": -1,
+			"error": 0.00000130853420898802,
+			"expected": 65.4220975609756,
+			"fps": 144,
+			"species": 3,
+			"stage": 0
+		},
+		{
+			"actual": 65.4220962524414,
+			"direction": 1,
+			"error": 0.00000130853420898802,
+			"expected": 65.4220975609756,
+			"fps": 30,
+			"species": 3,
+			"stage": 0
+		},
+		{
+			"actual": 65.4220962524414,
+			"direction": 1,
+			"error": 0.00000130853420898802,
+			"expected": 65.4220975609756,
+			"fps": 60,
+			"species": 3,
+			"stage": 0
+		},
+		{
+			"actual": 65.4220962524414,
+			"direction": 1,
+			"error": 0.00000130853420898802,
+			"expected": 65.4220975609756,
+			"fps": 144,
+			"species": 3,
+			"stage": 0
+		},
+		{
+			"actual": 70.3463439941406,
+			"direction": -1,
+			"error": 0.00000253072599321058,
+			"expected": 70.3463414634146,
+			"fps": 30,
+			"species": 3,
+			"stage": 2
+		},
+		{
+			"actual": 70.3463439941406,
+			"direction": -1,
+			"error": 0.00000253072599321058,
+			"expected": 70.3463414634146,
+			"fps": 60,
+			"species": 3,
+			"stage": 2
+		},
+		{
+			"actual": 70.3463439941406,
+			"direction": -1,
+			"error": 0.00000253072599321058,
+			"expected": 70.3463414634146,
+			"fps": 144,
+			"species": 3,
+			"stage": 2
+		},
+		{
+			"actual": 70.3463439941406,
+			"direction": 1,
+			"error": 0.00000253072599321058,
+			"expected": 70.3463414634146,
+			"fps": 30,
+			"species": 3,
+			"stage": 2
+		},
+		{
+			"actual": 70.3463439941406,
+			"direction": 1,
+			"error": 0.00000253072599321058,
+			"expected": 70.3463414634146,
+			"fps": 60,
+			"species": 3,
+			"stage": 2
+		},
+		{
+			"actual": 70.3463439941406,
+			"direction": 1,
+			"error": 0.00000253072599321058,
+			"expected": 70.3463414634146,
+			"fps": 144,
+			"species": 3,
+			"stage": 2
+		},
+		{
+			"actual": 72.6912155151367,
+			"direction": -1,
+			"error": 0.0000039970584140292,
+			"expected": 72.6912195121951,
+			"fps": 30,
+			"species": 4,
+			"stage": 0
+		},
+		{
+			"actual": 72.6912155151367,
+			"direction": -1,
+			"error": 0.0000039970584140292,
+			"expected": 72.6912195121951,
+			"fps": 60,
+			"species": 4,
+			"stage": 0
+		},
+		{
+			"actual": 72.6912155151367,
+			"direction": -1,
+			"error": 0.0000039970584140292,
+			"expected": 72.6912195121951,
+			"fps": 144,
+			"species": 4,
+			"stage": 0
+		},
+		{
+			"actual": 72.6912155151367,
+			"direction": 1,
+			"error": 0.0000039970584140292,
+			"expected": 72.6912195121951,
+			"fps": 30,
+			"species": 4,
+			"stage": 0
+		},
+		{
+			"actual": 72.6912155151367,
+			"direction": 1,
+			"error": 0.0000039970584140292,
+			"expected": 72.6912195121951,
+			"fps": 60,
+			"species": 4,
+			"stage": 0
+		},
+		{
+			"actual": 72.6912155151367,
+			"direction": 1,
+			"error": 0.0000039970584140292,
+			"expected": 72.6912195121951,
+			"fps": 144,
+			"species": 4,
+			"stage": 0
+		},
+		{
+			"actual": 78.16259765625,
+			"direction": -1,
+			"error": 0.00000396976626859669,
+			"expected": 78.1626016260163,
+			"fps": 30,
+			"species": 4,
+			"stage": 2
+		},
+		{
+			"actual": 78.16259765625,
+			"direction": -1,
+			"error": 0.00000396976626859669,
+			"expected": 78.1626016260163,
+			"fps": 60,
+			"species": 4,
+			"stage": 2
+		},
+		{
+			"actual": 78.16259765625,
+			"direction": -1,
+			"error": 0.00000396976626859669,
+			"expected": 78.1626016260163,
+			"fps": 144,
+			"species": 4,
+			"stage": 2
+		},
+		{
+			"actual": 78.16259765625,
+			"direction": 1,
+			"error": 0.00000396976626859669,
+			"expected": 78.1626016260163,
+			"fps": 30,
+			"species": 4,
+			"stage": 2
+		},
+		{
+			"actual": 78.16259765625,
+			"direction": 1,
+			"error": 0.00000396976626859669,
+			"expected": 78.1626016260163,
+			"fps": 60,
+			"species": 4,
+			"stage": 2
+		},
+		{
+			"actual": 78.16259765625,
+			"direction": 1,
+			"error": 0.00000396976626859669,
+			"expected": 78.1626016260163,
+			"fps": 144,
+			"species": 4,
+			"stage": 2
+		},
+		{
+			"actual": 108.309921264648,
+			"direction": -1,
+			"error": 0.00000419147770003292,
+			"expected": 108.309917073171,
+			"fps": 30,
+			"species": 5,
+			"stage": 0
+		},
+		{
+			"actual": 108.309921264648,
+			"direction": -1,
+			"error": 0.00000419147770003292,
+			"expected": 108.309917073171,
+			"fps": 60,
+			"species": 5,
+			"stage": 0
+		},
+		{
+			"actual": 108.309921264648,
+			"direction": -1,
+			"error": 0.00000419147770003292,
+			"expected": 108.309917073171,
+			"fps": 144,
+			"species": 5,
+			"stage": 0
+		},
+		{
+			"actual": 108.309921264648,
+			"direction": 1,
+			"error": 0.00000419147770003292,
+			"expected": 108.309917073171,
+			"fps": 30,
+			"species": 5,
+			"stage": 0
+		},
+		{
+			"actual": 108.309921264648,
+			"direction": 1,
+			"error": 0.00000419147770003292,
+			"expected": 108.309917073171,
+			"fps": 60,
+			"species": 5,
+			"stage": 0
+		},
+		{
+			"actual": 108.309921264648,
+			"direction": 1,
+			"error": 0.00000419147770003292,
+			"expected": 108.309917073171,
+			"fps": 144,
+			"species": 5,
+			"stage": 0
+		},
+		{
+			"actual": 116.462272644043,
+			"direction": -1,
+			"error": 0.00000377872126477996,
+			"expected": 116.462276422764,
+			"fps": 30,
+			"species": 5,
+			"stage": 2
+		},
+		{
+			"actual": 116.462272644043,
+			"direction": -1,
+			"error": 0.00000377872126477996,
+			"expected": 116.462276422764,
+			"fps": 60,
+			"species": 5,
+			"stage": 2
+		},
+		{
+			"actual": 116.462272644043,
+			"direction": -1,
+			"error": 0.00000377872126477996,
+			"expected": 116.462276422764,
+			"fps": 144,
+			"species": 5,
+			"stage": 2
+		},
+		{
+			"actual": 116.462272644043,
+			"direction": 1,
+			"error": 0.00000377872126477996,
+			"expected": 116.462276422764,
+			"fps": 30,
+			"species": 5,
+			"stage": 2
+		},
+		{
+			"actual": 116.462272644043,
+			"direction": 1,
+			"error": 0.00000377872126477996,
+			"expected": 116.462276422764,
+			"fps": 60,
+			"species": 5,
+			"stage": 2
+		},
+		{
+			"actual": 116.462272644043,
+			"direction": 1,
+			"error": 0.00000377872126477996,
+			"expected": 116.462276422764,
+			"fps": 144,
+			"species": 5,
+			"stage": 2
+		},
+		{
+			"actual": 72.6912155151367,
+			"direction": -1,
+			"error": 0.0000039970584140292,
+			"expected": 72.6912195121951,
+			"fps": 30,
+			"species": 6,
+			"stage": 0
+		},
+		{
+			"actual": 72.6912155151367,
+			"direction": -1,
+			"error": 0.0000039970584140292,
+			"expected": 72.6912195121951,
+			"fps": 60,
+			"species": 6,
+			"stage": 0
+		},
+		{
+			"actual": 72.6912155151367,
+			"direction": -1,
+			"error": 0.0000039970584140292,
+			"expected": 72.6912195121951,
+			"fps": 144,
+			"species": 6,
+			"stage": 0
+		},
+		{
+			"actual": 72.6912155151367,
+			"direction": 1,
+			"error": 0.0000039970584140292,
+			"expected": 72.6912195121951,
+			"fps": 30,
+			"species": 6,
+			"stage": 0
+		},
+		{
+			"actual": 72.6912155151367,
+			"direction": 1,
+			"error": 0.0000039970584140292,
+			"expected": 72.6912195121951,
+			"fps": 60,
+			"species": 6,
+			"stage": 0
+		},
+		{
+			"actual": 72.6912155151367,
+			"direction": 1,
+			"error": 0.0000039970584140292,
+			"expected": 72.6912195121951,
+			"fps": 144,
+			"species": 6,
+			"stage": 0
+		},
+		{
+			"actual": 78.16259765625,
+			"direction": -1,
+			"error": 0.00000396976626859669,
+			"expected": 78.1626016260163,
+			"fps": 30,
+			"species": 6,
+			"stage": 2
+		},
+		{
+			"actual": 78.16259765625,
+			"direction": -1,
+			"error": 0.00000396976626859669,
+			"expected": 78.1626016260163,
+			"fps": 60,
+			"species": 6,
+			"stage": 2
+		},
+		{
+			"actual": 78.16259765625,
+			"direction": -1,
+			"error": 0.00000396976626859669,
+			"expected": 78.1626016260163,
+			"fps": 144,
+			"species": 6,
+			"stage": 2
+		},
+		{
+			"actual": 78.16259765625,
+			"direction": 1,
+			"error": 0.00000396976626859669,
+			"expected": 78.1626016260163,
+			"fps": 30,
+			"species": 6,
+			"stage": 2
+		},
+		{
+			"actual": 78.16259765625,
+			"direction": 1,
+			"error": 0.00000396976626859669,
+			"expected": 78.1626016260163,
+			"fps": 60,
+			"species": 6,
+			"stage": 2
+		},
+		{
+			"actual": 78.16259765625,
+			"direction": 1,
+			"error": 0.00000396976626859669,
+			"expected": 78.1626016260163,
+			"fps": 144,
+			"species": 6,
+			"stage": 2
+		},
+		{
+			"actual": 72.6912155151367,
+			"direction": -1,
+			"error": 0.0000039970584140292,
+			"expected": 72.6912195121951,
+			"fps": 30,
+			"species": 7,
+			"stage": 0
+		},
+		{
+			"actual": 72.6912155151367,
+			"direction": -1,
+			"error": 0.0000039970584140292,
+			"expected": 72.6912195121951,
+			"fps": 60,
+			"species": 7,
+			"stage": 0
+		},
+		{
+			"actual": 72.6912155151367,
+			"direction": -1,
+			"error": 0.0000039970584140292,
+			"expected": 72.6912195121951,
+			"fps": 144,
+			"species": 7,
+			"stage": 0
+		},
+		{
+			"actual": 72.6912155151367,
+			"direction": 1,
+			"error": 0.0000039970584140292,
+			"expected": 72.6912195121951,
+			"fps": 30,
+			"species": 7,
+			"stage": 0
+		},
+		{
+			"actual": 72.6912155151367,
+			"direction": 1,
+			"error": 0.0000039970584140292,
+			"expected": 72.6912195121951,
+			"fps": 60,
+			"species": 7,
+			"stage": 0
+		},
+		{
+			"actual": 72.6912155151367,
+			"direction": 1,
+			"error": 0.0000039970584140292,
+			"expected": 72.6912195121951,
+			"fps": 144,
+			"species": 7,
+			"stage": 0
+		},
+		{
+			"actual": 78.16259765625,
+			"direction": -1,
+			"error": 0.00000396976626859669,
+			"expected": 78.1626016260163,
+			"fps": 30,
+			"species": 7,
+			"stage": 2
+		},
+		{
+			"actual": 78.16259765625,
+			"direction": -1,
+			"error": 0.00000396976626859669,
+			"expected": 78.1626016260163,
+			"fps": 60,
+			"species": 7,
+			"stage": 2
+		},
+		{
+			"actual": 78.16259765625,
+			"direction": -1,
+			"error": 0.00000396976626859669,
+			"expected": 78.1626016260163,
+			"fps": 144,
+			"species": 7,
+			"stage": 2
+		},
+		{
+			"actual": 78.16259765625,
+			"direction": 1,
+			"error": 0.00000396976626859669,
+			"expected": 78.1626016260163,
+			"fps": 30,
+			"species": 7,
+			"stage": 2
+		},
+		{
+			"actual": 78.16259765625,
+			"direction": 1,
+			"error": 0.00000396976626859669,
+			"expected": 78.1626016260163,
+			"fps": 60,
+			"species": 7,
+			"stage": 2
+		},
+		{
+			"actual": 78.16259765625,
+			"direction": 1,
+			"error": 0.00000396976626859669,
+			"expected": 78.1626016260163,
+			"fps": 144,
+			"species": 7,
+			"stage": 2
+		},
+		{
+			"actual": 72.6912155151367,
+			"direction": -1,
+			"error": 0.0000039970584140292,
+			"expected": 72.6912195121951,
+			"fps": 30,
+			"species": 8,
+			"stage": 0
+		},
+		{
+			"actual": 72.6912155151367,
+			"direction": -1,
+			"error": 0.0000039970584140292,
+			"expected": 72.6912195121951,
+			"fps": 60,
+			"species": 8,
+			"stage": 0
+		},
+		{
+			"actual": 72.6912155151367,
+			"direction": -1,
+			"error": 0.0000039970584140292,
+			"expected": 72.6912195121951,
+			"fps": 144,
+			"species": 8,
+			"stage": 0
+		},
+		{
+			"actual": 72.6912155151367,
+			"direction": 1,
+			"error": 0.0000039970584140292,
+			"expected": 72.6912195121951,
+			"fps": 30,
+			"species": 8,
+			"stage": 0
+		},
+		{
+			"actual": 72.6912155151367,
+			"direction": 1,
+			"error": 0.0000039970584140292,
+			"expected": 72.6912195121951,
+			"fps": 60,
+			"species": 8,
+			"stage": 0
+		},
+		{
+			"actual": 72.6912155151367,
+			"direction": 1,
+			"error": 0.0000039970584140292,
+			"expected": 72.6912195121951,
+			"fps": 144,
+			"species": 8,
+			"stage": 0
+		},
+		{
+			"actual": 78.16259765625,
+			"direction": -1,
+			"error": 0.00000396976626859669,
+			"expected": 78.1626016260163,
+			"fps": 30,
+			"species": 8,
+			"stage": 2
+		},
+		{
+			"actual": 78.16259765625,
+			"direction": -1,
+			"error": 0.00000396976626859669,
+			"expected": 78.1626016260163,
+			"fps": 60,
+			"species": 8,
+			"stage": 2
+		},
+		{
+			"actual": 78.16259765625,
+			"direction": -1,
+			"error": 0.00000396976626859669,
+			"expected": 78.1626016260163,
+			"fps": 144,
+			"species": 8,
+			"stage": 2
+		},
+		{
+			"actual": 78.16259765625,
+			"direction": 1,
+			"error": 0.00000396976626859669,
+			"expected": 78.1626016260163,
+			"fps": 30,
+			"species": 8,
+			"stage": 2
+		},
+		{
+			"actual": 78.16259765625,
+			"direction": 1,
+			"error": 0.00000396976626859669,
+			"expected": 78.1626016260163,
+			"fps": 60,
+			"species": 8,
+			"stage": 2
+		},
+		{
+			"actual": 78.16259765625,
+			"direction": 1,
+			"error": 0.00000396976626859669,
+			"expected": 78.1626016260163,
+			"fps": 144,
+			"species": 8,
+			"stage": 2
+		},
+		{
+			"actual": 72.6912155151367,
+			"direction": -1,
+			"error": 0.0000039970584140292,
+			"expected": 72.6912195121951,
+			"fps": 30,
+			"species": 9,
+			"stage": 0
+		},
+		{
+			"actual": 72.6912155151367,
+			"direction": -1,
+			"error": 0.0000039970584140292,
+			"expected": 72.6912195121951,
+			"fps": 60,
+			"species": 9,
+			"stage": 0
+		},
+		{
+			"actual": 72.6912155151367,
+			"direction": -1,
+			"error": 0.0000039970584140292,
+			"expected": 72.6912195121951,
+			"fps": 144,
+			"species": 9,
+			"stage": 0
+		},
+		{
+			"actual": 72.6912155151367,
+			"direction": 1,
+			"error": 0.0000039970584140292,
+			"expected": 72.6912195121951,
+			"fps": 30,
+			"species": 9,
+			"stage": 0
+		},
+		{
+			"actual": 72.6912155151367,
+			"direction": 1,
+			"error": 0.0000039970584140292,
+			"expected": 72.6912195121951,
+			"fps": 60,
+			"species": 9,
+			"stage": 0
+		},
+		{
+			"actual": 72.6912155151367,
+			"direction": 1,
+			"error": 0.0000039970584140292,
+			"expected": 72.6912195121951,
+			"fps": 144,
+			"species": 9,
+			"stage": 0
+		},
+		{
+			"actual": 78.16259765625,
+			"direction": -1,
+			"error": 0.00000396976626859669,
+			"expected": 78.1626016260163,
+			"fps": 30,
+			"species": 9,
+			"stage": 2
+		},
+		{
+			"actual": 78.16259765625,
+			"direction": -1,
+			"error": 0.00000396976626859669,
+			"expected": 78.1626016260163,
+			"fps": 60,
+			"species": 9,
+			"stage": 2
+		},
+		{
+			"actual": 78.16259765625,
+			"direction": -1,
+			"error": 0.00000396976626859669,
+			"expected": 78.1626016260163,
+			"fps": 144,
+			"species": 9,
+			"stage": 2
+		},
+		{
+			"actual": 78.16259765625,
+			"direction": 1,
+			"error": 0.00000396976626859669,
+			"expected": 78.1626016260163,
+			"fps": 30,
+			"species": 9,
+			"stage": 2
+		},
+		{
+			"actual": 78.16259765625,
+			"direction": 1,
+			"error": 0.00000396976626859669,
+			"expected": 78.1626016260163,
+			"fps": 60,
+			"species": 9,
+			"stage": 2
+		},
+		{
+			"actual": 78.16259765625,
+			"direction": 1,
+			"error": 0.00000396976626859669,
+			"expected": 78.1626016260163,
+			"fps": 144,
+			"species": 9,
+			"stage": 2
+		},
+		{
+			"actual": 72.6912155151367,
+			"direction": -1,
+			"error": 0.0000039970584140292,
+			"expected": 72.6912195121951,
+			"fps": 30,
+			"species": 10,
+			"stage": 0
+		},
+		{
+			"actual": 72.6912155151367,
+			"direction": -1,
+			"error": 0.0000039970584140292,
+			"expected": 72.6912195121951,
+			"fps": 60,
+			"species": 10,
+			"stage": 0
+		},
+		{
+			"actual": 72.6912155151367,
+			"direction": -1,
+			"error": 0.0000039970584140292,
+			"expected": 72.6912195121951,
+			"fps": 144,
+			"species": 10,
+			"stage": 0
+		},
+		{
+			"actual": 72.6912155151367,
+			"direction": 1,
+			"error": 0.0000039970584140292,
+			"expected": 72.6912195121951,
+			"fps": 30,
+			"species": 10,
+			"stage": 0
+		},
+		{
+			"actual": 72.6912155151367,
+			"direction": 1,
+			"error": 0.0000039970584140292,
+			"expected": 72.6912195121951,
+			"fps": 60,
+			"species": 10,
+			"stage": 0
+		},
+		{
+			"actual": 72.6912155151367,
+			"direction": 1,
+			"error": 0.0000039970584140292,
+			"expected": 72.6912195121951,
+			"fps": 144,
+			"species": 10,
+			"stage": 0
+		},
+		{
+			"actual": 78.16259765625,
+			"direction": -1,
+			"error": 0.00000396976626859669,
+			"expected": 78.1626016260163,
+			"fps": 30,
+			"species": 10,
+			"stage": 2
+		},
+		{
+			"actual": 78.16259765625,
+			"direction": -1,
+			"error": 0.00000396976626859669,
+			"expected": 78.1626016260163,
+			"fps": 60,
+			"species": 10,
+			"stage": 2
+		},
+		{
+			"actual": 78.16259765625,
+			"direction": -1,
+			"error": 0.00000396976626859669,
+			"expected": 78.1626016260163,
+			"fps": 144,
+			"species": 10,
+			"stage": 2
+		},
+		{
+			"actual": 78.16259765625,
+			"direction": 1,
+			"error": 0.00000396976626859669,
+			"expected": 78.1626016260163,
+			"fps": 30,
+			"species": 10,
+			"stage": 2
+		},
+		{
+			"actual": 78.16259765625,
+			"direction": 1,
+			"error": 0.00000396976626859669,
+			"expected": 78.1626016260163,
+			"fps": 60,
+			"species": 10,
+			"stage": 2
+		},
+		{
+			"actual": 78.16259765625,
+			"direction": 1,
+			"error": 0.00000396976626859669,
+			"expected": 78.1626016260163,
+			"fps": 144,
+			"species": 10,
+			"stage": 2
+		},
+		{
+			"actual": 72.6912155151367,
+			"direction": -1,
+			"error": 0.0000039970584140292,
+			"expected": 72.6912195121951,
+			"fps": 30,
+			"species": 11,
+			"stage": 0
+		},
+		{
+			"actual": 72.6912155151367,
+			"direction": -1,
+			"error": 0.0000039970584140292,
+			"expected": 72.6912195121951,
+			"fps": 60,
+			"species": 11,
+			"stage": 0
+		},
+		{
+			"actual": 72.6912155151367,
+			"direction": -1,
+			"error": 0.0000039970584140292,
+			"expected": 72.6912195121951,
+			"fps": 144,
+			"species": 11,
+			"stage": 0
+		},
+		{
+			"actual": 72.6912155151367,
+			"direction": 1,
+			"error": 0.0000039970584140292,
+			"expected": 72.6912195121951,
+			"fps": 30,
+			"species": 11,
+			"stage": 0
+		},
+		{
+			"actual": 72.6912155151367,
+			"direction": 1,
+			"error": 0.0000039970584140292,
+			"expected": 72.6912195121951,
+			"fps": 60,
+			"species": 11,
+			"stage": 0
+		},
+		{
+			"actual": 72.6912155151367,
+			"direction": 1,
+			"error": 0.0000039970584140292,
+			"expected": 72.6912195121951,
+			"fps": 144,
+			"species": 11,
+			"stage": 0
+		},
+		{
+			"actual": 78.16259765625,
+			"direction": -1,
+			"error": 0.00000396976626859669,
+			"expected": 78.1626016260163,
+			"fps": 30,
+			"species": 11,
+			"stage": 2
+		},
+		{
+			"actual": 78.16259765625,
+			"direction": -1,
+			"error": 0.00000396976626859669,
+			"expected": 78.1626016260163,
+			"fps": 60,
+			"species": 11,
+			"stage": 2
+		},
+		{
+			"actual": 78.16259765625,
+			"direction": -1,
+			"error": 0.00000396976626859669,
+			"expected": 78.1626016260163,
+			"fps": 144,
+			"species": 11,
+			"stage": 2
+		},
+		{
+			"actual": 78.16259765625,
+			"direction": 1,
+			"error": 0.00000396976626859669,
+			"expected": 78.1626016260163,
+			"fps": 30,
+			"species": 11,
+			"stage": 2
+		},
+		{
+			"actual": 78.16259765625,
+			"direction": 1,
+			"error": 0.00000396976626859669,
+			"expected": 78.1626016260163,
+			"fps": 60,
+			"species": 11,
+			"stage": 2
+		},
+		{
+			"actual": 78.16259765625,
+			"direction": 1,
+			"error": 0.00000396976626859669,
+			"expected": 78.1626016260163,
+			"fps": 144,
+			"species": 11,
+			"stage": 2
+		},
+		{
+			"actual": 72.6912155151367,
+			"direction": -1,
+			"error": 0.0000039970584140292,
+			"expected": 72.6912195121951,
+			"fps": 30,
+			"species": 12,
+			"stage": 0
+		},
+		{
+			"actual": 72.6912155151367,
+			"direction": -1,
+			"error": 0.0000039970584140292,
+			"expected": 72.6912195121951,
+			"fps": 60,
+			"species": 12,
+			"stage": 0
+		},
+		{
+			"actual": 72.6912155151367,
+			"direction": -1,
+			"error": 0.0000039970584140292,
+			"expected": 72.6912195121951,
+			"fps": 144,
+			"species": 12,
+			"stage": 0
+		},
+		{
+			"actual": 72.6912155151367,
+			"direction": 1,
+			"error": 0.0000039970584140292,
+			"expected": 72.6912195121951,
+			"fps": 30,
+			"species": 12,
+			"stage": 0
+		},
+		{
+			"actual": 72.6912155151367,
+			"direction": 1,
+			"error": 0.0000039970584140292,
+			"expected": 72.6912195121951,
+			"fps": 60,
+			"species": 12,
+			"stage": 0
+		},
+		{
+			"actual": 72.6912155151367,
+			"direction": 1,
+			"error": 0.0000039970584140292,
+			"expected": 72.6912195121951,
+			"fps": 144,
+			"species": 12,
+			"stage": 0
+		},
+		{
+			"actual": 78.16259765625,
+			"direction": -1,
+			"error": 0.00000396976626859669,
+			"expected": 78.1626016260163,
+			"fps": 30,
+			"species": 12,
+			"stage": 2
+		},
+		{
+			"actual": 78.16259765625,
+			"direction": -1,
+			"error": 0.00000396976626859669,
+			"expected": 78.1626016260163,
+			"fps": 60,
+			"species": 12,
+			"stage": 2
+		},
+		{
+			"actual": 78.16259765625,
+			"direction": -1,
+			"error": 0.00000396976626859669,
+			"expected": 78.1626016260163,
+			"fps": 144,
+			"species": 12,
+			"stage": 2
+		},
+		{
+			"actual": 78.16259765625,
+			"direction": 1,
+			"error": 0.00000396976626859669,
+			"expected": 78.1626016260163,
+			"fps": 30,
+			"species": 12,
+			"stage": 2
+		},
+		{
+			"actual": 78.16259765625,
+			"direction": 1,
+			"error": 0.00000396976626859669,
+			"expected": 78.1626016260163,
+			"fps": 60,
+			"species": 12,
+			"stage": 2
+		},
+		{
+			"actual": 78.16259765625,
+			"direction": 1,
+			"error": 0.00000396976626859669,
+			"expected": 78.1626016260163,
+			"fps": 144,
+			"species": 12,
+			"stage": 2
+		},
+		{
+			"actual": 72.6912155151367,
+			"direction": -1,
+			"error": 0.0000039970584140292,
+			"expected": 72.6912195121951,
+			"fps": 30,
+			"species": 13,
+			"stage": 0
+		},
+		{
+			"actual": 72.6912155151367,
+			"direction": -1,
+			"error": 0.0000039970584140292,
+			"expected": 72.6912195121951,
+			"fps": 60,
+			"species": 13,
+			"stage": 0
+		},
+		{
+			"actual": 72.6912155151367,
+			"direction": -1,
+			"error": 0.0000039970584140292,
+			"expected": 72.6912195121951,
+			"fps": 144,
+			"species": 13,
+			"stage": 0
+		},
+		{
+			"actual": 72.6912155151367,
+			"direction": 1,
+			"error": 0.0000039970584140292,
+			"expected": 72.6912195121951,
+			"fps": 30,
+			"species": 13,
+			"stage": 0
+		},
+		{
+			"actual": 72.6912155151367,
+			"direction": 1,
+			"error": 0.0000039970584140292,
+			"expected": 72.6912195121951,
+			"fps": 60,
+			"species": 13,
+			"stage": 0
+		},
+		{
+			"actual": 72.6912155151367,
+			"direction": 1,
+			"error": 0.0000039970584140292,
+			"expected": 72.6912195121951,
+			"fps": 144,
+			"species": 13,
+			"stage": 0
+		},
+		{
+			"actual": 78.16259765625,
+			"direction": -1,
+			"error": 0.00000396976626859669,
+			"expected": 78.1626016260163,
+			"fps": 30,
+			"species": 13,
+			"stage": 2
+		},
+		{
+			"actual": 78.16259765625,
+			"direction": -1,
+			"error": 0.00000396976626859669,
+			"expected": 78.1626016260163,
+			"fps": 60,
+			"species": 13,
+			"stage": 2
+		},
+		{
+			"actual": 78.16259765625,
+			"direction": -1,
+			"error": 0.00000396976626859669,
+			"expected": 78.1626016260163,
+			"fps": 144,
+			"species": 13,
+			"stage": 2
+		},
+		{
+			"actual": 78.16259765625,
+			"direction": 1,
+			"error": 0.00000396976626859669,
+			"expected": 78.1626016260163,
+			"fps": 30,
+			"species": 13,
+			"stage": 2
+		},
+		{
+			"actual": 78.16259765625,
+			"direction": 1,
+			"error": 0.00000396976626859669,
+			"expected": 78.1626016260163,
+			"fps": 60,
+			"species": 13,
+			"stage": 2
+		},
+		{
+			"actual": 78.16259765625,
+			"direction": 1,
+			"error": 0.00000396976626859669,
+			"expected": 78.1626016260163,
+			"fps": 144,
+			"species": 13,
+			"stage": 2
+		},
+		{
+			"actual": 72.6912155151367,
+			"direction": -1,
+			"error": 0.0000039970584140292,
+			"expected": 72.6912195121951,
+			"fps": 30,
+			"species": 14,
+			"stage": 0
+		},
+		{
+			"actual": 72.6912155151367,
+			"direction": -1,
+			"error": 0.0000039970584140292,
+			"expected": 72.6912195121951,
+			"fps": 60,
+			"species": 14,
+			"stage": 0
+		},
+		{
+			"actual": 72.6912155151367,
+			"direction": -1,
+			"error": 0.0000039970584140292,
+			"expected": 72.6912195121951,
+			"fps": 144,
+			"species": 14,
+			"stage": 0
+		},
+		{
+			"actual": 72.6912155151367,
+			"direction": 1,
+			"error": 0.0000039970584140292,
+			"expected": 72.6912195121951,
+			"fps": 30,
+			"species": 14,
+			"stage": 0
+		},
+		{
+			"actual": 72.6912155151367,
+			"direction": 1,
+			"error": 0.0000039970584140292,
+			"expected": 72.6912195121951,
+			"fps": 60,
+			"species": 14,
+			"stage": 0
+		},
+		{
+			"actual": 72.6912155151367,
+			"direction": 1,
+			"error": 0.0000039970584140292,
+			"expected": 72.6912195121951,
+			"fps": 144,
+			"species": 14,
+			"stage": 0
+		},
+		{
+			"actual": 78.16259765625,
+			"direction": -1,
+			"error": 0.00000396976626859669,
+			"expected": 78.1626016260163,
+			"fps": 30,
+			"species": 14,
+			"stage": 2
+		},
+		{
+			"actual": 78.16259765625,
+			"direction": -1,
+			"error": 0.00000396976626859669,
+			"expected": 78.1626016260163,
+			"fps": 60,
+			"species": 14,
+			"stage": 2
+		},
+		{
+			"actual": 78.16259765625,
+			"direction": -1,
+			"error": 0.00000396976626859669,
+			"expected": 78.1626016260163,
+			"fps": 144,
+			"species": 14,
+			"stage": 2
+		},
+		{
+			"actual": 78.16259765625,
+			"direction": 1,
+			"error": 0.00000396976626859669,
+			"expected": 78.1626016260163,
+			"fps": 30,
+			"species": 14,
+			"stage": 2
+		},
+		{
+			"actual": 78.16259765625,
+			"direction": 1,
+			"error": 0.00000396976626859669,
+			"expected": 78.1626016260163,
+			"fps": 60,
+			"species": 14,
+			"stage": 2
+		},
+		{
+			"actual": 78.16259765625,
+			"direction": 1,
+			"error": 0.00000396976626859669,
+			"expected": 78.1626016260163,
+			"fps": 144,
+			"species": 14,
+			"stage": 2
+		},
+		{
+			"actual": 72.6912155151367,
+			"direction": -1,
+			"error": 0.0000039970584140292,
+			"expected": 72.6912195121951,
+			"fps": 30,
+			"species": 15,
+			"stage": 0
+		},
+		{
+			"actual": 72.6912155151367,
+			"direction": -1,
+			"error": 0.0000039970584140292,
+			"expected": 72.6912195121951,
+			"fps": 60,
+			"species": 15,
+			"stage": 0
+		},
+		{
+			"actual": 72.6912155151367,
+			"direction": -1,
+			"error": 0.0000039970584140292,
+			"expected": 72.6912195121951,
+			"fps": 144,
+			"species": 15,
+			"stage": 0
+		},
+		{
+			"actual": 72.6912155151367,
+			"direction": 1,
+			"error": 0.0000039970584140292,
+			"expected": 72.6912195121951,
+			"fps": 30,
+			"species": 15,
+			"stage": 0
+		},
+		{
+			"actual": 72.6912155151367,
+			"direction": 1,
+			"error": 0.0000039970584140292,
+			"expected": 72.6912195121951,
+			"fps": 60,
+			"species": 15,
+			"stage": 0
+		},
+		{
+			"actual": 72.6912155151367,
+			"direction": 1,
+			"error": 0.0000039970584140292,
+			"expected": 72.6912195121951,
+			"fps": 144,
+			"species": 15,
+			"stage": 0
+		},
+		{
+			"actual": 78.16259765625,
+			"direction": -1,
+			"error": 0.00000396976626859669,
+			"expected": 78.1626016260163,
+			"fps": 30,
+			"species": 15,
+			"stage": 2
+		},
+		{
+			"actual": 78.16259765625,
+			"direction": -1,
+			"error": 0.00000396976626859669,
+			"expected": 78.1626016260163,
+			"fps": 60,
+			"species": 15,
+			"stage": 2
+		},
+		{
+			"actual": 78.16259765625,
+			"direction": -1,
+			"error": 0.00000396976626859669,
+			"expected": 78.1626016260163,
+			"fps": 144,
+			"species": 15,
+			"stage": 2
+		},
+		{
+			"actual": 78.16259765625,
+			"direction": 1,
+			"error": 0.00000396976626859669,
+			"expected": 78.1626016260163,
+			"fps": 30,
+			"species": 15,
+			"stage": 2
+		},
+		{
+			"actual": 78.16259765625,
+			"direction": 1,
+			"error": 0.00000396976626859669,
+			"expected": 78.1626016260163,
+			"fps": 60,
+			"species": 15,
+			"stage": 2
+		},
+		{
+			"actual": 78.16259765625,
+			"direction": 1,
+			"error": 0.00000396976626859669,
+			"expected": 78.1626016260163,
+			"fps": 144,
+			"species": 15,
+			"stage": 2
+		}
+	]
+}

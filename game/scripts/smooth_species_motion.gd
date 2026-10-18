@@ -26,45 +26,11 @@ func arrived(motion,metadata: Dictionary) -> bool:
 	return offset.length()<stride and not next_contact.is_equal_approx(next_contact.clamp(motion.bounds.position,motion.bounds.end))
 
 func advance(motion,delta: float,metadata: Dictionary,multiplier: float) -> void:
-	if metadata.get("continuous_stride",false):
-		advance_continuous(motion,delta,metadata,multiplier)
-		return
-	if not active:
-		var offset=motion.target-motion.feet
-		if arrived(motion,metadata):
-			motion.travel_speed=0
-			motion.walk_phase=0
-			return
-		origin=motion.feet
-		destination=origin+offset.normalized()*stride_length(motion,metadata)
-		motion.travel_direction=offset.normalized()
-		if absf(offset.x)>.5: motion.facing=signf(offset.x)
-		age=0
-		# Behaviour changes must not retime a stride already in progress.
-		var pace=clampf(multiplier,.01,preload("res://scripts/gait_profile.gd").MAX_WALK_MULTIPLIER)
-		cycle_seconds=float(metadata.cycle_seconds)/pace
-		active=true
-	var cycle=cycle_seconds
-	age=minf(cycle,age+delta)
-	var phase=age/cycle
-	var previous=motion.feet
-	var progress=phase
-	var curve: Array=metadata.get("travel_curve",[])
-	if curve.size()>1:
-		var position=phase*(curve.size()-1)
-		var first=mini(int(position),curve.size()-2)
-		progress=lerpf(float(curve[first]),float(curve[first+1]),position-first)
-	motion.feet=origin.lerp(destination,progress)
-	motion.walk_phase=minf(phase,.999999)
-	motion.travel_speed=motion.feet.distance_to(previous)/maxf(delta,.00001)
-	if age>=cycle:
-		motion.feet=destination
-		motion.walk_phase=0
-		active=false
+	advance_continuous(motion,delta,metadata,multiplier)
 
 func advance_continuous(motion,delta: float,metadata: Dictionary,multiplier: float) -> void:
-	# Preserve elapsed time across authored loops. Clamping at each contact
-	# discarded part of a display frame and produced a repeated small hitch.
+	# All species consume the remainder of a display frame at each contact.
+	# Keep their authored travel curves; only continuous_stride uses linear travel.
 	var previous=motion.feet
 	var remaining=maxf(0,delta)
 	var iterations=0
@@ -83,8 +49,17 @@ func advance_continuous(motion,delta: float,metadata: Dictionary,multiplier: flo
 		var consumed=minf(remaining,cycle_seconds-age)
 		age+=consumed;remaining-=consumed
 		var phase=clampf(age/cycle_seconds,0,1)
-		motion.feet=origin.lerp(destination,phase)
+		var progress=phase
+		var curve: Array=metadata.get("travel_curve",[])
+		if not metadata.get("continuous_stride",false) and curve.size()>1:
+			var position=phase*(curve.size()-1)
+			var first=mini(int(position),curve.size()-2)
+			progress=lerpf(float(curve[first]),float(curve[first+1]),position-first)
+		motion.feet=origin.lerp(destination,progress)
 		motion.walk_phase=minf(phase,.999999)
 		if age>=cycle_seconds-.000001:
 			motion.feet=destination;motion.walk_phase=0;active=false
+			# Yield a grounded contact to pending actions and timed social exits.
+			# Otherwise starting the next loop here leaves them permanently active.
+			if not motion.daily.queued.is_empty() or (not motion.social_kind.is_empty() and motion.social_left<=0):break
 	motion.travel_speed=motion.feet.distance_to(previous)/maxf(delta,.00001)

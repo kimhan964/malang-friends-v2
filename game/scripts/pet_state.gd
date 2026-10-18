@@ -144,6 +144,7 @@ var layout: Dictionary={}
 var hidden: Array=[]
 var discoveries: Dictionary={}
 var save_failed=false
+var save_recovered=false
 var personal_layout: Dictionary={}
 var meals: Dictionary={}
 var favorite_foods: Dictionary={}
@@ -165,12 +166,21 @@ func load_furniture(value) -> void:
 			furniture[id].append(clampf(float(point[3]),.6,1.6) if point.size()>3 and numeric(point[3]) else Furniture.default_scale(id))
 			furniture[id].append(clampi(int(point[4]),-100000,100000) if point.size()>4 and numeric(point[4]) else 0)
 
+func read_save(path: String):
+	if not FileAccess.file_exists(path): return null
+	var parser=JSON.new()
+	if parser.parse(FileAccess.get_file_as_string(path))!=OK: return null
+	return parser.data if parser.data is Dictionary else null
+
 func load_game() -> void:
-	if not FileAccess.file_exists(save_path): return
-	var data=JSON.parse_string(FileAccess.get_file_as_string(save_path))
-	if not data is Dictionary: return
+	save_recovered=false
+	var data=read_save(save_path)
+	if data==null:
+		data=read_save(save_path+".bak")
+		if data==null: return
+		save_recovered=true
 	load_furniture(data.get("furniture",{}))
-	migrate_scale_defaults(int(data.get("scale_defaults_version",0)))
+	migrate_scale_defaults(clean_number(data.get("scale_defaults_version"),0,1))
 	arrival_seen.clear()
 	var seen=data.get("arrival_seen",{})
 	if seen is Dictionary:
@@ -236,7 +246,16 @@ func save_game() -> void:
 		save_failed=true
 		return
 	file.store_string(JSON.stringify({"version":9,"scale_defaults_version":scale_defaults_version,"starter_layout_version":starter_layout_version,"home_initialized":home_initialized,"home_owned":home_owned,"activity_space":activity_space,"guide_seen":guide_seen,"activity_counts":activity_counts,"growth":growth,"selected":selected,"palette":palette,"affection":play_affection,"layout":layout,"hidden":hidden,"discoveries":discoveries,"personal_layout":personal_layout,"meals":meals,"favorite_foods":favorite_foods,"outfits":outfits,"outfit_colors":outfit_colors,"furniture":furniture,"furniture_styles":furniture_styles,"arrival_seen":arrival_seen}))
+	file.flush()
+	var write_error=file.get_error()
 	file.close()
+	if write_error!=OK:
+		save_failed=true
+		return
+	# Never replace the last good backup with a damaged primary file.
+	if read_save(save_path)!=null and DirAccess.copy_absolute(save_path,save_path+".bak")!=OK:
+		save_failed=true
+		return
 	save_failed=DirAccess.rename_absolute(save_path+".tmp",save_path)!=OK
 
 func add_affection(species: int, amount: int=1, before_unlocks: Array=[]) -> void:

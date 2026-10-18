@@ -429,6 +429,8 @@ func use_desktop_prop(id: String) -> void:
 	pet.motion.stay_after_visit=id=="cushion"
 
 func on_activity_finished(id: String) -> void:
+	if id=="home_wall_shelf": id="home_shelf"
+	elif id=="home_fireplace": id="home_sofa"
 	if id in ["home_toy_mouse","home_toy_ball"]: state.reward_activity(pet.species,"home_play")
 	var home_care={"home_sofa":"home_rest","home_daybed":"home_rest","home_lamp":"home_rest","home_window_seat":"home_rest","home_tv":"home_rest","home_play_rug":"home_play","home_shelf":"home_read","home_reading_chair":"home_read","home_vanity":"home_groom","home_record_player":"home_music","home_turntable":"home_music","home_tea":"home_tea","home_bathtub":"home_groom","home_toy_plush":"home_play","home_toy_ball":"home_play","home_toy_mouse":"home_play"}
 	if home_care.has(id): state.reward_activity(pet.species,home_care[id])

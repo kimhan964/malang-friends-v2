@@ -108,7 +108,7 @@ func run() -> void:
 			check(Home.available(m),"home available "+Catalog.IDS[species])
 			var sample: Dictionary=app.pet.view.generated_sample
 			check(sample.get("soft_roster",false),"home new skin "+Catalog.IDS[species]+" "+id)
-			check(sample.bank=={"daybed":"life_bed","reading_chair":"idle","table":"eat","record_player":"pet"}[id],"home action "+Catalog.IDS[species]+" "+id)
+			check(sample.bank=={"daybed":"life_bed","reading_chair":"daily-study","table":"daily-drink","record_player":"daily-sing"}[id],"home action "+Catalog.IDS[species]+" "+id)
 			await capture(app.pet,"home-"+Catalog.IDS[species]+"-"+id)
 			await capture(room.pieces[id],"home-prop-"+id)
 		room.remove_piece(id)
