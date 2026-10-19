@@ -85,6 +85,7 @@ func run() -> void:
 			await hands();release_response();await gaits();await mouse_toy();await rabbit_size();await plush_play();await alarm_clock();await targeted_walks();await ladder();await plant_scale();await acorn_play();await fox_actions();await put_away()
 		21: await grounded_contacts()
 		22: await fennec_redesign()
+		23: await balanced_raccoon_fox()
 		_: check(false,"unknown item "+str(item))
 	FileAccess.open(folder().path_join("headless.json" if DisplayServer.get_name()=="headless" else "native.json"),FileAccess.WRITE).store_string(JSON.stringify({"item":item,"passed":not failed,"checks":checks},"\t"))
 	print("REVIEW_VALIDATED item=",item," checks=",checks.size()," passed=",not failed)
@@ -245,7 +246,7 @@ func grounded_contacts() -> void:
 			check(spec.get("review_revision",0)>=2,"new grounded bank "+str(species))
 			check(spec.cycle_seconds>(.8 if spec.get("review_revision",0)>=3 else 1.5) and spec.cycle_seconds<2.2,"reviewed step contact timing "+str(species))
 			var stride=m.smooth_walk_cycle.stride_length(m,spec)
-			check(is_equal_approx(stride/float(spec.cycle_seconds),26.1585365),"world speed preserved "+str(species))
+			check(is_equal_approx(stride/float(spec.cycle_seconds),26.1585365*preload("res://scripts/animal_catalog.gd").HEIGHTS[species]),"world speed follows character size "+str(species))
 			var cels=preload("res://scripts/smooth_species_art.gd").frames(species,"adult")
 			for cel in cels:
 				var box: Rect2i=cel.get_image().get_used_rect()
@@ -277,14 +278,14 @@ func fennec_redesign() -> void:
 		var meta=preload("res://scripts/smooth_species_art.gd").spec(m)
 		check(meta.get("skin_revision",0)==3 and meta.source_key_count==8,"eight authored fennec walk keys")
 		check(meta.get("continuous_stride",false) and meta.travel_curve.is_empty(),"constant world travel across loop boundaries")
-		check(meta.cycle_seconds>.8 and meta.cycle_seconds<1.4,"compact low-step walking period")
+		check(meta.cycle_seconds>.8 and meta.cycle_seconds<(2.0 if meta.get("balanced_walk_revision",0)>=4 else 1.4),"grounded walking period")
 		var seconds=0.0
 		for tick in range(fps*5):
 			var dt=1.0/fps
 			if tick%97==31:dt=float(meta.cycle_seconds)+.037
 			m.advance_travel(dt,1);seconds+=dt
 			if tick in [0,31,32,fps*5-1]:traces.append({"fps":fps,"tick":tick,"x":m.feet.x,"expected":seconds*26.1585365,"stride":m.smooth_walk_cycle.stride_length(m,meta),"period":meta.cycle_seconds,"growth":m.growth_scale,"cycle_age":m.smooth_walk_cycle.age})
-			check(absf(m.feet.x-seconds*26.1585365)<.012,"no elapsed-time loss or loop hitch %d/%d"%[fps,tick])
+			check(absf(m.feet.x-seconds*26.1585365*preload("res://scripts/animal_catalog.gd").HEIGHTS[5])<.012,"no elapsed-time loss or loop hitch %d/%d"%[fps,tick])
 	for bank in ["basic","interaction","life","daily","adventure"]:
 		var kinds={"basic":["idle","pet","sleep","eat"],"interaction":["carry","struggle","landing","dizzy","recover"],"life":["sofa","bed","play","bath"],"daily":["sad","peek","drink","sing","study","work","pajama","fight"],"adventure":["roll","fly"]}[bank]
 		for kind in kinds:
@@ -328,6 +329,54 @@ func fennec_redesign() -> void:
 		viewport.queue_free();await get_tree().process_frame
 	await fox_actions()
 	await gaits()
+
+func balanced_raccoon_fox() -> void:
+	app.pet.set_process(false)
+	check(is_equal_approx(preload("res://scripts/animal_catalog.gd").HEIGHTS[5],1.3),"fox is 30 percent larger")
+	for species in [4,5]:
+		for direction in [1,-1]:
+			var m=preload("res://scripts/desktop_pet_motion.gd").new()
+			m.species=species;m.smooth_walk_enabled=true;m.growth_scale=1;m.growth_stage=2;m.autonomy=false;m.daily.enabled=false;m.voice_left=0;m.phase="wander";m.facing=direction
+			m.bounds=Rect2(-2000,-100,4000,200);m.feet=Vector2.ZERO;m.target=Vector2(direction*1000,0)
+			var metadata=preload("res://scripts/smooth_species_art.gd").spec(m)
+			check(metadata.get("balanced_walk_revision",0)==4 and metadata.source_key_count==8,"new complete-character gait "+str(species))
+			var contacts: Array=metadata.contact_phases
+			check(contacts.size()==2 and is_zero_approx(float(contacts[0])) and is_equal_approx(float(contacts[1]),.5),"alternating contacts separated by equal half cycle "+str(species))
+			var cels=preload("res://scripts/smooth_species_art.gd").frames(species,"adult")
+			var hashes={};var longest=0;var run=0;var previous=0
+			for i in range(cels.size()):
+				var im=cels[i].get_image();var signature=hash(im.get_data());hashes[signature]=true
+				run=run+1 if i>0 and signature==previous else 1;longest=maxi(longest,run);previous=signature
+				var used=im.get_used_rect();check(used.has_area() and used.position.x>0 and used.position.y>0 and used.end.x<256 and used.end.y<256,"uncut new gait %d/%d"%[species,i])
+				var fill=0
+				for y in range(214,232,2):
+					for x in range(85,185,2):
+						var color=im.get_pixel(x,y)
+						if color.a>.9 and color.get_luminance()>.25:fill+=1
+				check(fill>5,"feet keep fur fill rather than black silhouettes %d/%d"%[species,i])
+			check(hashes.size()>=124 and longest<=2,"no frozen endpoint or repeated cel run "+str(species))
+			render_setup(m)
+			if is_instance_valid(viewport):viewport.size=Vector2i(400,224)
+			var steps=ceili(float(metadata.cycle_seconds)*120)
+			var prior_x=m.feet.x
+			for tick in range(steps):
+				m.advance(1.0/60)
+				check((m.feet.x-prior_x)*direction>0,"continuous actual world travel %d/%d/%d"%[species,direction,tick]);prior_x=m.feet.x
+				if is_instance_valid(viewport):
+					preview.position=Vector2((70 if direction==1 else 330)+m.feet.x,180)-preview.FEET
+					await capture("%d-%s-%03d"%[species,"right" if direction==1 else "left",tick])
+			if is_instance_valid(viewport):viewport.queue_free();await get_tree().process_frame
+	# The same scale path must apply outside walking too.
+	var enlarged=preload("res://scripts/desktop_pet_motion.gd").new();enlarged.species=5;enlarged.smooth_walk_enabled=true;enlarged.growth_scale=1;enlarged.growth_stage=2;enlarged.autonomy=false;enlarged.daily.enabled=false;enlarged.voice_left=0
+	render_setup(enlarged)
+	if is_instance_valid(viewport):
+		for state in ["idle","home_use","dizzy"]:
+			enlarged.cancel_play();enlarged.phase=state;enlarged.visit_id="home_sofa";enlarged.action_left=10;enlarged.elapsed=1
+			preview.refresh(0)
+			var sample=preview.generated_sample
+			check(absf(absf(preview.sprite.scale.y)-preload("res://scripts/animal_catalog.gd").DISPLAY_HEIGHT*1.3/float(sample.height))<.001,"30 percent scale in "+state)
+			await capture("fox-large-"+state)
+		viewport.queue_free();await get_tree().process_frame
 
 func gaits() -> void:
 	for species in range(16):

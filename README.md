@@ -4,7 +4,7 @@
 
 ## 다운로드와 실행
 
-1. [최신 Windows 다운로드](https://github.com/kimhan964/malang-friends-v2/releases/latest)에서 `MalangFriends-v2-Windows-2026-10-18-system-fixes.zip`을 받습니다.
+1. [최신 Windows 다운로드](https://github.com/kimhan964/malang-friends-v2/releases/latest)에서 `MalangFriends-v2-Windows-2026-10-19-balanced-walk.zip`을 받습니다.
 2. 압축을 전부 풉니다.
 3. `MalangFriends-v2/DesktopFriends.exe`를 실행합니다.
 
@@ -13,6 +13,8 @@
 자세한 조작은 [사용법](사용법.md)을 확인하세요. 기본 행동, 가구 이용, 장난감 놀이, 마우스로 들기, 행동 도감과 해금 조건을 제공합니다.
 
 ## 이번 수정판
+
+너구리·여우의 전신 걷기 원화를 교체하고 중간 프레임의 잘못된 순서와 끝 자세 반복을 수정했습니다. 여우는 모든 행동에서 30% 확대했습니다. [좌우 걷기 영상과 검수 기록](docs/validation/balanced-walk-20261019/수정기록.md)을 확인하세요.
 
 전 동물의 걸음 반복 시간 누락, 여우의 따라오기 종료, 벽 책장·벽난로 이용 기록 누락을 수정하고 정상 저장본 백업·복구를 추가했습니다. [시스템 점검과 검수 결과](docs/validation/system-20261018/수정기록.md)를 확인하세요.
 

@@ -1,0 +1,37 @@
+{
+  "mode": "built-in image_gen",
+  "asset": "Balanced whole-character raccoon and fennec walk",
+  "raccoon_base": {
+    "prompt": "Production animation redraw, exact 2 rows x 4 columns, 8 full-character frames. IMAGE 1 is the ONLY character/art/style reference. IMAGE 2 is a TECHNICAL POSE GUIDE, not a style reference: precisely follow its leg positions in every corresponding cell. The magenta leg in the guide is the LARGE NEAR foreground leg, and cyan is the SMALL FAR background leg. In frame 1 the large near foot is on the RIGHT in front. In frame 5 the large near foot MUST be on the LEFT behind, with its knee bent BACKWARD to the LEFT, and the SMALL FAR foot is on the RIGHT in front. This change is the highest priority: frames 1 and 5 must visibly swap the front/back feet, and frames 3 and 7 must visibly swap which leg is passing. Current attempts incorrectly repeat the same large foreground foot pointing forward in every frame; DO NOT repeat that mistake. COPY the guide's complete pose silhouette and screen positions, including magenta leg BEHIND in frames 4,5,6 and FORWARD in frames 8,1,2. Translate both colored legs to the animal's normal fur colors; no colored guide pixels in the output. Retain image1's exact head, face, ears, tail, palette, thick warm dark line and compact cute proportions; keep tiny short legs, never human knees or tall torso. Fixed three-quarter RIGHT camera. Coherent whole-body redraw in each cell, subtle equal weight shifts and relaxed opposite arm swing. Exactly two arms, two legs and one tail. Flat planted sole on consistent ground baseline in each cell; other foot lifts only a tiny amount. No hops or kicking, no permanently forward near foot, no foot dragging. Same head/body scale in all 8 equal-size roomy cells. Whole animal including ears and tail is fully inside its cell, large transparent margins. Genuinely transparent background. Do NOT copy technical guide's head design, text, colors, numbers, labels, floor lines or white background. No text, guide marks, shadows, props or extra limbs.",
+    "inputs": [
+      "raccoon-reference.png",
+      "pose-guide.png"
+    ],
+    "output": "raccoon-source.png"
+  },
+  "raccoon_last_pose": {
+    "prompt": "Edit target IMAGE1, ONE complete raccoon character, preserve exact art, face, palette, camera, body/ear/tail size and arm pose. Correct the walking stance using IMAGE2 only as leg-position guide. The SMALL FAR background foot on screen LEFT must be the planted support foot: extend this SMALL back foot down so its entire short FLAT SOLE touches the floor baseline. The LARGE NEAR foreground foot on screen RIGHT is swinging FORWARD: lift this larger forward foot slightly ABOVE that baseline, toe pointing right, only 4% of body height higher than the rear sole. Right foot must NOT support the body in this pose. Both legs remain short and normal, not spread farther apart than the target. Clearly see the small rear-left sole flat and the larger forward-right sole lifted a small amount. Draw the whole character coherently with the weight over the small far support leg. No crouch, no kicking or human legs. Exactly two arms, two legs and one tail. One full animal only, same three-quarter RIGHT view as target, all extremities inside margins. Genuinely transparent background. Do not copy guide colors, text, floor line, guide's character head or white background.",
+    "inputs": [
+      "normalized complete frame 7 from raccoon-source.png",
+      "last-pose-guide.png"
+    ],
+    "output": "raccoon-last-source.png"
+  },
+  "raccoon_final": {
+    "prompt": "Precise edit of IMAGE1, keep its EXACT 2-row x4-column sheet, same scale, proportions, faces, ears, arms, tails, colors, line thickness, seven original poses and transparent gutters. Change ONLY the eighth character's feet/legs, bottom-right cell. IMAGE2 demonstrates the desired eighth leg pose ONLY; do not copy its head/body proportions. Eighth raccoon SMALL FAR foot at rear LEFT must be the flat planted support foot and reach the shared baseline. Eighth raccoon LARGE NEAR leg is extended a modest distance forward RIGHT with toe 3% of body height above the baseline. Copy this lower-body pose from image2 but keep the eighth character's exact original head/body scale and location from image1; don't shrink or enlarge the eighth character, don't change its face or arms. The rear-left SMALL sole must visibly stay on the floor while the larger foreground foot passes forward low. Other seven figures entirely unchanged. Re-draw a coherent whole animal in that eighth cell, with exactly two arms and two feet, no duplicated old feet. Fixed three-quarter right view. No labels, lines, shadows or props; actual transparent background.",
+    "inputs": [
+      "raccoon-source.png",
+      "raccoon-last-source.png"
+    ],
+    "output": "raccoon-final-source.png"
+  },
+  "fox_final": {
+    "prompt": "Strict production sprite-sheet RESKIN. Image1 is the exact fennec fox identity, art and palette. Image2 is a TWO ROWS BY FOUR COLUMNS pose EDIT TARGET of eight raccoons. Replace each whole raccoon by image1's fennec fox, preserving EACH cell's EXACT body/arm/leg pose geometry, feet positions, leg occlusion order and ground contact. All eight cells must remain in the same order. Four cells in top row and four in bottom row. No rearranging. Cell1 large near foot forward/right, cell5 large near foot bent BACK LEFT with small far foot forward/right. Cell3 near leg supports under body; cell7 far leg supports under body. Cell8 has SMALL REAR-LEFT foot planted with flat sole and LARGE FORWARD-RIGHT foot slightly lifted. This alternate near/far leg support is essential: do not repeat the foreground foot pointing forward in every cell. Keep image2's changing shoulder/torso shape, counter-swinging arms and slight head tilt. Keep image1's exact fennec head/face proportions, giant rounded triangular ears, peach inner ears, sand-apricot fur, ivory muzzle/chest and fluffy ivory-tipped tail, tiny glossy black eyes, pink blush, thick warm dark outline. Compact chibi body and tiny short legs, no human knees. Full coherent characters, exactly two arms and two feet, no old raccoon feet/ears/stripes or duplicate limbs. Same character scale and face size in every cell; consistent ground baseline; all ears and tails within roomy cells and transparent gutters. Genuinely transparent background, no text, numbers, grid, guide marks, shadows or props.",
+    "inputs": [
+      "fox-reference.png",
+      "raccoon-final-source.png"
+    ],
+    "output": "fox-final-source.png"
+  },
+  "integration": "Eight complete-character source poses per species. Corrected RIFE sequence timeline, 512 raw whole-image samples resampled to 128 distinct cels. No anatomical part cutting or rigging. Existing face/body design retained. Fox runtime height multiplier 1.0 to 1.3 for all actions."
+}

@@ -2,60 +2,102 @@
   "species": "raccoon",
   "stages": {
     "adult": {
-      "file": "walk.png",
+      "file": "walk-balanced-v4.png",
       "idle_file": "idle.png",
-      "count": 96,
+      "count": 128,
       "columns": 8,
       "reference_height": 205,
-      "cycle_seconds": 2.0,
-      "playback_seconds": 2.0,
-      "stride": 50.0,
+      "cycle_seconds": 4.7600000216363645,
+      "playback_seconds": 4.7600000216363645,
+      "stride": 119.0,
       "root": [
         128,
         232
       ],
       "source_key_count": 8,
       "view": "fixed_three_quarter_right",
-      "gait": "wider_alternating_low_clearance",
-      "registration_offsets": [
+      "gait": "alternating_near_far_support",
+      "sampling": "Eight complete generated character poses; corrected RIFE input/output timeline; 512 raw whole-image intermediates sampled to 128 distinct cels; equal alternating contacts",
+      "continuous_stride": true,
+      "travel_curve": [],
+      "phase_curve": [],
+      "balanced_walk_revision": 4,
+      "contact_phases": [
+        0,
+        0.5
+      ],
+      "pose_times": [
+        0,
+        0.12184873949579832,
+        0.21428571428571427,
+        0.41596638655462187,
+        0.5,
+        0.5588235294117647,
+        0.6050420168067226,
+        0.9411764705882353,
+        1
+      ],
+      "registration_x": [
         0,
         0,
-        3,
+        0,
         0,
         0,
         0,
         0,
         0
       ],
-      "sampling": "8 authored full-body poses, 12 equal samples per adjacent pair; exact closed-loop endpoint"
+      "targeted_review": true,
+      "review_revision": 4
     },
     "baby": {
-      "file": "walk.png",
+      "file": "walk-balanced-v4.png",
       "idle_file": "idle.png",
-      "count": 96,
+      "count": 128,
       "columns": 8,
       "reference_height": 205,
-      "cycle_seconds": 2.0,
-      "playback_seconds": 2.0,
-      "stride": 50.0,
+      "cycle_seconds": 4.7600000216363645,
+      "playback_seconds": 4.7600000216363645,
+      "stride": 119.0,
       "root": [
         128,
         232
       ],
       "source_key_count": 8,
       "view": "fixed_three_quarter_right",
-      "gait": "wider_alternating_low_clearance",
-      "registration_offsets": [
+      "gait": "alternating_near_far_support",
+      "sampling": "Eight complete generated character poses; corrected RIFE input/output timeline; 512 raw whole-image intermediates sampled to 128 distinct cels; equal alternating contacts",
+      "continuous_stride": true,
+      "travel_curve": [],
+      "phase_curve": [],
+      "balanced_walk_revision": 4,
+      "contact_phases": [
+        0,
+        0.5
+      ],
+      "pose_times": [
+        0,
+        0.12184873949579832,
+        0.21428571428571427,
+        0.41596638655462187,
+        0.5,
+        0.5588235294117647,
+        0.6050420168067226,
+        0.9411764705882353,
+        1
+      ],
+      "registration_x": [
         0,
         0,
-        3,
+        0,
         0,
         0,
         0,
         0,
         0
       ],
-      "sampling": "8 authored full-body poses, 12 equal samples per adjacent pair; exact closed-loop endpoint"
+      "targeted_review": true,
+      "review_revision": 4
     }
   }
 }

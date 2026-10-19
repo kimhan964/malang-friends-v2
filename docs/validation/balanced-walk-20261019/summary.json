@@ -1,0 +1,50 @@
+{
+  "date": "2026-10-19",
+  "species": [
+    "raccoon",
+    "fox"
+  ],
+  "fox_size_multiplier": 1.3,
+  "headless_checks": 1795,
+  "native_checks": 2559,
+  "save_unchanged": true,
+  "timing": [
+    {
+      "species": "raccoon",
+      "key_boundary_mse": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "requested_raw": 576,
+      "used_raw": 513,
+      "selected_unique": 128,
+      "old_error": "N-1 interval request was interpreted as N image slots, causing wrong key indices and a final hold"
+    },
+    {
+      "species": "fox",
+      "key_boundary_mse": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "requested_raw": 576,
+      "used_raw": 513,
+      "selected_unique": 128,
+      "old_error": "N-1 interval request was interpreted as N image slots, causing wrong key indices and a final hold"
+    }
+  ],
+  "limitations": "Full-character generated key poses and optical-flow intermediates; visual occlusions make per-foot pixel tracking unreliable during leg crossing. Actual render loops are provided for inspection."
+}
