@@ -2,60 +2,52 @@
   "species": "lamb",
   "stages": {
     "adult": {
-      "file": "walk.png",
+      "file": "walk-grounded-v10.png",
       "idle_file": "idle.png",
       "count": 96,
       "columns": 8,
       "reference_height": 205,
-      "cycle_seconds": 2.0,
-      "playback_seconds": 2.0,
-      "stride": 50.0,
+      "cycle_seconds": 5.11875,
+      "playback_seconds": 5.11875,
+      "stride": 92.1375,
       "root": [
         128,
         232
       ],
-      "source_key_count": 8,
+      "source_key_count": 4,
       "view": "fixed_three_quarter_right",
       "gait": "wider_alternating_low_clearance",
-      "registration_offsets": [
-        0,
-        0,
-        0,
-        0,
-        -3,
-        0,
-        0,
-        0
-      ],
-      "sampling": "8 authored full-body poses, 12 equal samples per adjacent pair; exact closed-loop endpoint"
+      "registration_offsets": [],
+      "sampling": "v9 timing kept; doubled arm frames at the arm-switch (13-17, 79-83) replaced by nearest clear frame (2026-11-11)",
+      "continuous_stride": true,
+      "travel_curve": [],
+      "phase_curve": [],
+      "motion_timing_revision": 9,
+      "motion_cycle_multiplier": 1.828125
     },
     "baby": {
-      "file": "walk.png",
+      "file": "walk-grounded-v10.png",
       "idle_file": "idle.png",
       "count": 96,
       "columns": 8,
       "reference_height": 205,
-      "cycle_seconds": 2.0,
-      "playback_seconds": 2.0,
-      "stride": 50.0,
+      "cycle_seconds": 5.11875,
+      "playback_seconds": 5.11875,
+      "stride": 92.1375,
       "root": [
         128,
         232
       ],
-      "source_key_count": 8,
+      "source_key_count": 4,
       "view": "fixed_three_quarter_right",
       "gait": "wider_alternating_low_clearance",
-      "registration_offsets": [
-        0,
-        0,
-        0,
-        0,
-        -3,
-        0,
-        0,
-        0
-      ],
-      "sampling": "8 authored full-body poses, 12 equal samples per adjacent pair; exact closed-loop endpoint"
+      "registration_offsets": [],
+      "sampling": "v9 timing kept; doubled arm frames at the arm-switch (13-17, 79-83) replaced by nearest clear frame (2026-11-11)",
+      "continuous_stride": true,
+      "travel_curve": [],
+      "phase_curve": [],
+      "motion_timing_revision": 9,
+      "motion_cycle_multiplier": 1.828125
     }
   }
 }

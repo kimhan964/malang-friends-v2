@@ -2,7 +2,7 @@
   "species": "raccoon",
   "stages": {
     "adult": {
-      "file": "walk-balanced-v4.png",
+      "file": "walk-balanced-v5.png",
       "idle_file": "idle.png",
       "count": 128,
       "columns": 8,
@@ -17,7 +17,7 @@
       "source_key_count": 8,
       "view": "fixed_three_quarter_right",
       "gait": "alternating_near_far_support",
-      "sampling": "Eight complete generated character poses; corrected RIFE input/output timeline; 512 raw whole-image intermediates sampled to 128 distinct cels; equal alternating contacts",
+      "sampling": "v4 timeline kept; ghosted in-between ranges re-interpolated between nearby clean cells with 7 GPT 2.6 (VARCO) redrawn anchor cells, 2 faint cells held (2026-11-11)",
       "continuous_stride": true,
       "travel_curve": [],
       "phase_curve": [],
@@ -51,7 +51,7 @@
       "review_revision": 4
     },
     "baby": {
-      "file": "walk-balanced-v4.png",
+      "file": "walk-balanced-v5.png",
       "idle_file": "idle.png",
       "count": 128,
       "columns": 8,
@@ -66,7 +66,7 @@
       "source_key_count": 8,
       "view": "fixed_three_quarter_right",
       "gait": "alternating_near_far_support",
-      "sampling": "Eight complete generated character poses; corrected RIFE input/output timeline; 512 raw whole-image intermediates sampled to 128 distinct cels; equal alternating contacts",
+      "sampling": "v4 timeline kept; ghosted in-between ranges re-interpolated between nearby clean cells with 7 GPT 2.6 (VARCO) redrawn anchor cells, 2 faint cells held (2026-11-11)",
       "continuous_stride": true,
       "travel_curve": [],
       "phase_curve": [],

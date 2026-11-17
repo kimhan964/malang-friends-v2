@@ -2,14 +2,14 @@
   "species": "owl",
   "stages": {
     "adult": {
-      "file": "walk.png",
+      "file": "walk-cadence-v9.png",
       "idle_file": "idle.png",
       "count": 96,
       "columns": 8,
       "reference_height": 205,
-      "cycle_seconds": 2.0,
-      "playback_seconds": 2.0,
-      "stride": 50.0,
+      "cycle_seconds": 4.3875,
+      "playback_seconds": 4.3875,
+      "stride": 109.6875,
       "root": [
         128,
         232
@@ -27,18 +27,23 @@
         0,
         6
       ],
-      "sampling": "curated low-clearance full-body poses with whole-image inbetweens",
-      "targeted_review": true
+      "sampling": "v8 keys and timing kept; speckled foot frames 16-18 replaced by nearest clear frame (2026-11-12)",
+      "targeted_review": true,
+      "continuous_stride": true,
+      "travel_curve": [],
+      "phase_curve": [],
+      "motion_timing_revision": 8,
+      "motion_cycle_multiplier": 2.19375
     },
     "baby": {
-      "file": "walk.png",
+      "file": "walk-cadence-v9.png",
       "idle_file": "idle.png",
       "count": 96,
       "columns": 8,
       "reference_height": 205,
-      "cycle_seconds": 2.0,
-      "playback_seconds": 2.0,
-      "stride": 50.0,
+      "cycle_seconds": 4.3875,
+      "playback_seconds": 4.3875,
+      "stride": 109.6875,
       "root": [
         128,
         232
@@ -56,8 +61,13 @@
         0,
         6
       ],
-      "sampling": "curated low-clearance full-body poses with whole-image inbetweens",
-      "targeted_review": true
+      "sampling": "v8 keys and timing kept; speckled foot frames 16-18 replaced by nearest clear frame (2026-11-12)",
+      "targeted_review": true,
+      "continuous_stride": true,
+      "travel_curve": [],
+      "phase_curve": [],
+      "motion_timing_revision": 8,
+      "motion_cycle_multiplier": 2.19375
     }
   }
 }

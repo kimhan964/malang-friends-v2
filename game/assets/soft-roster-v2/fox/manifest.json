@@ -2,104 +2,90 @@
   "species": "fox",
   "stages": {
     "adult": {
-      "file": "walk-fennec-v3-balanced-v4.png",
+      "file": "walk-untwisted-v6.png",
       "idle_file": "idle-fennec-v3.png",
       "count": 128,
       "columns": 8,
       "reference_height": 205,
-      "cycle_seconds": 4.440000020181819,
-      "playback_seconds": 4.440000020181819,
-      "stride": 111.0,
+      "cycle_seconds": 4.8000000218181835,
+      "playback_seconds": 4.8000000218181835,
+      "stride": 120.0,
       "root": [
         128,
         232
       ],
-      "source_key_count": 8,
+      "source_key_count": 4,
       "view": "fixed_three_quarter_right",
       "gait": "alternating_near_far_support",
-      "sampling": "Eight complete generated character poses; corrected RIFE input/output timeline; 512 raw whole-image intermediates sampled to 128 distinct cels; equal alternating contacts",
+      "sampling": "v5 drawings and timing kept; speckled ranges 77-88, 95-97, 112-117 re-interpolated between clean cells (2026-11-12)",
       "targeted_review": true,
       "travel_curve": [],
       "phase_curve": [],
-      "review_revision": 4,
+      "review_revision": 5,
       "continuous_stride": true,
       "skin_revision": 3,
       "pose_times": [
         0,
-        0.13063063063063063,
-        0.1981981981981982,
-        0.4099099099099099,
+        0.25,
         0.5,
-        0.535,
-        0.6036036036036037,
-        0.7972972972972973,
+        0.75,
         1
       ],
       "registration_x": [
         0,
         0,
         0,
-        0,
-        0,
-        0,
-        0,
         0
       ],
-      "balanced_walk_revision": 4,
+      "balanced_walk_revision": 5,
       "contact_phases": [
         0,
         0.5
-      ]
+      ],
+      "source_reference": "fox-contact-correction.png"
     },
     "baby": {
-      "file": "walk-fennec-v3-balanced-v4.png",
+      "file": "walk-untwisted-v6.png",
       "idle_file": "idle-fennec-v3.png",
       "count": 128,
       "columns": 8,
       "reference_height": 205,
-      "cycle_seconds": 4.440000020181819,
-      "playback_seconds": 4.440000020181819,
-      "stride": 111.0,
+      "cycle_seconds": 4.8000000218181835,
+      "playback_seconds": 4.8000000218181835,
+      "stride": 120.0,
       "root": [
         128,
         232
       ],
-      "source_key_count": 8,
+      "source_key_count": 4,
       "view": "fixed_three_quarter_right",
       "gait": "alternating_near_far_support",
-      "sampling": "Eight complete generated character poses; corrected RIFE input/output timeline; 512 raw whole-image intermediates sampled to 128 distinct cels; equal alternating contacts",
+      "sampling": "v5 drawings and timing kept; speckled ranges 77-88, 95-97, 112-117 re-interpolated between clean cells (2026-11-12)",
       "targeted_review": true,
       "travel_curve": [],
       "phase_curve": [],
-      "review_revision": 4,
+      "review_revision": 5,
       "continuous_stride": true,
       "skin_revision": 3,
       "pose_times": [
         0,
-        0.13063063063063063,
-        0.1981981981981982,
-        0.4099099099099099,
+        0.25,
         0.5,
-        0.535,
-        0.6036036036036037,
-        0.7972972972972973,
+        0.75,
         1
       ],
       "registration_x": [
         0,
         0,
         0,
-        0,
-        0,
-        0,
-        0,
         0
       ],
-      "balanced_walk_revision": 4,
+      "balanced_walk_revision": 5,
       "contact_phases": [
         0,
         0.5
-      ]
+      ],
+      "source_reference": "fox-contact-correction.png"
     }
   },
   "skin_revision": 3

@@ -2,14 +2,14 @@
   "species": "rabbit",
   "stages": {
     "adult": {
-      "file": "walk.png",
+      "file": "walk-cadence-v9.png",
       "idle_file": "idle.png",
       "count": 96,
       "columns": 8,
       "reference_height": 205,
-      "cycle_seconds": 2.0,
-      "playback_seconds": 2.0,
-      "stride": 80.0,
+      "cycle_seconds": 5.362500000000001,
+      "playback_seconds": 5.362500000000001,
+      "stride": 128.70000000000002,
       "root": [
         128,
         232
@@ -27,17 +27,22 @@
         0,
         0
       ],
-      "sampling": "8 authored full-body poses, 12 equal samples per adjacent pair; exact closed-loop endpoint"
+      "sampling": "v8 keys and timing kept; ghosted in-betweens redrawn per frame with GPT 2.6 (VARCO), clean mid keys re-interpolated with RIFE, remaining ghosted frames replaced by redrawn cells (2026-11-10)",
+      "continuous_stride": true,
+      "travel_curve": [],
+      "phase_curve": [],
+      "motion_timing_revision": 8,
+      "motion_cycle_multiplier": 2.6812500000000004
     },
     "baby": {
-      "file": "walk.png",
+      "file": "walk-cadence-v9.png",
       "idle_file": "idle.png",
       "count": 96,
       "columns": 8,
       "reference_height": 205,
-      "cycle_seconds": 2.0,
-      "playback_seconds": 2.0,
-      "stride": 80.0,
+      "cycle_seconds": 5.362500000000001,
+      "playback_seconds": 5.362500000000001,
+      "stride": 128.70000000000002,
       "root": [
         128,
         232
@@ -55,7 +60,12 @@
         0,
         0
       ],
-      "sampling": "8 authored full-body poses, 12 equal samples per adjacent pair; exact closed-loop endpoint"
+      "sampling": "v8 keys and timing kept; ghosted in-betweens redrawn per frame with GPT 2.6 (VARCO), clean mid keys re-interpolated with RIFE, remaining ghosted frames replaced by redrawn cells (2026-11-10)",
+      "continuous_stride": true,
+      "travel_curve": [],
+      "phase_curve": [],
+      "motion_timing_revision": 8,
+      "motion_cycle_multiplier": 2.6812500000000004
     }
   }
 }

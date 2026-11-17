@@ -2,14 +2,14 @@
   "species": "hamster",
   "stages": {
     "adult": {
-      "file": "walk.png",
+      "file": "walk-cadence-v9.png",
       "idle_file": "idle.png",
       "count": 96,
       "columns": 8,
       "reference_height": 205,
-      "cycle_seconds": 2.0,
-      "playback_seconds": 2.0,
-      "stride": 50.0,
+      "cycle_seconds": 3.2175000000000002,
+      "playback_seconds": 3.2175000000000002,
+      "stride": 80.4375,
       "root": [
         128,
         232
@@ -27,17 +27,22 @@
         0,
         0
       ],
-      "sampling": "8 authored full-body poses, 12 equal samples per adjacent pair; exact closed-loop endpoint"
+      "sampling": "v8 keys and timing kept; speckled and ghosted-foot frames replaced by nearest clear frame (2026-11-11)",
+      "continuous_stride": true,
+      "travel_curve": [],
+      "phase_curve": [],
+      "motion_timing_revision": 8,
+      "motion_cycle_multiplier": 1.6087500000000001
     },
     "baby": {
-      "file": "walk.png",
+      "file": "walk-cadence-v9.png",
       "idle_file": "idle.png",
       "count": 96,
       "columns": 8,
       "reference_height": 205,
-      "cycle_seconds": 2.0,
-      "playback_seconds": 2.0,
-      "stride": 50.0,
+      "cycle_seconds": 3.2175000000000002,
+      "playback_seconds": 3.2175000000000002,
+      "stride": 80.4375,
       "root": [
         128,
         232
@@ -55,7 +60,12 @@
         0,
         0
       ],
-      "sampling": "8 authored full-body poses, 12 equal samples per adjacent pair; exact closed-loop endpoint"
+      "sampling": "v8 keys and timing kept; speckled and ghosted-foot frames replaced by nearest clear frame (2026-11-11)",
+      "continuous_stride": true,
+      "travel_curve": [],
+      "phase_curve": [],
+      "motion_timing_revision": 8,
+      "motion_cycle_multiplier": 1.6087500000000001
     }
   }
 }

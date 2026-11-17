@@ -2,14 +2,14 @@
   "species": "puppy",
   "stages": {
     "adult": {
-      "file": "walk.png",
+      "file": "walk-balanced-v11.png",
       "idle_file": "idle.png",
-      "count": 96,
+      "count": 128,
       "columns": 8,
       "reference_height": 205,
-      "cycle_seconds": 2.0,
-      "playback_seconds": 2.0,
-      "stride": 50.0,
+      "cycle_seconds": 4.82625,
+      "playback_seconds": 4.82625,
+      "stride": 86.8725,
       "root": [
         128,
         232
@@ -17,27 +17,23 @@
       "source_key_count": 8,
       "view": "fixed_three_quarter_right",
       "gait": "wider_alternating_low_clearance",
-      "registration_offsets": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        -3
-      ],
-      "sampling": "8 authored full-body poses, 12 equal samples per adjacent pair; exact closed-loop endpoint"
+      "registration_offsets": [],
+      "sampling": "v10 timeline kept; ghosted-foot frames 6-11 and 22-25 replaced by nearest clear frame (2026-11-12)",
+      "continuous_stride": true,
+      "travel_curve": [],
+      "phase_curve": [],
+      "motion_timing_revision": 10,
+      "motion_cycle_multiplier": 1.755
     },
     "baby": {
-      "file": "walk.png",
+      "file": "walk-balanced-v11.png",
       "idle_file": "idle.png",
-      "count": 96,
+      "count": 128,
       "columns": 8,
       "reference_height": 205,
-      "cycle_seconds": 2.0,
-      "playback_seconds": 2.0,
-      "stride": 50.0,
+      "cycle_seconds": 4.82625,
+      "playback_seconds": 4.82625,
+      "stride": 86.8725,
       "root": [
         128,
         232
@@ -45,17 +41,13 @@
       "source_key_count": 8,
       "view": "fixed_three_quarter_right",
       "gait": "wider_alternating_low_clearance",
-      "registration_offsets": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        -3
-      ],
-      "sampling": "8 authored full-body poses, 12 equal samples per adjacent pair; exact closed-loop endpoint"
+      "registration_offsets": [],
+      "sampling": "v10 timeline kept; ghosted-foot frames 6-11 and 22-25 replaced by nearest clear frame (2026-11-12)",
+      "continuous_stride": true,
+      "travel_curve": [],
+      "phase_curve": [],
+      "motion_timing_revision": 10,
+      "motion_cycle_multiplier": 1.755
     }
   }
 }

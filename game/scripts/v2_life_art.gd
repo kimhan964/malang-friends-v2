@@ -27,7 +27,9 @@ static func active(m) -> bool:
 	return (m.phase=="home_use" and KEYS.has(m.visit_id)) or (m.phase=="sniff" and m.soft_toy_contact) or (m.phase=="prop_use" and m.visit_id=="acorn")
 static func sample(m) -> Dictionary:
 	var action: String=KEYS.get(m.visit_id,"play")
-	var spec: Dictionary=data(m.species).sequences[action]
+	# Acorn toy: species may ship a calmer, paws-at-mouth nibbling loop; basket/plush keep "play".
+	var sequence: String="acorn" if m.phase=="prop_use" and m.visit_id=="acorn" and data(m.species).sequences.has("acorn") else action
+	var spec: Dictionary=data(m.species).sequences[sequence]
 	var is_toy: bool=m.phase in ["sniff","prop_use"]
 	var duration: float=preload("res://scripts/home_animation.gd").duration(m.visit_id)
 	var progress: float=clampf((m.elapsed-EDGE)/maxf(.01,duration-2*EDGE),0,1)
@@ -41,7 +43,7 @@ static func sample(m) -> Dictionary:
 		cels=frames(m.species,action,true)
 		index=mini(cels.size()-1,roundi(t*(cels.size()-1)))
 	else:
-		cels=frames(m.species,action)
+		cels=frames(m.species,sequence)
 		if is_toy: index=mini(31,int(fposmod((m.elapsed if m.visit_id=="acorn" else m.soft_toy_time)/float(spec.duration),1)*32))
 	var hand=Vector2(146,194)
 	if action=="play" and m.species==3:

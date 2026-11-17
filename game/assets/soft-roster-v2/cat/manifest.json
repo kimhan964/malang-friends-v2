@@ -2,60 +2,52 @@
   "species": "cat",
   "stages": {
     "adult": {
-      "file": "walk.png",
+      "file": "walk-bear-reference-v14.png",
       "idle_file": "idle.png",
       "count": 96,
       "columns": 8,
       "reference_height": 205,
-      "cycle_seconds": 2.0,
-      "playback_seconds": 2.0,
-      "stride": 50.0,
+      "cycle_seconds": 4.68,
+      "playback_seconds": 4.68,
+      "stride": 35.62136608124122,
       "root": [
         128,
         232
       ],
-      "source_key_count": 8,
+      "source_key_count": 4,
       "view": "fixed_three_quarter_right",
-      "gait": "wider_alternating_low_clearance",
-      "registration_offsets": [
-        0,
-        10,
-        8,
-        7,
-        4,
-        0,
-        10,
-        6
-      ],
-      "sampling": "8 authored full-body poses, 12 equal samples per adjacent pair; exact closed-loop endpoint"
+      "gait": "separate_paw_forward_steps",
+      "registration_offsets": [],
+      "sampling": "v13 cat drawings, stride and timing kept; loop seam 89-95 re-interpolated from 88 to 0 so the head no longer jumps at 95->0 (2026-11-11)",
+      "continuous_stride": true,
+      "motion_timing_revision": 13,
+      "motion_cycle_multiplier": 1.755,
+      "travel_curve": [],
+      "phase_curve": []
     },
     "baby": {
-      "file": "walk.png",
+      "file": "walk-bear-reference-v14.png",
       "idle_file": "idle.png",
       "count": 96,
       "columns": 8,
       "reference_height": 205,
-      "cycle_seconds": 2.0,
-      "playback_seconds": 2.0,
-      "stride": 50.0,
+      "cycle_seconds": 4.68,
+      "playback_seconds": 4.68,
+      "stride": 35.62136608124122,
       "root": [
         128,
         232
       ],
-      "source_key_count": 8,
+      "source_key_count": 4,
       "view": "fixed_three_quarter_right",
-      "gait": "wider_alternating_low_clearance",
-      "registration_offsets": [
-        0,
-        10,
-        8,
-        7,
-        4,
-        0,
-        10,
-        6
-      ],
-      "sampling": "8 authored full-body poses, 12 equal samples per adjacent pair; exact closed-loop endpoint"
+      "gait": "separate_paw_forward_steps",
+      "registration_offsets": [],
+      "sampling": "v13 cat drawings, stride and timing kept; loop seam 89-95 re-interpolated from 88 to 0 so the head no longer jumps at 95->0 (2026-11-11)",
+      "continuous_stride": true,
+      "motion_timing_revision": 13,
+      "motion_cycle_multiplier": 1.755,
+      "travel_curve": [],
+      "phase_curve": []
     }
   }
 }
